@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+downloads/
+transcripts/
+.env
+*.code-workspace
