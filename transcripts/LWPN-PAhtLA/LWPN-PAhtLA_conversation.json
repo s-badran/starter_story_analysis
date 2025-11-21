@@ -1,0 +1,185 @@
+{
+  "source": "/home/salouri/Projects/starter_story/transcripts/LWPN-PAhtLA/LWPN-PAhtLA_raw.json",
+  "segments": [
+    {
+      "speaker": "A",
+      "text": "Cursor directory. We built it in a weekend and now it makes 35k per month.",
+      "start": 160,
+      "end": 4240
+    },
+    {
+      "speaker": "B",
+      "text": "This is Pontus, a developer bored on his flight to France when he spotted an opportunity. The second he landed, he called his friend, they coded for three hours straight and launched a simple directory.",
+      "start": 4400,
+      "end": 16920
+    },
+    {
+      "speaker": "A",
+      "text": "When I landed, I called Victor and said, we need to build this directory for Cursor rules.",
+      "start": 16920,
+      "end": 21120
+    },
+    {
+      "speaker": "B",
+      "text": "That three hour build is now doing $34,000 a month with 99.8% profit margins, and they only work on it through three hours a month.",
+      "start": 21200,
+      "end": 30210
+    },
+    {
+      "speaker": "A",
+      "text": "We posted a site on X and it instantly took off. I have never seen something like that before.",
+      "start": 30290,
+      "end": 35250
+    },
+    {
+      "speaker": "B",
+      "text": "I thought directories were dead in 2025, but Pontus has proved me wrong and showed me that anybody can do this. So I brought Pontus onto the channel to break down exactly how he did it. In this video, we'll dive into exactly what tools he used to build a $34,000 per month website in just three hours. The secret to why his directory took off when many others don't, and his advice for anyone building like this right now. All right, this one is crazy. So let's get into it. I'm Pat Walls and this is Starter Story. Hey, guys. I wanted to pop in here with a very important message. Black Friday is around the corner, and you know I'm going to be doing something I probably shouldn't. To celebrate over 700,000 subscribers here on YouTube. I'm going to be giving away one of the best deals we've ever done on Starter Story. Last year, our early Bird Black Friday deal sold out in less than two hours. In this year, I think it'll sell out in less than 1, and I don't want any one of my subscribers on YouTube to miss this. So here's the deal. I've set up a VIP list where you will be notified about our Black Friday deal before anyone else. And trust me, it's going to be one of the best deals we've run in years, with extras and bonuses I probably won't ever do again. If you want to get notified as soon as it's live, just head to the first link in the description and you can join that VIP list right now for free. Thank you everyone, for watching and supporting the channel. Let's get into the video. All right, Pontus, welcome to the channel. Tell me about who you are, what you built, and what's your story?",
+      "start": 35410,
+      "end": 125530
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah, my name is Pontus, and together with my best friend Victor, we spent the past two years bootstrapping our startup, Mide, which is Our long term focus. Along the way we built Cursor Directory, Languin and several other open source projects. We love building in public, testing ideas quickly and showing that even a small weekend project can turn into something big. One example that is the directory we built, Cursor Directory. We build it in a weekend and now it makes 35k per month.",
+      "start": 125930,
+      "end": 150340
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, cool. I mean you're building a lot of cool stuff, but what I really want to dive into is the directory. Can you explain what a directory is and what your directory does?",
+      "start": 150340,
+      "end": 158980
+    },
+    {
+      "speaker": "A",
+      "text": "So basically a directory is of course made for discoverability, to find something that you're interested in. And Cursor Directory of course is made for cursor developers to explore and find new ideas. We grown the site to 49,000 registered users, 2.2 million unique visitors since launch. And then of course we have a gross margin of 99 and operation cost is just under 500 bucks. And of course it's open source, all the rules are merged in GitHub so the maintenance cost is like three hours per month. And then we continue building our main startup.",
+      "start": 159380,
+      "end": 191930
+    },
+    {
+      "speaker": "B",
+      "text": "Well that's absolutely insane. You just built this directory in a couple hours, millions of people have visited, it's made tens of thousands of dollars. I want to understand, how do you even get the idea to do something like this?",
+      "start": 191930,
+      "end": 201690
+    },
+    {
+      "speaker": "A",
+      "text": "The whole idea came up when I actually took the flight down to move to France. It's a three hour flight and I downloaded a lot of videos to look on tech heavy stuff and I downloaded some curso and then I discovered this common pattern about rules. So it was kind of mind blowing for me that there were no place to find these rules. In one specific place you could Google and find some obscure gist on GitHub or some forums, but no real clear answer to finding these rules in one place. And that's basically how the idea came up.",
+      "start": 201690,
+      "end": 229990
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, cool. So you find this idea, it doesn't exist yet. How do you go about building it?",
+      "start": 229990,
+      "end": 234150
+    },
+    {
+      "speaker": "A",
+      "text": "Both me and Viktor has a lot of experience building apps and websites through the years. So we knew exactly what we needed to do. I called Victor as soon as I landed on the Airbnb and said to him like, we need to create a directory for rules for Cursor rules. In just a matter of minutes he spun up Figma and started design while I started initial project with Next JS and I created a hard coded JSON file with some rules that I found online. And in matter of like in a half an hour we had something up in Vercel ready to Click around on. I bought the Cursor directory domain, which was a really, really good domain according to the site, of course. So we built the site completing three hours and. But then we just continued to iterate. Victor and I had been working together for several years. We already know our DNA in terms of design code. So that helped a lot, of course.",
+      "start": 234310,
+      "end": 280510
+    },
+    {
+      "speaker": "B",
+      "text": "So, I mean, this is one of the reasons why I wanted to bring you on the channel. The fact that you did it in three hours and had the balls to actually launch it and ship it and maybe be okay with it not feeling perfect. What would be your advice for anyone watching this that wants to ship fast?",
+      "start": 280670,
+      "end": 293950
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah, so of course I have this main startup that we focus on day in and day out. Right. We work a lot of hours, usually once a week or twice a week. You find these things that you can really do really, really fast. But we hold off, but in case we didn't. And I think that's something that comes like a thread through how we work. We find these ideas and that comes together when you dial in and work fully on something that you committed to and being out there and seeing solutions that you can do. Yeah, I think it's a combination of dialed in into what you're doing and being out there and finding ideas at the same time.",
+      "start": 294110,
+      "end": 326170
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, cool. What I'm hearing there, what I think is really cool is for the Cursor directory, you didn't have a lot of expectations and you just said, screw it, I'm going to launch. So that's where I have a few more questions. Is okay, yeah, sure. You build this, you build it really fast. Nowadays anybody can build stuff fast. How did you actually launch this and get millions of users in the first week?",
+      "start": 326170,
+      "end": 344120
+    },
+    {
+      "speaker": "A",
+      "text": "That was also the first week in France. So we did a bunch of different things. So I posted the Cursor directory on X, of course, at the initial release, I mean, we're building public on X. We share everything we do all the way to the code. Right. We are fully open source. So I think we had like 1 million impressions on one of the posts and of course we had several posts. So we have a developer following from the beginning. But then I also posted on Hacker News. We ended up on the, on the front page and a lot of YouTubers started to cover Cursor Directory into the videos. So there were a lot of coverage around Cursor Directory. We grow steadily because we share knowledge along the way. And I think that really tied together with Cursor. Right. It's a developer focused community and we build this super fast. We have this tech heavy design approach.",
+      "start": 344200,
+      "end": 392980
+    },
+    {
+      "speaker": "B",
+      "text": "Okay. So one thing I notice about Cursor Directory and your other startups when I was checking them out is the design. You may not realize this, but I feel like your design is a competitive advantage here. When I go to Cursor Directory, this thing is beautifully designed and I can imagine that was one reason why it kept getting shared to a bunch of other people. So I want to ask you, for anyone watching this, how to design beautiful apps, how to do it quickly, what are the secrets to designing products?",
+      "start": 393220,
+      "end": 418320
+    },
+    {
+      "speaker": "A",
+      "text": "Well, yeah, so basically we have a formula. Of course it helps a lot to have a great designer as a co founder. It comes down to the small, small things that are also the hardest. Like keep it simple, find something that you like, stay with pride and find the patterns and the tonality of the websites that you like. And of course learn from others. If I will start from the beginning, I would probably find websites that I love and take bits from it and learn from that. In this case, of course, we already have a design system. We already have components that we can reuse from our previous startups. So it was much, much easier for us. There are a lot of great designers out there that you can follow on a huge community you can learn from. I usually tweet out that design is more important than ever, especially in this fast paced, AI generated website world that we started to live in. Design will actually be the things that puts you apart from the competitors, right, because it's easy to create a website today, but all of them usually looks the same. So it's not much that you need to be different on, but you need to find the tonality and the angle that you believe in is right. And that's going to be your advantage.",
+      "start": 418320,
+      "end": 483560
+    },
+    {
+      "speaker": "B",
+      "text": "What I love about Pontus Story is that he built the MVP of his app in just three hours. He did not overthink it, he just saw an opportunity and shipped it right after he landed from his flight from France. This is proof that if you know how to build with AI, you can move insanely fast. But here's the thing, most people waste weeks stuck in tutorials or second guessing themselves and this causes people to never actually ship. Well. This is exactly why we created Starter Story Built. It is our program where you will build and launch your project using just AI tools. And in a matter of weeks you'll master how to talk to AI so it will build apps for you. And the best part is that you won't even be doing this alone. You'll be a part of a group of founders, all sharing feedback and staying accountable every single day. So if you're ready to finally ship your idea, head to the first link in the description to claim your spot. We are starting our next cohort very soon, so be sure to go there and claim your spot right now before it runs out. Okay, now let's get back to the video. Okay, so another reason why I wanted to bring you on Pontus is I haven't heard of a directory that has been crushing it in a long time. I remember a couple years ago, directories were kind of taking off. Nowadays I don't see that as often anymore. I thought directories were dead. Clearly that's not the case. So my question for you is, do directories still work in 2025 or are they dead?",
+      "start": 483640,
+      "end": 560860
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah, I mean, I get these questions a lot like aren't directories dead? But it truly is. Directory still is incredibly successful in 2025, especially if you build something for the right audience. And in this case, of course, we found the audience at the right time. That the core directly solves a timeless problem. Like you need to find something that you're interest. And in this new AI world where we live in like cursor people are starting to look through how to do things and find the right answers. That's where directories really, really shine. Right? It's a collection of things that a bigger audience are interested in at the same time. And if you can catch that wave, you're really going to find a lot of like visitors and a lot of opportunities. If you catch it, if you can own it, then it's super powerful.",
+      "start": 560940,
+      "end": 605680
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, cool. Pontus, well, thank you for sharing all that. I'd love if you actually pulled up up your directory right now and showed me how it works, how it looks and what's the business model. Could you pull it up right now?",
+      "start": 605680,
+      "end": 615830
+    },
+    {
+      "speaker": "A",
+      "text": "Okay, so yeah, this is cursor directory. So you have a bunch of different rules that you can go in and then you copy those, then you add that to your cursor rules in your editor. It's kind of basic. You can filter on your like what you're interested in. You can see the popular ones, you can see official ones. Then of course you can search for different things. We enable that you could register and create your own account and be a member of the community so you can post your own stuff. People can vote on interesting things. Here's something that I can just share whatever they are interested in and get upvotes. People can find the Jobs and companies can share the job ads. So it's a paid ad that they pay to get listed some months after the MCPS came along. And that was also the thing that made Cursor Directory really fly. So that was the second way where we saw a huge adoption of the site because we created this MCP searchable way to find and extend your cursor experience. And these are also featured so you can pay to get them featured on the site. And then we also made it possible to generate your own cursor rules tailored to your to your website. In JavaScript you have this package JSON which defines all your dependencies. You could just upload that and then you get your defined cursor rules back to tailor that to you. Because we really, really saw that developers wanted to tailor their versions or their cursor experience, but it did. Now how to start? This was a good way for developers to start this, to get the grasp of it.",
+      "start": 615830,
+      "end": 706890
+    },
+    {
+      "speaker": "B",
+      "text": "All right, well, thank you for sharing. That looks awesome. I'd like to switch topics a little bit and talk about Tech Stack. How did you actually build this app and what tools you use right now.",
+      "start": 706890,
+      "end": 715130
+    },
+    {
+      "speaker": "A",
+      "text": "So I think this is the important one. Like you should stick with something that you know and already use every day, right? So we stick what we know. So we chose Next JS fully typescript shed seeing components recent for email, open panel for analytics and just connected with GIF tab and shared it on Vercel. So Vercel is our hosting provider. Payments we use Polar, which is a great merchant of record to handle payments, especially if you're your company. And then on the productivity side, we of course use Cursor to code Notion for product management, GitHub for version control. Every tool we choose to share have the same velocity. Like no servers, no friction, just focus on building and shipping fast because that's really what matters, right? Getting it out there to our users. All in all, 525 bucks per month with a 99.8 gross margin.",
+      "start": 715210,
+      "end": 768340
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, cool. Well thanks for sharing that. Being transparent about the numbers. That's an insane profit margin. The last question that I have for you that we ask everyone who comes on starter story, what advice would you have for anyone getting started right now, whether they're building a directory or building cool SaaS, software, apps, whatever it is online, what would be your advice?",
+      "start": 768420,
+      "end": 784260
+    },
+    {
+      "speaker": "A",
+      "text": "Start it. Sounds simple, but. But here's the thing. When you start building and when you commit to something, you eventually getting dialed in, you create your own luck by constantly finding ways to move forward shipping, sharing and iterate. One thing will lead to another, and there's really no such thing as failure. When you build something, the worst thing that can happen is you learn and then you take the next step to find your ways forward.",
+      "start": 784500,
+      "end": 804240
+    },
+    {
+      "speaker": "B",
+      "text": "Well, that's great advice. Thanks for coming on the channel Pontus, sharing all this amazing story, amazing business, amazing stuff that you're building other than cursor directory. So thanks for coming on and sharing.",
+      "start": 804400,
+      "end": 814160
+    },
+    {
+      "speaker": "A",
+      "text": "Thanks for having me.",
+      "start": 814160,
+      "end": 814950
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, first of all, that advice was amazing. Just get started. You don't know if this directory that you build is going to be a complete flop or is going to make $34,000 a month. There's no way to know that without actually getting started, building something and seeing what happens. It all starts with a simple idea. And nowadays with what you can do with AI, an idea is all you need to potentially build something that changes your life. This is why we launched Starter Story Build, where we will help you take your idea from your head, turn it into a real app using only AI tools in a matter of weeks. So if you're ready to launch your project and you're serious about actually building something, head to the first link in the description to check out Starter Story Build. All right, that's it for this episode. Thank you guys for watching. We'll see you in the next one. Peace.",
+      "start": 815340,
+      "end": 859290
+    }
+  ]
+}

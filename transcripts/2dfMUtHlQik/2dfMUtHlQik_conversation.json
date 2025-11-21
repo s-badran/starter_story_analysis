@@ -1,0 +1,161 @@
+{
+  "source": "/home/salouri/Projects/starter_story/transcripts/2dfMUtHlQik/2dfMUtHlQik_raw.json",
+  "segments": [
+    {
+      "speaker": "A",
+      "text": "Last month we made over 440k.",
+      "start": 240,
+      "end": 3200
+    },
+    {
+      "speaker": "B",
+      "text": "Meet Julian, a developer from Argentina who built an app that makes over $400,000 a month. But it didn't start that way. Before the success, Julian was a dude at the gym who discovered a different app that he thought was pretty cool. However, instead of just using it himself, he thought, what if I built something better? And that's exactly what he did. He built an mvp, posted about it on Reddit, and the rest is history.",
+      "start": 3360,
+      "end": 28080
+    },
+    {
+      "speaker": "A",
+      "text": "I posted this thread on how I build. We got our first couple thousand users. I can't really remember, but it was a lot. That was the biggest high probably I've ever had.",
+      "start": 28320,
+      "end": 39080
+    },
+    {
+      "speaker": "B",
+      "text": "I brought Julian onto the channel to break down this story and how he actually built an app used by hundreds of thousands of people. In this episode, we'll dive into the original app he cloned in just two months. The simple Reddit strategy that got him his first users and product market fit and the marketing playbook that that scaled his app to over $400,000 a month. Let's dive in. I'm Pat Walls and this is Starter Story. All right, Julian, welcome to the channel. Tell me about who you are, what you built, and what's your story?",
+      "start": 39080,
+      "end": 70870
+    },
+    {
+      "speaker": "A",
+      "text": "Hey, Pat, I'm Julian. I'm one of the co founders and developer of Gravel, an AI fitness app that provide smart workouts for the gym. We launched around two years ago and now we have over 70,000 subscribers. Last month we made over 440k.",
+      "start": 70870,
+      "end": 89700
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, over 400k with an app is insane. We're going to get all into that, but before we do, I want to understand a little bit more about your background. How do you even get into building an app?",
+      "start": 90180,
+      "end": 99700
+    },
+    {
+      "speaker": "A",
+      "text": "I grew up in Argentina. My dad used to own a fitness center. I pretty much spent all my time outside of school just playing sports and at the gym. I then got into software engineering and moved to Australia. And yeah, here I work from small startups to big tech companies like Atlassian, few TV channels, even an investment fund. And around Covid, my best friend and also our partner came up with the idea of starting a company. It was like at start, a influencer marketing platform for mobile games. That's how we started. Fast forward a couple of years. We ended up being some sort of a marketing agency, which was something that I didn't sign up for, neither did the guys. But the good thing is that we learn a lot about user acquisition and marketing, but also what the numbers were. So in terms of revenue and after seeing some of those numbers, we obviously thought Apps make a lot of money, and especially fitness apps. So we kind of use our background to decide that we wanted to start our own app.",
+      "start": 99780,
+      "end": 163100
+    },
+    {
+      "speaker": "B",
+      "text": "You had this business you started with partners. It wasn't really what you wanted to build. Maybe it wasn't fully scalable. How does that turn into building an app that now makes over $400,000 a month?",
+      "start": 163580,
+      "end": 173580
+    },
+    {
+      "speaker": "A",
+      "text": "The business wasn't doing great, and because we transitioned into this kind of agency format, I had all this, like, energy for developing something that wasn't being used. So started with a more like a workout tracker kind of app. So apps like heavy, strong, that kind of thing. But as I was building it, I noticed that, okay, I'm not adding any value. It just felt like copy of what they were doing. And then it was one of my mates, he showed me Fitbot. And fitbot is one of the biggest workout app. And when he showed me the app, I was like, oh, this is amazing. Because it kind of provided you with workouts on the spot and you didn't really have to do anything else. But then I started using it, doing some research. I noticed that the workouts were weird and even a bit dangerous sometimes. And like, the more I used it, I was like, wow, okay, these workouts are actually bad. That's what triggered me. And then I was like, okay, this is it. We need to build fitbot UI UX with an actual proper workout engine. That's kind of when we went all in on building it.",
+      "start": 173660,
+      "end": 241290
+    },
+    {
+      "speaker": "B",
+      "text": "Can you tell me a little bit more about how you built it and how long it took?",
+      "start": 241530,
+      "end": 244490
+    },
+    {
+      "speaker": "A",
+      "text": "Initial MVP took around two to three months. Maybe we can split the MVP into two parts. First part being pre fitbot and then after fitbot, the first part of the MVP was more of the tracker. Then we transitioned into the fitbot stuff. The. And that's when things got trickier. There's a lot of business logic around building custom workouts for people. There's just a lot of different settings and combinations. Things like equipment, things like your weekly goal. How often do you go to the gym? Are you consistent? Your gender, your weight, your age? There's just so many things to consider. That was definitely the most challenging part.",
+      "start": 244890,
+      "end": 284930
+    },
+    {
+      "speaker": "B",
+      "text": "Tell me about how you launched this, how you got your first customer. What did you do to get this app off the ground and get into people's hands?",
+      "start": 285330,
+      "end": 291250
+    },
+    {
+      "speaker": "A",
+      "text": "I'm a massive supporter of Reddit as a distribution channel. I posted this thread on how I build gravel. Back in the day, it was called Gainsai and I shared kind of the technical specs around it. It got over a couple hundred likes within the first couple hours and over 300,000 impressions. Yeah, we got our first couple thousand users. I can't really remember, but it was a lot. We found out that because their developers and they like tech and some of them might like going to the gym, but they feel like it's a bit intimidating. I feel like a lot of them were actually using the app. And then we started getting feedback about like bugs and feature requests and we're like, okay, we were onto something and that was the final push that we needed because at this point the app was free. And we're like, okay, now we need to build like a serious business out of this and try to start running some apps for it.",
+      "start": 291530,
+      "end": 344770
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, let's talk about something that is changing the game for builders right now. AI. Now, I know we talk about AI apps a lot on this channel, but I still get this question every day from builders. Where do I even start? That's where. HubSpot for Startups AI Adoption Playbook comes in handy. It's a free guide with a three step framework on how to use AI inside your business. Inside, you'll learn how to spot AI opportunities in your workflow, implement AI without hiring expensive consultants, and see the exact playbooks companies are using to get real results. What's even cooler is its source from executives at HubSpot, Anthropic and Replit, some of the biggest AI companies in the world right now. My favorite part is inside the case studies where you will see exactly how one company booked 11,000 meetings and another resolved customer issues 39% faster using this framework. These are real numbers from real businesses. So if you're ready to get ahead in the AI race, download hubspots for startups Free Free AI Adoption Playbook at the first link in the description below. Thank you to HubSpot for sponsoring this video. Let's get back into it. I'm sure that probably isn't what got you to over $400,000 a month. So what has been the actual distribution strategy or the secret sauce behind gravel on how it grew to over $4 million a year?",
+      "start": 345210,
+      "end": 424190
+    },
+    {
+      "speaker": "A",
+      "text": "For us, a bigger distribution was paid ads. We started running ads as soon as we obviously added the subscription model. I still remember like running our first app, we got a subscription within the first 10 minutes of activating the ads. Yeah, that was the biggest high probably I've ever had. And after that we translated the app to Spanish, we started running ads on South America and we were spending less than 50 bucks a day on ads. And that's what worked for us from the start up until this day.",
+      "start": 424270,
+      "end": 457300
+    },
+    {
+      "speaker": "B",
+      "text": "The next question I have for you that I'm curious about is you built this app. It's huge. It's doing over $400,000 a month. What would be your top learnings or top tips for anyone building apps in 2025, specifically consumer apps or even fitness specific?",
+      "start": 457740,
+      "end": 473420
+    },
+    {
+      "speaker": "A",
+      "text": "Tip number one for sure will be to validate before spending money on ads. And when I say validate, it's not just that the product work, but also that people are willing to pay for it. That's also something very important. Tip number two would be, and this is where we kind of got L, because, well, I'm Spanish speaking and Matthias as well. So we're like, it makes sense for us to translate it into Spanish. And then potentially running ads that are cheaper in South America, the U.S. even though we all want to end up there and running ads there is expensive. There's a lot of competition. Tip three, start small. You can pay influencers or content creators as low as 50 bucks for some piece of content. You can use AI tool to create videos, you can use Capcut to edit your own videos, and you can get some pretty good results with that. It's not as hard as you think to create an ad. The hard thing is creating the volume. And tip four, like I said, UGC is king. You'll see that most of the ads that work out there are UGC content. You're seeing a lot of AI videos and that's cost of producing them is cheap and they're easy to test. Last thing would be copy, copy and copy. Good thing about Meta Ads library is that it's all public. You can go into any of your competition's dashboard and see you know which ads are working for them, where they're putting more money. And yeah, there's no secret sauce there. Just copy what works for them and start like that. It'll probably work for you. I would definitely start there.",
+      "start": 473660,
+      "end": 567200
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, cool. Well, those tips were amazing. I'd love if you could show us what your app does and give us a quick demo of how it works and how something like this could potentially make $400,000 a month.",
+      "start": 567520,
+      "end": 576420
+    },
+    {
+      "speaker": "A",
+      "text": "This is our app. This is Gravel. We're a fitness app specifically designed for strength training and gym workouts. This is the screen you'll see when you first download the app. So this is our landing screen. We get your name and then we'll just go and ask you a series of questions like why do you want to use the Fitness app. We ask you about your experience. Let's say I'm an advanced user. Depending on your level we'll ask more specific questions like what's your one rep max for certain exercises, your goals, Ask you about your training frequency, your working split like we use AI here and this make sure that you are showing the users that this is an AI app because that sells. Now again, more questions specific to how you want to train excluded muscles and focus muscle. Help us, you know, design the workout towards something that you kind of like what do you train? Because like I said, we adapt to your gyms and anywhere you train. So here is where you create kind of that stream profile, this kind of screen where we generate and show the user that we're generating a custom workout. You get to this final screen where you get your plan kind of summary. Here we go. Hard paywall before you sign in for the first time, it's like how many users are actually going to pay before they actually see their product? And the answer is a lot. This is what you see when you first open the app. And the main thing is the workout card. That's the main thing about the app. That's 90% of your flow is going to be within the active workout. Here you just get a list of exercises that you need to do. From here on is like kind of works like a workout tracker. We have proper content for every video, we have a description and how to do each exercises and then we have a lot of smart AI features like you know, if you sort exercises they weights are adjusted based on the order that there are. The app is pretty complete in terms of everything you need to do at the gym. Also things like recovery rate will tell you how tired or not your muscles are based on your previous workout. And that includes external workouts from Apple, Health from Strava. It could be runs, it could be anything. We'll learn from that and we'll adapt your workouts accordingly. And one of the important thing that we grew a lot with this and that was our support. So we have a 247 support chat inside the app and that includes everything from articles to messages and we'll have someone reply an actual person, not an AI. That's something that users value a lot. That's pretty much it.",
+      "start": 576500,
+      "end": 729520
+    },
+    {
+      "speaker": "B",
+      "text": "On a similar note, I'm curious, what's your tech stack? How did you build this app?",
+      "start": 730000,
+      "end": 733880
+    },
+    {
+      "speaker": "A",
+      "text": "We use React, native and expo for the backend. I did NET for most of the core functionality. I've also used Next and React to build some like internal admin dashboards of AI. So I try to stay kind of niche with the what I use cursor a lot, but I'm very specific which files to touch. And don't let the AI just go rogue. Basically. Yeah. Hey, guys, Julian here with a little async update from the future. We finished recording the video and realized that we didn't really go into numbers and financials of the business. Obviously very important for you to know and I'm also happy to share some of them. Our expense number one is Meta and TikTok and then maybe a little bit of Google, maybe a little bit of Apple Search. I'd say a third is somehow accurate. A third of our revenue, that is. This doesn't include making the ads, but just the cost of running them. Expense number two is salaries. It was mainly just the three of us for a first year. I did the development and then Matthias and Aaron did the growth and ads. Since then, we've grown the team to probably maybe 13 to 14 people, give or take. There's some like part time, there's some contractors. I say somewhere between 50 and 80k obviously. Let's not forget the 15% from Apple revenue cut. It's a 1% clip from revenue as well. We have mmps, which is maybe a grand a month. And then in terms of infrastructure for running the actual app, like servers and AI bills and other tools, I say around a grand a month as well.",
+      "start": 733880,
+      "end": 828820
+    },
+    {
+      "speaker": "B",
+      "text": "The last question that I want to ask you and what we ask all founders who come on starter story, what would be your advice to anyone watching this right now that wants to build something?",
+      "start": 829710,
+      "end": 837390
+    },
+    {
+      "speaker": "A",
+      "text": "Be proud of what you build. Because at least for me, the motivation that comes from building something that I'm excited about can be matched by anything else. It's always easier to grind and work for $0 when you love what you're doing. Another thing will be to keep pushing then don't give up too soon. It's a long road. So building it is just not even half of it. Be ready to do all the hustling of, you know, the Reddit stuff that I did, for example, and then having ads that don't work and you're gonna get some punches. So you need to know that you just need to keep going. And in saying that, it's also knowing when to. When to give up. Actually when you're like, all right, this product doesn't work. So that's also a very important thing. In our case was our previous startup. We probably dragged that for an extra year. We should have probably call it days like way earlier.",
+      "start": 837630,
+      "end": 889700
+    },
+    {
+      "speaker": "B",
+      "text": "Well, that's great advice. Thank you, Julian for coming onto the channel.",
+      "start": 890260,
+      "end": 893620
+    },
+    {
+      "speaker": "A",
+      "text": "Thank you, Pat. Thanks for the time.",
+      "start": 893700,
+      "end": 895300
+    },
+    {
+      "speaker": "B",
+      "text": "What I love about Julian's story is his app is crushing it. It's making over $400,000 a month, but also it's something he's super passionate about. Julian clearly loves fitness and working out. And how cool is it that you get to build an app that makes hundreds of thousands of people's lives better and it's something that you love too. That is exactly why we launched Start a Story Build so we you can do the same in Starter Story Build. We will help you ship your idea to the real world in just a couple weeks as long as you are ready to actually launch your product. So if you are, head to the link in the description to check out Starter Story Build. That's it for this episode of Starter Story. Thank you guys for watching. I'll see you in the next one. Peace.",
+      "start": 895300,
+      "end": 933020
+    }
+  ]
+}
