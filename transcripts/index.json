@@ -1,0 +1,16 @@
+{
+  "nsn94Ad47GY": {
+    "title": "How We Built It: $85K Mobile App",
+    "duration": 775,
+    "url": "https://www.youtube.com/watch?v=nsn94Ad47GY",
+    "created_at": "2025-11-21T15:30:43.009803Z",
+    "status": "completed",
+    "audio_file": "/home/salouri/Projects/starter_story/downloads/nsn94Ad47GY.wav",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/nsn94Ad47GY",
+    "transcript_files": {
+      "raw": "/home/salouri/Projects/starter_story/transcripts/nsn94Ad47GY/nsn94Ad47GY_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/nsn94Ad47GY/nsn94Ad47GY_conversation.json"
+    },
+    "transcribed_at": "2025-11-21T15:31:36.672770Z"
+  }
+}

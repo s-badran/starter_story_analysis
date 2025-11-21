@@ -24,6 +24,9 @@ pip install -r requirements.txt
 
 ```bash
 export ASSEMBLYAI_API_KEY="<your_key_here>"
+
+# or put it in a local .env file in the repo root:
+# ASSEMBLYAI_API_KEY=<your_key_here>
 ```
 
 4. Edit `videos_list.json` to include Starter Story video URLs (one per entry), then run:

@@ -1,0 +1,215 @@
+{
+  "source": "/home/salouri/Projects/starter_story/transcripts/nsn94Ad47GY/nsn94Ad47GY_raw.json",
+  "segments": [
+    {
+      "speaker": "A",
+      "text": "My name is Jack Sweeney.",
+      "start": 160,
+      "end": 1600
+    },
+    {
+      "speaker": "B",
+      "text": "And I'm Nick Sweeney and we're the co founders of Coherence. We have over 15,000 downloads and around $85,000 in revenue.",
+      "start": 1840,
+      "end": 9920
+    },
+    {
+      "speaker": "C",
+      "text": "Meet Jack and Nick Sweeney, two brothers who built a mobile app this year that's already made $85,000. But here's the thing. Instead of building the app first and then trying to market it, they did the exact opposite. Content before product, I didn't actually write.",
+      "start": 10080,
+      "end": 27600
+    },
+    {
+      "speaker": "A",
+      "text": "A single line of code in this.",
+      "start": 27600,
+      "end": 29280
+    },
+    {
+      "speaker": "C",
+      "text": "Entire code base and this is were successful. So I brought them onto the channel to break down this entire playbook. And in this video we'll dive into how they validated their idea before building anything. Their five step framework that anyone can use to find an app idea worth building and why you need to stop coding and start creating or else you might never make it. All right, this one's going to be fun. Let's get into it. I'm Pat Walls and this is Starter Story. All right, Jack and Nick Sweeney, two brothers, welcome to the channel. Tell me about who you are, what you build and what's your guys story.",
+      "start": 29280,
+      "end": 68420
+    },
+    {
+      "speaker": "A",
+      "text": "Awesome, thanks for having us, Pat. My name is Jack Sweeney.",
+      "start": 68740,
+      "end": 72020
+    },
+    {
+      "speaker": "B",
+      "text": "And I'm Nick Sweeney and we're the co founders of Coherence, which is an app that helps you regulate your nervous system. We launched eight months ago and we have over 15,000 downloads and around $85,000 in revenue.",
+      "start": 72020,
+      "end": 84460
+    },
+    {
+      "speaker": "C",
+      "text": "Beautiful. Before we get into the app and what you build, I'd love to hear a few more numbers behind it. Can you share some more details about fastest thing grew?",
+      "start": 84460,
+      "end": 91520
+    },
+    {
+      "speaker": "B",
+      "text": "Since we launched, we've averaged around $11,000 a month in revenue and our biggest month was $22,000 in revenue. We've just surpassed 2,000 users and we have 15,000 downloads so far.",
+      "start": 92000,
+      "end": 106400
+    },
+    {
+      "speaker": "C",
+      "text": "Okay, I mean, that's amazing. Before we get into the app, tell me about your background, how you get.",
+      "start": 106479,
+      "end": 110840
+    },
+    {
+      "speaker": "A",
+      "text": "Here, how you build this 100%? My background is in content. Originally in university I had a YouTube channel and grew that to about 20,000, 000 subscribers. But during COVID I ended up leaving and decided to pursue entrepreneurship. So I started building some simple web apps with the no code tool. And the first couple apps that I built totally flopped, but just kept iterating and getting better.",
+      "start": 110840,
+      "end": 140390
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, and my background is more of an athletic background. So I was a Division 1 cross country skier. But I ended up getting injured and the doctor said that my career was over. I wasn't able to walk for 10 months. He said I wouldn't be able to walk Normally again. And so out of desperation, I started doing breath work in earnest and I was able to walk within three months. And then six months later, I was training full time again. And so after that experience of resurrection with breath, I've begun coaching and helping people reverse their chronic conditions. And I wanted to find a way to help us scale the medicine of breathwork to reach more people and change more people's lives.",
+      "start": 140470,
+      "end": 182860
+    },
+    {
+      "speaker": "C",
+      "text": "Okay, before we get into how you guys built this thing, I am curious. Building an app with your brother. I'm not sure if we had anyone on the channel yet that are siblings building an app. What's that been like? How did you guys decide to build this?",
+      "start": 183100,
+      "end": 196380
+    },
+    {
+      "speaker": "A",
+      "text": "It's been an absolute blessing having Nick being able to lean on each other. Like when I was hurt, for example, Nick was still going. When Nick like got sick for a week, I was taking care of things. I'm just super grateful to be able to have a brother to build a business with.",
+      "start": 196380,
+      "end": 212390
+    },
+    {
+      "speaker": "C",
+      "text": "Okay. The main reason I wanted to bring you guys on this channel is I love your guys approach to how you built this app. It's very different than what I've seen a lot of people doing. Tell me what you did differently with Coherence.",
+      "start": 212550,
+      "end": 224070
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah. So we didn't really start with the app. We started with content. And we were making content about things that genuinely excited us. So I was writing threads on spiritual esoteric topics. Nick was doing the same with more of a breathwork focus. And if we weren't just making that content for fun, we never would have discovered what was going viral and what content was gonna work, which ideas actually resonated with people. So we started with the content first. We made content that we cared about and that's how we learned what was actually resonating. Once we saw what went viral, then we built the app. So we basically reverse engineered the content.",
+      "start": 224470,
+      "end": 264440
+    },
+    {
+      "speaker": "B",
+      "text": "Into the app and I would just make posts about those things and see which ones would get traction. So we would use X as sort of this idea battleground. And then when I would get traction on a piece of content on X, then we would see that as a validated piece of content. We would basically have an Instagram short form script from the X post and then we would replicate that on Instagram and TikTok and then if those did well, we would make that YouTube video. So we were kind of moving up stream to longer, more impactful formats of content. And that was how we approached it. Is a content first. Let's validate the content and what people and the market actually wants. And then let's build whatever we want to build off of that.",
+      "start": 264520,
+      "end": 308420
+    },
+    {
+      "speaker": "C",
+      "text": "Okay. I think that's genius to focus on content first. I'd love to understand a little bit more of the timeline here. I'd love to hear a little bit more about that.",
+      "start": 308500,
+      "end": 315460
+    },
+    {
+      "speaker": "A",
+      "text": "It all started with the vortex breadth. I wrote a tweet and posted it next morning. And it goes, yo, your vortex breathtweet is going super viral. And so that's sort of where we, we got the idea for the app. So then we started coding. I didn't actually write a single line of code in this entire code base, but we use cursor. We finished the MVP February 2025 and launched. So that was the timeline on it.",
+      "start": 315460,
+      "end": 344910
+    },
+    {
+      "speaker": "C",
+      "text": "So here's what I love about Jack and Nick's story. They coded the first version of their app in just a few weeks. They didn't waste time overthinking or over planning. And I wanted to mention this because I do see this happening a lot. People getting stuck in the build phase for months. Well, that's where Rocket New comes in. Rocket lets you go from typing a few sentences to a full stack app. Just describe your vision once and you'll get a complete functional app with backend integrations and production ready code. You can even import designs from Figma, add integrations like Stripe and Supabase, and download an actual mobile apk to test on your phone instantly. Over 400,000 users in 180 plus countries are building with Rocket because it turns ideas into apps in minutes and not months. So if you're ready to build your app idea without the months of development, check out Rocket New at the first link in the description. Thank you to Rocket for sponsoring this video. I love what you're building. All right, let's get back to the story. Okay, well, this video isn't about the coding, it's about the content. It's about validating before you build. So that's what I really want to talk about. What would be the sort of playbook for finding an idea worth building through content?",
+      "start": 345150,
+      "end": 416790
+    },
+    {
+      "speaker": "B",
+      "text": "So step one, pick a painful niche. I would make a bunch of content about it. So I made a bunch of content about breathwork. And ideally I'd find a co founder who's technical because I'm non technical. But I would go out into the market and I would just start making content about a painful problem that people experience. Get traction on that painful problem. Step two, batch your ideas weekly. I would be presenting myself as a solution by just batching my content Ideas Weekly. Step 3 Film in bulk and then I would go and just pump out 30 to 60 videos. Looking hook film done. Another one film done. And have two months worth of content done. Step four, amplify your winners from those pieces of content. I'd see which ones work, which ones don't work. If we have something that I could sell, then let me take the content pieces that won and amplify them. Put some spark money behind them, put some meta ad money behind them and see if that's something that's validated that people are willing to pay for. And step five, just out market everyone. Make as many reels as you possibly can. Hire clippers, do whatever you can with whatever means you have for us. We are fully bootstrapped. So I'm just like, I'm the face. I will post like a madman every single day. You could sell whatever you want to sell, but with software you have a lot of leverage. So find a technical co founder, write the software, make the app, ship it, and then suddenly you have a business.",
+      "start": 417190,
+      "end": 506880
+    },
+    {
+      "speaker": "C",
+      "text": "Well, I think that Playbook is awesome, but I want to get even more specific. Can you pull up an actual example of content you created that changed the game for your app and turned this into a real business?",
+      "start": 507680,
+      "end": 518940
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah. So this piece of content we launched in July and this was the one that really changed a lot for us. It's one that caught fire. Got around 8 million views across all platforms. I thought that this was going to flop. After I videoed this, I filmed it like three more times because I thought it was bad. The next day had a million views and this is just what came out. And I also framed it, like I said earlier, in this polarizing way. Do you want to know something that they don't want you to know? And it's kind of ambiguous of who they are, but they is kind of, if we're talking about health, it's the nefarious forces that are kind of keeping you sick. And since then, I created this into a series.",
+      "start": 519180,
+      "end": 557810
+    },
+    {
+      "speaker": "C",
+      "text": "I want to switch topics a little bit and I want to show the audience, people watching here, what you guys built. Would you be able to just like, show me how the app works?",
+      "start": 557970,
+      "end": 565570
+    },
+    {
+      "speaker": "A",
+      "text": "100. So this is the app? Yeah. So Coherence is a breathwork app, which means that it's designed to help you to relax, focus and sleep better, all through the power of breathing. This is the home page. Here we have little streak, counter a little gamification. Here are our six main techniques. So we have coherence, breathing, vortex energy, which, like, obviously gives you A little energy boost, focus, stress relief and sleep. So if I click into Coherence, for example, we have this very simple minimal screen where you can set a Timer, adjust volume, etc. But you press start and this is going to play a sound as you inhale and play a sound as you exhale. It's a subscription model. We have a three day free trial on our yearly plan and then our monthly plan is just build monthly. For our yearly it's $40 and for the monthly it's 10 bucks a month.",
+      "start": 565650,
+      "end": 623300
+    },
+    {
+      "speaker": "C",
+      "text": "Okay, cool. I mean, that app looks awesome. Can you tell me a little bit more about how you built it? What tools did you use and what does it run?",
+      "start": 623380,
+      "end": 630020
+    },
+    {
+      "speaker": "A",
+      "text": "We use React Native Expo as our framework. We use Supabase for database and backend cloud code and Codex as our coding agents. Mixpanel for analytics, revenuecat, and then for our marketing site, we use Vercel and Next js. For all the design stuff we use Figma. And then for 3D design, we use Rotato and then we use Manychat for Instagram DM.",
+      "start": 630400,
+      "end": 654000
+    },
+    {
+      "speaker": "C",
+      "text": "The other question that I'm curious about, what is the profit margins on a business like this look like? And how much are you spending to run this business?",
+      "start": 654000,
+      "end": 661880
+    },
+    {
+      "speaker": "A",
+      "text": "So we spend about 2.5k on video editors, which is pretty core to the organic content model Influencers we're just kind of getting into now. So we're spending about 1 to 2k on that for partnerships, etc. We have a ghostwriter, helps us write some threads, $800 a month. We have a virtual assistant, which really helps with admin and stuff. It's 500amonth. Our coding agents, we spend about 300amonth. Revenue Cat comes out to like $100 a month. And then the rest of our tools are about $100 a month as well. So the total is five to six grand a month. We're operating at about 50% margin right now.",
+      "start": 662360,
+      "end": 698060
+    },
+    {
+      "speaker": "C",
+      "text": "Okay, cool. Well, thank you for sharing that. The last question that I have for everyone that comes on the channel, maybe there's a couple other brothers out there watching this that want to build something. What would be your advice to them?",
+      "start": 698220,
+      "end": 707620
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah, I would say keep meditating. It's a very high leverage activity. Even though it doesn't look like it on the surface. Breathe more and try not to sit all day. Move around throughout the day. Take small breaks to move because if you don't, your body will eventually give out. If you're coding for 12 hours a day sitting in a chair, well, that's great.",
+      "start": 707620,
+      "end": 725760
+    },
+    {
+      "speaker": "C",
+      "text": "Advice. Thank you guys for coming onto the channel. I think what you did is awesome. Thanks for coming on.",
+      "start": 725760,
+      "end": 729560
+    },
+    {
+      "speaker": "A",
+      "text": "Thanks so much for having us.",
+      "start": 730440,
+      "end": 731800
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, thank you.",
+      "start": 731960,
+      "end": 732920
+    },
+    {
+      "speaker": "C",
+      "text": "Thank you again to Jack and Nick for coming onto the channel and sharing everything. They shared their cost, how they built this, their whole content playbook. I think that's amazing. That's what Starter Story is all about. These guys are proof that you can come up with an idea, you can build it with AI coding tools. You could launch it and see what happens. This is exactly why we launched Starter Story Build. So you can take your idea and turn it into a real app using only AI tools. So if you're ready to actually do this, we'll just head to the first link in the description and check out Starter Story Build. That's it for this episode, guys. Thank you again for watching. We'll see you in the next one. Peace.",
+      "start": 733240,
+      "end": 767540
+    }
+  ]
+}

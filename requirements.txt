@@ -1,3 +1,4 @@
-aai
 yt-dlp
 tqdm
+python-dotenv
+requests
