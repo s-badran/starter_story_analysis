@@ -1,0 +1,179 @@
+{
+  "source": "/home/salouri/Projects/starter_story/transcripts/rPguT9z6kRQ/rPguT9z6kRQ_raw.json",
+  "segments": [
+    {
+      "speaker": "A",
+      "text": "We get the same complaints on every YouTube video. You just talk about successful ideas, but what about the failures? I hear you, and I get it. So today we're doing something a little different. Today we're talking to Thomas, a guy who's failed with over 30 ideas.",
+      "start": 240,
+      "end": 15200
+    },
+    {
+      "speaker": "B",
+      "text": "I failed way more often than I ever succeeded.",
+      "start": 15280,
+      "end": 19200
+    },
+    {
+      "speaker": "A",
+      "text": "After failing with over 30 ideas over many years, something finally clicked.",
+      "start": 19280,
+      "end": 24560
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, it started to grow step by step until I reached $10,000 of revenue last month.",
+      "start": 24560,
+      "end": 30160
+    },
+    {
+      "speaker": "A",
+      "text": "In this video, Thomas break down the five core reasons why your project will fail. What he thinks makes a good idea and what makes a bad idea. And why his new project finally worked and made $10,000 a month.",
+      "start": 30160,
+      "end": 42460
+    },
+    {
+      "speaker": "B",
+      "text": "I wasn't even sure this would ever work.",
+      "start": 42540,
+      "end": 44620
+    },
+    {
+      "speaker": "A",
+      "text": "Thomas's journey is what it actually looks like to build a successful business. And this video might change how you think about building online forever.",
+      "start": 44700,
+      "end": 53420
+    },
+    {
+      "speaker": "B",
+      "text": "A lot of indie hackers, especially developers, don't realize this.",
+      "start": 53500,
+      "end": 57660
+    },
+    {
+      "speaker": "A",
+      "text": "All right, let's get into it. I'm Pat Walls and this is Starter Story. All right, welcome, Thomas, to the channel. Tell me about who you are, what you built, and what's your story.",
+      "start": 57660,
+      "end": 69720
+    },
+    {
+      "speaker": "B",
+      "text": "My name is Thomas Thomas, and I'm the founder of UNID. You need is a productant alternative that makes $10,000 per month. But before this, I launched more than 30 projects that all failed.",
+      "start": 69720,
+      "end": 81280
+    },
+    {
+      "speaker": "A",
+      "text": "One of the reasons why I wanted to bring you on this channel is that you have built a ton of stuff and most of them failed lots of different projects. Can you just tell me about some of the projects you built?",
+      "start": 81280,
+      "end": 90560
+    },
+    {
+      "speaker": "B",
+      "text": "I built Gamma Features. It was a marketplace to connect gumroad sellers with affiliates. I think I made something like 500 bucks from it, but I just gave up after two years. I also built a simple platform in a day with my girlfriend called Frisbee. A platform to exchange feedback about your product, but never published it. We can have a look at my GitHub account. And yeah, as you can see, I have a lot of repositories and most of them are abandoned. For example, this one, the repository is named Scalds, but the name of the project was Gridly and it was a simple website builder. This one was a simple Twitter feed. I built something really useless called Sidi, a simple web app to manage your plans. Actually, I used it for maybe a year or two for myself. This one was a bookmark manager. And yeah, there are a lot of things on my GitHub profile.",
+      "start": 90560,
+      "end": 142480
+    },
+    {
+      "speaker": "A",
+      "text": "All right, so you show me all your failed projects. There's a lot in there. And you spent a lot of time Kind of thinking about why those didn't work. I'd love if you could break down the reasons why why these projects failed.",
+      "start": 142560,
+      "end": 153650
+    },
+    {
+      "speaker": "B",
+      "text": "I think the first reason is because we give up too early. You know, I often see people launching a project and giving up after a week or two because they haven't had any registrations or sales and so on. But I don't think a product will ever work overnight. I think we have to make sure the market exists and we have to kind of iterate and iterate again and iterate again, learning from our mistakes. Another reason is maybe your purpose is unclear. I've seen hundreds of landing pages that may look great with a lot of animation, details and so on. But if people don't understand exactly what your product is offering when they read your headline, it's a lose and lose situation. Nobody's going to scroll down if they don't understand your headline. Another reason could be the loss of momentum. When I think about my failed project, I realize a huge part of them failed because of this loss of momentum. That's a classic mistake. If you build in public, every time you post about your product on social media, you create momentum step by step. People will see the name of your product, your name in their feed. They'll end up remembering you and your product and recognizing it. If you stop talking about your project for a few weeks or a month, you have to start again to build this momentum. Another reason I often see the phrase build it and they will come. I just hate that phrase and I think it's very wrong. People won't come to see your product because it has amazing feature or things like that. No matter what your product is, if you don't do any marketing, if you talk about it, no one will come to your website. The last reason would be the timing. Timing is important when launching a project. If your project doesn't work in, let's say January, it doesn't mean it won't work in July. So my advice here would be to stay consistent and don't give up because you don't have the right timing. You never know.",
+      "start": 153650,
+      "end": 266190
+    },
+    {
+      "speaker": "A",
+      "text": "Okay, so we talked about all these reasons why projects fail. Let's now talk about the idea that actually worked for you. The idea that's making over $10,000 a month. What is that?",
+      "start": 266190,
+      "end": 273990
+    },
+    {
+      "speaker": "B",
+      "text": "UNID is a launch platform today where you can showcase your tech products. But it started as a simple directory for front end tools. At first you need wasn't really a successful product, even though it got a bit of traffic. I think I reached $200 per month at some point. But that was my best month. So at some point I pivoted unid from a simple tool directory to launch platform and at first it was a huge failure. I was scared because my revenue went down a lot. A few months after the PIV got, my revenue started to grow up again. It started to grow step by step until I reached $10,000 of revenue last month.",
+      "start": 274220,
+      "end": 314440
+    },
+    {
+      "speaker": "A",
+      "text": "And that's cool. I mean, one of the reasons why businesses sometimes don't work or why projects fail is timing. It's just too early or you stop working on it, then maybe it could have been successful later. Can you tell me a little bit about the timing aspect of you need?",
+      "start": 314520,
+      "end": 327320
+    },
+    {
+      "speaker": "B",
+      "text": "If I had pivoted you need from a directory to a launch platform maybe a year before I did, could have been a huge failure. I took advantage of drama around product and a few Hindi hackers who were complaining on social media about the fact that they couldn't be featured on productant or Productant was only talking about the big products or people with the big audiences and so on. That was the right moment to launch a concurrent, an alternative to product Tent. And yeah, I don't think it would have worked without this timing.",
+      "start": 327400,
+      "end": 357940
+    },
+    {
+      "speaker": "A",
+      "text": "Okay, let's just pause for one second. I know a lot of you watching are building apps right now. You've got the idea, the momentum to build it, but then you hit the UI stage and suddenly you're up at 1am tweaking and spacing button in, second guessing every single layout and design decision. Well, I have good news for you. And that's where Mobin comes in. And yes, they're today's sponsor, but honestly, they're one of my favorite tools for getting out of the design spiral and building beautiful apps. Mobin is basically a giant organized vault of real world product designs, actual apps, actual screens, all broken down by feature, flow, style, all of it. So instead of guessing how to design a pricing page or an onboarding flow, you can just see how the best apps in the world do it. Personally, it saved me hours and honestly, it makes design kind of fun. Again, if you want to check out ma', am, just click the first link in the description. They're offering starter story subscribers 20% off. All right, let's get back to the story. Okay, let's kind of pivot a little bit to ideas. A lot of people watching this are looking for ideas. You probably have a lot to share on that. So if you could potentially break down based on your experience, what makes a good idea for an online business. And what's a bad idea?",
+      "start": 358100,
+      "end": 426100
+    },
+    {
+      "speaker": "B",
+      "text": "The better thing that make an idea a good one is that you know how to sell it. That could be because you know the market, because you have a huge distribution channel, or because you have a great marketing idea. But if you don't know how to sell your idea, it's a bad one. From my personal experience, GUM affiliates, my marketplace, between gumroad sellers and affiliates, I didn't have a plan. I didn't really know Gumroad. I didn't really know the affiliation business. And it failed with unit, though it was a bit different because I knew productant, I knew indie hackers, I knew launch platforms, I knew the market. I started to have a great distribution channel, my Twitter account. I knew how to sell my idea. Another thing that makes an idea a good one is you have competitors. Not having competitors means that there's no market. So you won't be able to sell anything to anyone. You're not Steve Jobs. Creating a new market is nearly impossible. So if you don't have competitors, you don't have a market and your idea won't sell.",
+      "start": 426100,
+      "end": 489510
+    },
+    {
+      "speaker": "A",
+      "text": "All right, well, let's dive into some of the numbers behind you need your successful business. That's crushing it. Can you break down those numbers?",
+      "start": 489510,
+      "end": 495710
+    },
+    {
+      "speaker": "B",
+      "text": "The revenue are very irregular. There are a lot of up and downs because it depends on my marketing ideas, on my success on social media and so on. But yeah, I think you can say that it's oscillating between $8,000 per month and 10,000. In terms of numbers, I think we just reached 40,000 users on the platform, so that's huge. I cannot even comprehend this. I think I also reached 2,000 customers, so people who paid to skip the line or advertise their products. In terms of Traffic, we're at 30,000 unique visitors per month. But there are a lot of up and downs regarding traffic too. Another number I can share to my opinion, it's the most important one. We redirected 10,000 people last month to the listed website. So we generated 10,000 clicks on the product. So that's a great number.",
+      "start": 495710,
+      "end": 549560
+    },
+    {
+      "speaker": "A",
+      "text": "That's amazing. Congrats. Let's talk about the tech stack, how this thing actually runs. Can you break down your tech stack for unique?",
+      "start": 549560,
+      "end": 555920
+    },
+    {
+      "speaker": "B",
+      "text": "I use Nuxt JS as a full stack framework, so the front end and the backend. I use Superbase for the database, Bento for the emails and automation and a lot of marketing things. The website is hosted on Etzner, on vps and I use Qualify to manage It I also self host Plosibur for the analytics. I use Ferno, a not very well known SaaS to handle customer support. I also use a lot time fooling for social media scheduling and finally I use Polar merchant of record for sales.",
+      "start": 555920,
+      "end": 588960
+    },
+    {
+      "speaker": "A",
+      "text": "Cool. All right, well, the last question that we ask all founders who come on Starter Story. If you could stand on Thomas's shoulder before or during or after you had all those projects that failed, any advice you can give for people that are thinking about getting started, building or have some failed projects under their belt, what would be your advice on how to get to where you are now?",
+      "start": 589120,
+      "end": 607120
+    },
+    {
+      "speaker": "B",
+      "text": "My answer to this question is going to be very personal because it depends a lot of your personality and maybe your personal life and a lot of things like that. But for me, I need to have a personal space and I'm not the type of person who can work maybe 10 hours per day. I'm not like that. I can't do that. I need to do some sports like cycling. See my friends, go outside every day, you know, and one advice I could give is you don't have to, you know, lock down in your bedroom and code and market for months without seeing anyone. You just have to take your time and find a way to make it sustainable in the long run. Don't forget your personal life and realize you're in this game for the long run and you have as much chances of becoming rich in a month as winning the lottery. You can think of it as a marathon, not a sprint.",
+      "start": 607200,
+      "end": 659380
+    },
+    {
+      "speaker": "A",
+      "text": "Well, that's great advice. Thank you, Thomas, for coming on the channel. I love the business you built. I think it's going to keep growing and you're going to be really successful. Thanks for coming on.",
+      "start": 659380,
+      "end": 666590
+    },
+    {
+      "speaker": "B",
+      "text": "Thank you.",
+      "start": 666590,
+      "end": 667150
+    },
+    {
+      "speaker": "A",
+      "text": "Thank you, Thomas, for coming on the channel. I think his story is awesome because it's realistic. Almost nobody I know is an overnight success. There are always years of work behind every successful project, even the ones you see on this channel. But most importantly, if you don't build anything, then you never know if it actually could be successful in the first place. And that's why we launched Starter Story Build. It's the place to learn how to build fast with AI. In just a few days, you'll have a real working app shipped to the real world. If you're interested, just head to the first link in the description to check out Starter Story Build. All right, that's it for this one. Thank you guys for watching. We'll see you in the next one. Peace.",
+      "start": 667790,
+      "end": 707100
+    }
+  ]
+}

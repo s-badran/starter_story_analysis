@@ -1,0 +1,191 @@
+{
+  "source": "/home/salouri/Projects/starter_story/transcripts/gpn1jEoWT4A/gpn1jEoWT4A_raw.json",
+  "segments": [
+    {
+      "speaker": "A",
+      "text": "I turned a simple habit tracker into a 15k mrr business.",
+      "start": 80,
+      "end": 3840
+    },
+    {
+      "speaker": "B",
+      "text": "Sebastian roll always wanted to build his own apps. So he decided to quit his job and give himself 12 months to figure it out. No plan, no idea, just a dream to build.",
+      "start": 4000,
+      "end": 14880
+    },
+    {
+      "speaker": "A",
+      "text": "I quit my job with no idea. Just 12 months of Runway.",
+      "start": 14880,
+      "end": 18400
+    },
+    {
+      "speaker": "B",
+      "text": "But six months in, he had less than a dozen downloads on his app and he was faced with a decision. He changed up his strategy and then found an idea that that changed everything. And then in under two years, he went from just building side projects that made him a few hundred bucks to a full time solo developer making $15,000 a month on the App Store.",
+      "start": 18400,
+      "end": 38210
+    },
+    {
+      "speaker": "A",
+      "text": "The secret to reaching top 10 in the app Store is in this video.",
+      "start": 38210,
+      "end": 41450
+    },
+    {
+      "speaker": "B",
+      "text": "I bring Sebastian onto the channel to break down what happened after he quit his job and it's not what you'd expect. We'll also go over his failed ideas and why they didn't work. And he'll share the secret to why his app has been downloaded over 300,000 times. This is the playbook to building successful app pat walls. And this is Starter Story. Welcome Sebastian to Starter Story. Thanks for coming on. So tell me, what's your story?",
+      "start": 41450,
+      "end": 70350
+    },
+    {
+      "speaker": "A",
+      "text": "Hi, thank you for having me. My name is Sebastian, I am 32 years old, I'm living in Germany and yeah, I'm the creator of Habit Kit. It's a visually appealing and very simple habit tracking mobile app that helps users build and maintain their daily habits. I launched habit kit in 2022 after I quit my corporate programming job to finally become a full time indie app developer. Since then, my app has grown significantly, reaching $15,000 in monthly recurring revenue through a combination of building in public and effective App Store optimization. Beautiful.",
+      "start": 70430,
+      "end": 108330
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, well, let's dive a little bit more into this business and some of the numbers behind it.",
+      "start": 108330,
+      "end": 112810
+    },
+    {
+      "speaker": "A",
+      "text": "I have roughly 300,000 downloads on the App Store and Google Play combined and over 2000 reviews and ratings. I'm ranking for various important keywords in the habit tracking space. The most important one is Habit Tracker in the top five in multiple countries for that.",
+      "start": 112810,
+      "end": 132750
+    },
+    {
+      "speaker": "B",
+      "text": "I love that. Let's go right into development of the app. I know that you have a software development background. Tell me about how you built this app.",
+      "start": 132750,
+      "end": 141150
+    },
+    {
+      "speaker": "A",
+      "text": "Uh, yeah, sure. I had that idea for Habit Kids in summer of 2022. I immediately started building the app and I used Flutter for this. That's a cross platform framework that allows you to deploy your apps to iOS and Android with a single code base. When I started, I focused on the core functionality which was a tile based grid chart for the user's habits with a clean and super simple interface and the MVP features just included the basic habit working and the visualization of the progress and I built it with privacy in mind. All data is stored locally on the device, there's no sign in required, no authentication. The users have complete control over their data. I also decided to share the development progress on my social media and after posting the first screenshots and seeing a positive reception, I knew that I should really hurry up and bring the app to the app store and make it quick. I kept it really simple and clean and just banged it out in two months.",
+      "start": 141330,
+      "end": 210170
+    },
+    {
+      "speaker": "B",
+      "text": "So let's take a step back and I want to learn a little bit more about your past, your background, what were you doing before this and how did that lead to coming up with the idea for Havitkit?",
+      "start": 210490,
+      "end": 219930
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah, so my background is pretty straightforward. After school I studied computer science at a university here in Germany for roughly six years and did my master's thesis. And after that I started a regular programming job at a middle sized company here in Germany as well. I learned a lot there, but after three years of being stuck in the same project there, I became a little bit restless and wanted to be a little bit creative and work on my own projects. So after three years of the same project at my regular job, I decided it was time to quit my job and focus on indie development for at least 12 months. The first six months were really challenging. I didn't had a lot of revenue so I kept in touch with the people at my old shop and after the my my 12 month deadline was over, I decided to go back to my old job and continue doing my app business on the side. I felt like a failure and like a success because I had at least some revenue. It wasn't really high, but I think it's already a huge success if you have a side business with $1,000 revenue. At the end of 2023 I finally reached $3,000 in monthly recurring revenue. At the end of 2024 I achieved over $15,000 in MRR. I quit my job the second time at the start of 2024 and I'm finally able to have complete control over my time and work on whatever I want.",
+      "start": 219930,
+      "end": 325740
+    },
+    {
+      "speaker": "B",
+      "text": "All right, before we dive into how Sebastian Buil 300,000 downloads, let's talk about something that trips up way too many founders not setting up your business in the right way. You spend months building, marketing, growing, but if you're not legally protected or even registered properly, one mistake can wreck everything. That's why we're excited to partner with Zen Business. Zen Business empowers entrepreneurs from all walks of life to confidently start, protect and grow their business. With their worry free platform, award winning support and AI power tools, anyone can achieve success on their own terms. ZenBusiness helps you form your LLC in minutes so your business is real protected and ready to grow. Over 800,000 founders have used ZenBusiness to launch and grow and it's priced to fit any budget. You can get started for $0 plus state fees in about five minutes. So if you're serious about what you're building, this is the first step. Click the first link in the description to launch your LLC today at $0 plus state fees and get started today. Thanks to ZenBusiness for sponsoring. Now let's get back to Sebastian's story. I want to get a little bit more tactical. How did you actually grow this business and what marketing channels did you use for HabitKit?",
+      "start": 325820,
+      "end": 403500
+    },
+    {
+      "speaker": "A",
+      "text": "In the beginning, building in public was huge for me. I shared my journey and development process across multiple platforms like X, LinkedIn, BlueSky and Threads. I tried to create authentic content, share about my wins, failures, successes and so on. That led to unexpected opportunities, being guest on podcasts, being featured on videos, or having good connections to other app developers. So that was a huge part of my success in the beginning. Another important aspect are search ads. I just I won a super simple and low budget Apple search ads campaign. I only spent $100 per month on it. I just used this as a potential ranking boost strateg because I have the hope that Apple favors developers who also run ads on their platform. And after that the biggest thing probably was App Store Optimization. App Store Optimization is basically editing your App Store metadata like keywords, app name or subtitle, or even the screenshots in the way that you're more likely to rank in the top spots when people search for certain keywords. I'm focusing on the habit tracker keyword and that's why I put it right at the start of my app name. Another important aspect of ASO is gathering user reviews for your app. I instantly show the native review dialog so it says do you like habit kits? Please review it on the App Store or something like that right after the first habits was checked off for a user. So that's their first success moment. And I asked them right at this situation and most people just give it five stars and you gain a lot of reviews and ratings. Yeah. So gathering reviews is pretty important.",
+      "start": 403500,
+      "end": 518500
+    },
+    {
+      "speaker": "B",
+      "text": "Beautiful. Let's talk about ideas You've launched a few things on the App Store. Some of them were flops, some of them are hugely successful. Tell me about your process for finding ideas and validating them.",
+      "start": 518900,
+      "end": 528340
+    },
+    {
+      "speaker": "A",
+      "text": "In terms of finding good ideas, my recommendation is to just start building anything. It doesn't matter what exactly. Once you get into the groove and start building something, you will naturally get a ton of other great cool ideas for later projects. In terms of validation, I just build apps that solve my own problems. I will always be my first customer and so I always know exactly what's needed in the product, what are the requirements and what works and whatnot.",
+      "start": 528340,
+      "end": 559650
+    },
+    {
+      "speaker": "B",
+      "text": "Cool, I love that. So you have an app. It makes $15,000 a month. Walk me through the different technologies and stack that you use to actually build this app.",
+      "start": 560130,
+      "end": 569310
+    },
+    {
+      "speaker": "A",
+      "text": "As in terms of development tools, I use Flutter. That's a cross platform framework for, for building mobile apps for iOS and Android with a single code base. I use Cursor as my AI powered ide. I love the auto completions that the AI provides and I love to chat about different problems with it. To do my keyword research and ASO optimizations, I used a tool called Astro it. Yeah, it allows you to SE for keywords on the App Store and see their popularity and difficulty. For app analytics and marketing and also a little bit of keyword research, I use app figures. And in terms of handling subscriptions and purchases in my apps, I use a service called Revenue Cat. Yeah. And for personal habit tracking, I use HabitKit. Of course, I also use some other tools like Waycast, which is a collection of productivity tools for your Mac, and chat with AI1Password. These are some very important tools in my toolchain. Okay, cool.",
+      "start": 569390,
+      "end": 635480
+    },
+    {
+      "speaker": "B",
+      "text": "On a similar note, let's talk about costs. I know you're a solopreneur. You're running this yourself. You built everything out. You don't have any employees. How much does it actually cost in total to run an app like this?",
+      "start": 635480,
+      "end": 647000
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah, so my expenses are super low. My biggest expense is revenue catch right now because they take 1% of my revenue. So depending on the month of the year, that can be a lot, but it's totally worth it. And yeah, the rest can be added up to roughly 200 or $300 per month. So it's really low.",
+      "start": 647000,
+      "end": 672720
+    },
+    {
+      "speaker": "B",
+      "text": "Nice.",
+      "start": 672720,
+      "end": 673080
+    },
+    {
+      "speaker": "A",
+      "text": "Wow.",
+      "start": 673080,
+      "end": 673440
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, cool. So Your app makes $15,000 a month. You've kind of gone through the process of building something successful. What is something that you learned in the process that you didn't expect?",
+      "start": 673440,
+      "end": 683000
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah, I was super surprised that I was able to compete in the App Store and Google Play with bigger companies or people that are super long on the App Store. I reached top five in super important keywords, which drives a ton of organic traffic to my apps. And yeah, if you manage to secure a good ranking on the App Store, you don't need a big marketing budget and you can compete with bigger brands. Nice.",
+      "start": 683160,
+      "end": 712760
+    },
+    {
+      "speaker": "B",
+      "text": "Cool. Well, the last question that we ask all founders that Come on Starter Story. If you could go back in time and give advice to Sebastian right when he quit his job, what advice would you give?",
+      "start": 712840,
+      "end": 722180
+    },
+    {
+      "speaker": "A",
+      "text": "I would say save money for sabbatical to focus on development of your app business like I did. I saved some money and I just quit my job and set myself a deadline for 12 months to do something that works. Yeah, because I couldn't find motivation to code on my own apps after I programmed for eight hours on my regular job. So quitting my job was actually the only chance to. To get this started. And yeah, this ultimately helped me to focus on my stuff and lay the important foundation and ultimately for my dream business.",
+      "start": 722180,
+      "end": 758570
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, I love that. You know, a lot of people think, what's going to happen if I quit my job? But at the end of the day, you can just go back and get another job and that's exactly what happened to you. And I just love this story. Thank you for coming on Sebastian and sharing everything about your business. Going deep, sharing a bunch of things that you didn't have to. You're awesome. Thanks for coming on Starter Story.",
+      "start": 758650,
+      "end": 776650
+    },
+    {
+      "speaker": "A",
+      "text": "Thank you for having me.",
+      "start": 776960,
+      "end": 777920
+    },
+    {
+      "speaker": "B",
+      "text": "All right. I love Sebastian Story. It shows you the power of building on platforms. We talked all about aso, which I think is super cool. So hopefully that was helpful. If you want to build something similar to Sebastian, check out Starter Story. Build is our platform for building a real app. Going from an idea to a launched app in 12 days. I'll put that link in the description. Thank you guys for watching. I'll leave you with one question. What's your story?",
+      "start": 778000,
+      "end": 801120
+    },
+    {
+      "speaker": "A",
+      "text": "Peace.",
+      "start": 802000,
+      "end": 802480
+    }
+  ]
+}

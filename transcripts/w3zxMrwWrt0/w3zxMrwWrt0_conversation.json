@@ -1,0 +1,185 @@
+{
+  "source": "/home/salouri/Projects/starter_story/transcripts/w3zxMrwWrt0/w3zxMrwWrt0_raw.json",
+  "segments": [
+    {
+      "speaker": "A",
+      "text": "I'm Chris and I turned a really simple wishlist app into a 150k a year business. And now two months ago, I quit my job.",
+      "start": 80,
+      "end": 7760
+    },
+    {
+      "speaker": "B",
+      "text": "Meet Chris. He built a simple app that pays him six figures a year.",
+      "start": 7760,
+      "end": 11920
+    },
+    {
+      "speaker": "A",
+      "text": "I didn't do any marketing the standard way.",
+      "start": 11920,
+      "end": 14800
+    },
+    {
+      "speaker": "B",
+      "text": "But what's even crazier is that he did it all without having to quit his full time job. So what did he build? Well, I brought him onto the channel to share everything. How he found an idea worth building on the side, how he structured his days so he could manage it all, and why the app he built was perfect for building a profitable side project. If you're looking to build something on the side while you have a 9 to 5 job, this is the video to watch. All right, let's get into it. I'm Pat Walls and this is Starter Story. All right, Chris, welcome to the channel. Tell me about who you are, what you built and what's your story.",
+      "start": 14880,
+      "end": 48860
+    },
+    {
+      "speaker": "A",
+      "text": "Hi, I'm Chris and I turned a really simple wishlist app into a 150k a year business without a team, without funding, with zero marketing. I just built it as a side project and it grew slowly over time. And now two months ago, I quit my job.",
+      "start": 49100,
+      "end": 64740
+    },
+    {
+      "speaker": "B",
+      "text": "I mean, I love that you did this as a side project. It's something that I did as well. I started Starter Story while I had a full time job and we're going to get all into that. But I just want to understand a little bit more about your background. How did you even get into this idea of building a side project?",
+      "start": 64740,
+      "end": 78340
+    },
+    {
+      "speaker": "A",
+      "text": "Okay, so it all started In, I think 2019, back in university and I wanted to work for this cool bike brand. It was quite a cool company. I thought getting into apps was the way to get into these cool startups. And they had this job offer as working student for app developer. So I just applied for it even though I couldn't develop apps. Obviously they declined, but that just motivated me because they said they liked my enthusiasm and that just gave me the boost. That's when I decided to get into app development because I wanted to have these kind of jobs.",
+      "start": 78660,
+      "end": 111210
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, cool. I like that. Rejection is the ultimate motivation. How do you go from rejection to actually finding this idea for your app that eventually becomes hugely successful?",
+      "start": 111210,
+      "end": 121800
+    },
+    {
+      "speaker": "A",
+      "text": "I wanted to start app development and the number one project is a to do list app. But there are 2 million to do list apps out there, so I thought I'd do something similar. And that was a wishlist app because back then I was still using an Excel sheet for My own Wishlist, because I thought there was no nice and pretty Wishlist app out there. So a Wishlist app is basically a nicer version of your notes app. For Christmas, you store all of your wishes and then you can share them with your family.",
+      "start": 121800,
+      "end": 149800
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, well, we're going to dive all into Wishlist apps in a second and exactly how your app works. But again, what I think is super cool about your story is you built this while you're in university, full time student, and then while you had a full time job. So can you just break down what that kind of whole journey looked like? How long have you been building this and how was that whole process?",
+      "start": 149880,
+      "end": 170120
+    },
+    {
+      "speaker": "A",
+      "text": "I've been building Wishlist for almost six years now. It was three years and in university and then two and a half years in my full time job. My usual schedule was getting up at 8 and working on my side project for about an hour. But not development, but smaller stuff, for example, answering support emails or checking in analytics. And then from nine to six usually I just did my real job. Then from six to eight I was doing my personal stuff, sometimes Sport. And from 8 to 11, sometimes later, I would work again on my side project. That worked specifically well in the colder months. But in the summer I couldn't really motivate myself to keep developing after a full day of developing. So the start of 2025, I negotiated to have a four day week to have another full day for Wishlist.",
+      "start": 170200,
+      "end": 218060
+    },
+    {
+      "speaker": "B",
+      "text": "All right, so you did this successfully. You were able to quit your full time job and work for yourself. Now, in this five year journey that you went through, what were your biggest learnings on how to actually do this, how to build a side project and take it all the way.",
+      "start": 218060,
+      "end": 230480
+    },
+    {
+      "speaker": "A",
+      "text": "First, I would say be honest with your employee. Be upfront about your side project because it's mutually beneficial. You learn so much at your work and your specific fears. But having a side project means you have to do everything and that's also super beneficial for your work. Next thing I would say is use every free time. You get car rides, train rides. But by using every free time, you should also make sure to prioritize. Never forget your friends, family or girlfriend. They are key to everything. Third, I would say use the winter time wisely. In winter, no one's going to say, oh, look how nice weather is outside. How can you be inside coding? And that will not happen in winter. So use the wintertime wisely. Last, I really started to like working holidays because that just combines being social and being productive. Find a small group of friends or colleagues or anyone, basically anyone who's in your field as well. It just helps a lot being around other motivated people and it also keeps your mental health in a good shape.",
+      "start": 230720,
+      "end": 290700
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, now I want to understand a little bit more about how to find an idea, how to find the right side project to work on. Now that you've been successful with yours, what do you think is the playbook for anyone watching this? What would be your recommendation on what to build and kind of how to build it?",
+      "start": 290860,
+      "end": 306300
+    },
+    {
+      "speaker": "A",
+      "text": "Start small. I start with an actual problem either you or someone else experience. Because I guarantee you, if you have this problem, there's at least one more person on this earth with the same problem. And that should be enough to start this project. Also super important for me was setting, I would say, the correct goals. If I had set my goal 6 years ago to have 150k a year, I would thrown away that project. So my first goal was not to get a million dollars, but to have a random person who I don't know download the app. At least for me, since it was a side project. Monetization can come afterwards. You're working anyway, so monetization should be not your priority. Users first, monetization later. And most, most importantly, just have fun. It's a side project, so worst case, it really fails. You still have your full time job and at least you had a good time and most certainly you learned quite a lot.",
+      "start": 306300,
+      "end": 359400
+    },
+    {
+      "speaker": "B",
+      "text": "All right, well, before we get back to how Chris grew his side project to $150,000 a year, I need to point out something important. Chris's app changed his life, but he didn't overthink it. He found a simple idea and simply launched it into the real world. And that's exactly why we created Starter Story Build. It's our program where you will learn how to use AI tools to take your your idea and launch a real working app in just a couple weeks. Even if you've never coded before, if you're ready to stop sitting on the sidelines and actually build something, just head to the first link in the description and check out Starter Story Build. All right, let's get back to the video. All right, so my next question is around realistic timelines. You've been doing this for five years. That's subjectively a long time. Can you break down what a real journey looks like for a side project to become a full time income? If you can break down when you started and how this thing kind of grew, that'd be great.",
+      "start": 359400,
+      "end": 413200
+    },
+    {
+      "speaker": "A",
+      "text": "So 2019, I started building wishlists. It was 2020 when I first released the first version of the app. And in 2021 I got my first job as app developer, which I only got because I developed this Wishlist app before. So that was also when I had the idea of relaunching wish lists because I couldn't even ship updates because the code base was all over the place. So in 23 I finished university in July and I already got a full time job as app developer secured for October. So that meant I had two months free time. So end of October I at the launch of Wishlist 2.0 I also hit the 100k registered users. And in 24 I had my full time job as app developer plus my side project, Wishlist. And in 25 in July I quit the job and now I'm full time wish list. Nowadays everyone would just wipe coded on a weekend, but for me it took six years. So for me it was I guess a marathon and not just a wipe coding weekend.",
+      "start": 413200,
+      "end": 478150
+    },
+    {
+      "speaker": "B",
+      "text": "I mean that's awesome. It is a marathon, not a sprint. That reminds me of my story too and how long it took to build starter story while I had a full time job. Let's switch topics a little bit here. I want to understand a little bit about the growth. Look, a lot of people can build stuff especially while they have a full time job, but the growth and the marketing and the getting in the users, how did you do that for Wishlist?",
+      "start": 478150,
+      "end": 498040
+    },
+    {
+      "speaker": "A",
+      "text": "Being a developer also means that I'm naturally bad at marketing, so I just didn't do any marketing that standard way. Also, I simply didn't have the money for it. And my goal was also not to make money. But what was crucial for my friends and family, especially at the beginning because I just asked everyone I know for reviews. That was super awkward at first, but that's what has helped me a lot. Reviews are super important for an app on the app, so to get ranked at the top. So I also made sure that my users would give me good reviews. And that's why I show these in app reviews at an appropriate timing. So for me I'm just showing it after the user has accomplished something, for example has added a wish or fulfilled a wish. So when the user feels good, the number one thing for me was I always build for users because if they like it, they will share it and they will also leave good reviews. How I did this was I integrated an easy super support system from very early on. I saved all these emails and all these feature requests for my users from the very beginning. And every time I shipped a feature or just I fixed a bug for someone specific user. I would text these users hi John, I just fixed your issue or hi John, I just implemented the feature you requested. Could you let me know how you feel about it? Do you like it or not? I always write questions in these support emails so they would get back to me and once they get back to me with a positive answer only then I would ask them to review my app. That turned out to be super fun to this day.",
+      "start": 498120,
+      "end": 591680
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, let's I want to have you break down some of the numbers behind Wishlist. How's this business doing? Can you break down some of the numbers?",
+      "start": 591680,
+      "end": 598280
+    },
+    {
+      "speaker": "A",
+      "text": "So the monthly revenue average is around 6k now in the low season and total registered users are currently at 1.1 million and paying customers there are around 4k plus all of the people who buy the products through the app and 110k monthly active users. You can multiply these values by 5 during the high season.",
+      "start": 598360,
+      "end": 622470
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, and on another note, I want to understand a little bit more about how you built this. What's the tech stack behind Wishlist?",
+      "start": 622630,
+      "end": 628470
+    },
+    {
+      "speaker": "A",
+      "text": "Flutter is Cross Platform Kit is free, Cursor is my IDE. I use ChatGPT as well Firebase as my my backend also for auth and Analytics Revenue Kit for Unit Purchase Pro as User feedback one link for deep links and Self Desk for accounting. I would say 99% margin because I don't really have the costs besides my server costs.",
+      "start": 628470,
+      "end": 651140
+    },
+    {
+      "speaker": "B",
+      "text": "All right, so now I want to like understand actually what you built. You have this Wishlist app. I'm not really sure exactly what wishlists are. Can you show us your app and just how it works and what it does?",
+      "start": 651140,
+      "end": 661060
+    },
+    {
+      "speaker": "A",
+      "text": "As I said, it's a super simple app. So we start by creating a wish list. So let's just create a wish list for Christmas and we can also add a couple of notes and change the visibility. But for now we're just making it public. So now we have created our first wish list and now it's time to add some actual wishes. We can do this manually. Just say okay, for example a year is enter how I make money is through in app purchases. For example, if you want to have a custom Wishlist image, you get into this paywall, then you can get premium membership. More important, I get money through affiliates links. So if I were to add a wish from let's say Amazon, I can simply auto import it. Once I open this link from within Wishlists, I get money because it's I'm changing it to an affiliate link for me. And yeah, that's how I make money.",
+      "start": 661140,
+      "end": 710100
+    },
+    {
+      "speaker": "B",
+      "text": "All right. Well, I love how the app is quite simple. I know behind the scenes it's probably more complicated than that, but it's cool to see that an app like this can, you know, make a living for you. That's awesome. The last question that we have for all founders who come on Starter Story, what would be your advice to anyone watching this who has a full time job, who is a full time student that wants to do this, are not ready to quit and go all in yet. What would be your advice to someone who's watching?",
+      "start": 710180,
+      "end": 732190
+    },
+    {
+      "speaker": "A",
+      "text": "Do not overcomplicate things. Not everyone has to fly to Mars. You don't have to build the next Facebook. You don't need VC funding. Find a problem you can solve by yourself, Find an actual problem you or someone else has and just give it a try. Even if that just means making a prettier version of an existing app.",
+      "start": 732350,
+      "end": 749870
+    },
+    {
+      "speaker": "B",
+      "text": "Cool. Well, thank you Chris for coming onto the channel. I think what you did is awesome. Building a side project, turning it into a full time income. I love that. Thanks for sharing with the world everything you did.",
+      "start": 750030,
+      "end": 760720
+    },
+    {
+      "speaker": "A",
+      "text": "Thanks for being here.",
+      "start": 760720,
+      "end": 761640
+    },
+    {
+      "speaker": "B",
+      "text": "Big thank you to Chris for coming onto the channel and sharing all that. I love his story because it proves that all you need is a simple idea. Chris started Wish List as a small side project and now it makes $150,000 a year and it gave him the freedom to quit his 9 to 5 job. And that's a lesson that anyone watching this can take. Don't overcomplicate things. Start small, keep it simple and keep going. This is exactly why we created Starter Story Build. We'll show you how to take your idea, build it with AI and launch it in just a couple weeks. Even if you're just starting it on the side just like Chris did. So if you want to finally build that side project, maybe turn it into a full time thing, just head to the first link in the description and check out Starter Story Build. All right, that's it for this episode. Thank you guys for watching. We'll see you in the next one. Peace.",
+      "start": 762040,
+      "end": 807670
+    }
+  ]
+}

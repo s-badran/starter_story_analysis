@@ -1,0 +1,233 @@
+{
+  "source": "/home/salouri/Projects/starter_story/transcripts/9WWvLj-NqEE/9WWvLj-NqEE_raw.json",
+  "segments": [
+    {
+      "speaker": "A",
+      "text": "Within the last 12 months, I've built two apps that generated 1.5 million in revenue.",
+      "start": 80,
+      "end": 4400
+    },
+    {
+      "speaker": "B",
+      "text": "This is Kelechi, a 22 year old from Nigeria who moved to the US with nothing but a dream to build a business.",
+      "start": 4480,
+      "end": 11040
+    },
+    {
+      "speaker": "A",
+      "text": "You know, I moved to the US with literally only $100 for my name.",
+      "start": 11200,
+      "end": 14640
+    },
+    {
+      "speaker": "B",
+      "text": "With his back against the wall in just a few months to prove himself, Kelechi built two apps that changed his life.",
+      "start": 14640,
+      "end": 20960
+    },
+    {
+      "speaker": "A",
+      "text": "Today, my apps have been downloaded over 700,000 times across the App Store and.",
+      "start": 21120,
+      "end": 26440
+    },
+    {
+      "speaker": "B",
+      "text": "Play Store, his secret sauce distribution. But it's not SEO and it's not TikTok. It's something a little different.",
+      "start": 26440,
+      "end": 33510
+    },
+    {
+      "speaker": "A",
+      "text": "Here's what I think most people don't understand about mobile apps.",
+      "start": 33590,
+      "end": 36830
+    },
+    {
+      "speaker": "B",
+      "text": "By using this strategy, he was able to get millions of eyeballs on his idea virtually for free. I brought Kalechi onto the channel to break down exactly how he did it. And in this video, we'll dive into his two apps that made over a million dollars. His secret distribution strategy you've probably never heard of before, and his playbook on how he'd start over from scratch today. All right, let's dive in. I'm Pat Walls and this is Starter Story. Welcome, Kelechi, to the channel. Tell me about who you are, what you built, and what's your story.",
+      "start": 36830,
+      "end": 69180
+    },
+    {
+      "speaker": "A",
+      "text": "Hi, I'm Kelechi. Within the last 12 months, I built two apps that generated 1.5 million in revenue. So the first one is Social wizard and the second one is called Clean Eats. I saw a guy on X talking about how he made a million dollars a month from an app, and right then was when I decided I was going to start building apps.",
+      "start": 69500,
+      "end": 84940
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, before we get into the apps that you built, I just want to understand some of the numbers behind this. You've done 1.5 million in revenue. What are these apps and what are some of the numbers behind them?",
+      "start": 85170,
+      "end": 94690
+    },
+    {
+      "speaker": "A",
+      "text": "So we first launched in early 2024. I launched my first app and we went extremely viral. Quickly scaled to about $60,000 a month. Today we've done over 600,000 downloads. Eventually, after some time, I put that business on autopilot and I launched my second app. And we hit about 10k in revenue within two weeks and about four months later ended up exiting that to a UK based company.",
+      "start": 95250,
+      "end": 115410
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, cool. I want to dig a little bit into your first app. The first app that you built, the one that made nearly a million dollars. How did you actually find the idea for this app?",
+      "start": 115490,
+      "end": 124350
+    },
+    {
+      "speaker": "A",
+      "text": "The concept really came from my first app and it was basically a social application. Where people shared pictures and groups. It was called Cast Speed. It grew to a few thousand users, and over 20,000 pictures were posted on the app. But, I mean, eventually failed. And there was one particular girl on the app. You know, she would post all these really personal pictures about herself. I'll see her cooking, I'll see her working. I'll see her in class. And eventually I became interested in this girl, and we started texting for a bit. But after a while, it didn't really go the way I plan. And so I went to the App Store and I searched up advice, life advice. I didn't really see any apps that could help me. And so around this time, this was when OpenAI was really going heavy with the LLMs and I just ripped up, like, a script, and I would get, like, lines to, like, text to scroll. So it wasn't even a product, it wasn't an app. It was just some backend I was playing around with. It was a script on Nest JS that I built. Eventually, my friends invited me to homecoming. I gave a few people the app to play around with. And this was probably the first time that my high school friends cared about anything I was working on. That was when I realized that there might actually be something here. Eventually, I whipped it together, polished it more, and released the App Store.",
+      "start": 124350,
+      "end": 183990
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, so the idea is clearly working. Your friends finally care about it. You launch into the App Store, it becomes a live app. But then what I want to know is, once you had the live app in the App Store, how'd you grow it to make nearly a million dollars?",
+      "start": 183990,
+      "end": 195510
+    },
+    {
+      "speaker": "A",
+      "text": "So the first sale came in, you know, very, very late January. We made about $10. I spent the next four weeks trying to crack the distribution, and eventually something stuck. You know, I figured out the viral formats literally two weeks after that happened. 3.5k in MRR. After two weeks? After one month, we have crossed $25,000 in MRR. I think by month six, we had cash collected, about $250,000 that year probably ended with about half a million cash collected. I haven't spent a dollar on marketing within the last year. And we are literally still printing, which is really good.",
+      "start": 195670,
+      "end": 225510
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, Klechi, so you mentioned something really important, which is you cracked distribution. I want you to go deeper, though. I want you to tell me how you actually crack distribution.",
+      "start": 225510,
+      "end": 235550
+    },
+    {
+      "speaker": "A",
+      "text": "What.",
+      "start": 235680,
+      "end": 235840
+    },
+    {
+      "speaker": "B",
+      "text": "What was the secret sauce behind Social wizard, where there are lots of other apps that I'm sure did the same thing but didn't make nearly a million dollars like yours?",
+      "start": 235990,
+      "end": 243430
+    },
+    {
+      "speaker": "A",
+      "text": "I think distribution is really A show, don't tell kind of game. With Social wizard, people just use it for texting. Like, that's the main use case that guys use it for. Everyone knows that Instagram is a dating site. I think Instagram is a dating site masquerading as a social network. And we had this kind of, like, streamer strategy that we used to scale the app. There was a feature on Social wizard where you can take the screenshots of a girl's story, put it on the app, and it would generate, like, hints to, say, the format that ended up going viral. But it took me a while to find out formats myself. Initially, I was making content myself to kind of find what was going to stick when I found what kind of, you know, worked. Then I went to very, very micro streamers, very degenerate streamers. They hadn't really had any viral moments. Maybe they had some videos that had done like 100k, 200k. But I saw the edge with them because, you know, they were hitting the audience that we wanted. And I believe that if we worked with them and took shots with the formats that worked, we would go viral. And that's exactly what happened. So this is an example of a collab that we did with a streamer. You know, I went to him and said, he, this is the format that is working. A lot of people like to see videos like this. Just recreate this. Just going to play for you. So you see why this went viral. And I'll tell you what we actually ended up getting from this video.",
+      "start": 243430,
+      "end": 309470
+    },
+    {
+      "speaker": "C",
+      "text": "This. My God, look at her.",
+      "start": 309630,
+      "end": 312430
+    },
+    {
+      "speaker": "A",
+      "text": "If you want to go viral, you need to find a strategy to make the viewer pause. If your video doesn't make people pause, they're going to scroll past. And obviously you can see why people pause on this. It starts with a very pretty girl. And, you know, this is literally where we integrate Social Wizard. He doesn't talk about trying to sell the app. The viewer is watching this like a regular video, and he says, okay, it's a pretty girl. What do I say to the pict picture? How do I reply to the story? Everyone is probably thinking the same thing. Everyone watching this video is probably thinking, how does he reply to this story? And let's see what he does.",
+      "start": 312590,
+      "end": 338650
+    },
+    {
+      "speaker": "C",
+      "text": "I don't know what to do. You know what? We're about to use the wizard app. Wizard app always do the trick. Start a conversation, add the picture of her. Flirty. All right, cook up, please. That pink dress looks like it was made just for you. Planning on stealing any hearts tonight? I'M gonna use that one.",
+      "start": 339210,
+      "end": 357850
+    },
+    {
+      "speaker": "A",
+      "text": "Boom. By this point, we've sold everyone on what this product is. They don't need to finish the clip. Distribution is always a show, don't tell game. A lot of people think you need to try and sell your products, but demo what it does, show people how it works. If they find value in it, they're gonna download it, they're gonna give you money, and your app is gonna scale. So with this particular video, I paid this creator about $120 and the video hit 2 million views and brought in tens of thousands of dollars, which is insane roi. You can't get this on paid ads, you can't get this on ugc. And that's pretty much it. We took this format and we scaled it with over and over and over and over and over again across multiple creators, multiple videos. And yeah, we just kept printing.",
+      "start": 358240,
+      "end": 394800
+    },
+    {
+      "speaker": "B",
+      "text": "One thing I love about Kelechi's story is how fast he built his apps. He had the idea, built it over just a couple of weeks and started getting users right away. This is the power of what happens when you're using the right tools to build. And this is why I love today's sponsor, Emergent. Emergent is a vibe coding platform that turns your idea into a production ready app just by chatting with AI. You can build full stack mobile apps with react native download apks to test on your phone and deploy directly to the app store. And if you're building AI apps just like Kalechi, Emergent's Universal LLM key gives you instant access to OpenAI, Claude and Gemini with no complex API setup required. And the best part about Emergent is everything is production ready from day one. Built to handle real users and real traffic without expensive rewrites. Over 1.5 million people are already building with Emergent and their apps have hit 15 million ARR in just three months. If you're ready to turn your idea into a real app without the overhead, check out Emergent at the first link in the description right below. Thank you to Emergent for sponsoring this video. Let's get back into it. My next question for you would be if you were to start all over again, knowing what you know, what would be your playbook to build a successful app? Right now?",
+      "start": 395040,
+      "end": 472770
+    },
+    {
+      "speaker": "A",
+      "text": "I think in 2025, product development is not enough anymore. If you don't find a way to tell people about your product, then you might as well not even build your products. Step one is I look at the niche. Is there a large volume of content already being produced in this niche? That's the first question I ask myself. And if the answer is yes, then I'll go to mid size to large creators to make content. If it's no, then I would focus on making content myself. And it's very important that you don't outsource this process because you want to learn as much as possible. A lot of people, they have capital and they outsource the whole thing and they end up burning so much money and it never makes any sense. Step two, produce the content. And this is where most people get it wrong. Working with creators is also a volume game, right? A lot of people reach out to five creators or 10 creators and they're like, oh, it's not working, it's not working. But in reality you might have to reach out to 100 creators to get one that will work for you. But once you find a creator that is willing to work with you and you put out content with them, it's much easier to get more creators on board because then you can have that creator's video and leverage it to other creators. And all you're trying to do is make clips with the creator to find what kind of works, right? A lot of people think you need to find the viral format from day one. Not really. You just need to find something that kind of works. And it's always important that you make content on TikTok. When you're trying to find a viral format and not Instagram, it's easier to go viral on TikTok on new accounts compared to Instagram. Create a page, start making content. I'll start with three videos a day, you know, on, let's say two accounts. So you have two accounts, you're making three videos a day, maybe two on one account, one on an account. The goal here is consistency and volume. After a week or two, you scale that up to 10, you scale that up to 20. A lot of people believe in this idea of virality being a lock game. But if you're putting out 100 videos per day, that's 700 videos in a week. If one went viral, I don't think you caught that luck. You pretty much think that you earned that. And so when it comes to distribution, it's never a lock, it's deterministic. Go full total, create as much volume as possible. One would stick. If you try hard enough, you're going to find out viral formats. Step three, scale. If you're working with creators, you want to work with as much as possible, you want to reproduce your content, reach out to more More, more. The more you reach out to, the easier it is to get get in contact with more creators and get them pumping out the same videos. You don't have to go to creators that are directly in your space. They could be adjacent. I'll give an example for Social wizard, for example. These micro streamers that we work with, none of them were really making content for our space about social skills. It was kind of a lot of different things. They were making content about Fortnite, you know, people breaking into McDonald's, just crazy stuff. They were reacting to videos, but again, they were hitting our audience and there was a lot of potential I saw with them being able to create content. If you're building an app that is in health and fitness, you could go to cooking creators. You don't have to go to creators who are directly in your niche. And if you try hard enough, you find something else.",
+      "start": 472770,
+      "end": 626560
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, cool. I mean, that Playbook is awesome. It's all about distribution. I want to go back a little bit and talk to you about ideas. You launched two very successful apps. You're a very busy guy. You probably have a bunch more ideas for things that could work. Could you share with the audience right now some of your mobile app ideas you have in 2025?",
+      "start": 626720,
+      "end": 643760
+    },
+    {
+      "speaker": "A",
+      "text": "I think the education niche is massively overlooked. I mean, right now everyone is building apps in health and fitness and lifestyle, and that's kind of like where the craze is going today. There's so much information out there. You can build an app about how to get better at boxing, how to get better at swimming, how to even get better at persuasion if you package it properly. I think there's a huge opportunity there. So I think education is a really good space. I think people should start looking into.",
+      "start": 644030,
+      "end": 667390
+    },
+    {
+      "speaker": "B",
+      "text": "Well, we haven't really talked about it yet, but I'd love to actually see what you build. You have two apps that made $1.5 million. What are these apps? What do they do?",
+      "start": 667790,
+      "end": 674760
+    },
+    {
+      "speaker": "A",
+      "text": "So the first one is Social Wizard. It's an AI powered application that helps guys improve their social skills. Most of the users who use the app are within the ages of 16 to 24. I guess what we're selling here is confidence, making it easier for people to reply to the DMs again. For this app, we monetize through subscriptions. It's a weekly subscription, about $10 a week. We have a monthly about 20 bucks and there is a yearly for about 80. And the second one is called Clean Eats. Very simple. It's an app in health and Fitness. You scan the barcode of a food product and will tell you how it affects your skin or your weights. Most of the users who use this are women within the ages of 18, so I'll say about 28 is the core market. One thing I'll say app founders need to do is when you look at your products, try to extrapolate what you're actually selling. Because when you're looking at cleanings, you can say, we're trying to sell these healthy alternatives to products. But what is the purpose of being healthy? What is that going to get me? But if you tell me, hey, don't eat this food product because it's going to mess up my skin, I am not going to touch it. I think for both apps, really what we're selling is confidence.",
+      "start": 674760,
+      "end": 731700
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, let's switch topics here. You built these apps yourself, what's the tech stack? How do you build apps?",
+      "start": 732010,
+      "end": 736970
+    },
+    {
+      "speaker": "A",
+      "text": "Right. So for me, I'm a React native guy. With all these tools today, like ChatGPT, it's very, very easy to build a very performative app with React native. For backend, I love Nest js. You can deploy that anywhere. Render Heroku, it doesn't really matter as long as the server works. Database Firebase is my go to. Very simple, highly scalable, very affordable and analytics. We just use Mixpanel. Always optimize for a stack that would get your product out there as soon as possible and is highly scalable.",
+      "start": 737130,
+      "end": 765230
+    },
+    {
+      "speaker": "B",
+      "text": "And on that same note, I want to understand a little bit about the cost to run a business like this. What are the margins like for a solopreneur running multiple apps?",
+      "start": 765230,
+      "end": 773030
+    },
+    {
+      "speaker": "A",
+      "text": "For Social wizard, most of the expenses was really marketing. You know, after Apple takes their cuts, profit margins are really over 90% because there wasn't really much we're spending money on. So every month we only spend like 1 to maybe 2k on infrastructure costs. These ops barely cost anything to run. You're going to end up spending like 90% of your budgets on marketing. If you do it properly. The cash flow is insane.",
+      "start": 773110,
+      "end": 794250
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, well, thank you for sharing that, being transparent about those numbers. The last question that I have for you that we ask everyone who comes on starter story, if you could stand on young Koletchi shoulders before Social wizard, what would be your advice? Or to anyone who's watching this that wants to build apps, what would you tell them?",
+      "start": 794250,
+      "end": 809290
+    },
+    {
+      "speaker": "A",
+      "text": "You're not crazy for being extremely obsessed with your goals. You know, weird if you choose not to go on the weekends because building is all you love to do. And this is something I heard from Alex Mosey. To be exceptional, by definition, you have to be the exception. And I think that's okay.",
+      "start": 809370,
+      "end": 825190
+    },
+    {
+      "speaker": "B",
+      "text": "That's great advice. Thank you, Klechi, for coming on, sharing this. Congrats on your success. Two very successful apps. I know people watching this will be inspired. Thank you for coming on.",
+      "start": 825350,
+      "end": 834550
+    },
+    {
+      "speaker": "A",
+      "text": "Thank you for having me back.",
+      "start": 834550,
+      "end": 835670
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, thank you to Klechi for coming onto the channel. I especially liked what he said at the end there about what tech stack to use. Keep it simple, build stuff that solves problems and focus on distribution. But in order to do that, you need to actually build something. And what better than to build it with all these AI coding tools that are taking off and allowing you to build apps in days? This is why we launched Starter Story Build, which is our program where in just a couple weeks, we will show you how to use AI to build anything you want. So whether you want to launch a mobile App or micro SaaS, starter story build can help you get there. Just head to the link in the description to check out Starter Story Build. I think you're gonna love it. All right, that's it for this episode, guys. Thank you for watching. We'll see you in the next one. Peace.",
+      "start": 835910,
+      "end": 879240
+    }
+  ]
+}

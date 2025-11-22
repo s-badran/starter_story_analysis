@@ -1,0 +1,143 @@
+{
+  "source": "/home/salouri/Projects/starter_story/transcripts/67zh8_yiPh4/67zh8_yiPh4_raw.json",
+  "segments": [
+    {
+      "speaker": "A",
+      "text": "Right now we have five apps and we're doing just over 200 grand MRR.",
+      "start": 160,
+      "end": 4160
+    },
+    {
+      "speaker": "B",
+      "text": "This is Mike, a founder from Australia who built five different SaaS apps that make a combined $200,000 MRR. But here's what's interesting. Each successful app he's created follows the same repeatable framework. And this framework works so well that he guarantees every app he puts through it becomes successful.",
+      "start": 4320,
+      "end": 24000
+    },
+    {
+      "speaker": "A",
+      "text": "I like to build ideas that can't fail.",
+      "start": 24080,
+      "end": 26560
+    },
+    {
+      "speaker": "B",
+      "text": "I like I asked Mike to come onto the channel and he shared everything, including his five apps that make $200,000 a month, how he picks ideas that cannot fail, and his exact 10 step playbook that he uses over and over. This episode you cannot miss. So let's get into it. I'm Pat Walls and this is Starter Story. All right, Mike, welcome to the channel. Tell me about who you are, what you built and what's your story?",
+      "start": 26560,
+      "end": 56810
+    },
+    {
+      "speaker": "A",
+      "text": "Hey, Pat, my name's Mike. I've currently got three SaaS businesses doing over 200 grand a month, and we've got two more on the way. Current businesses are Curator IO Junior Co, Frill Co, Fluke Co, and soon Smile Co. Our aim over the next five years is to get to about a million dollars mrr. And we want to do that with the smallest team possible without raising any capital.",
+      "start": 56810,
+      "end": 79050
+    },
+    {
+      "speaker": "B",
+      "text": "All right, amazing. You have a bunch of different apps making a ton of money. Can you share a little bit more what your businesses do and what your holding company does as a whole?",
+      "start": 79450,
+      "end": 87430
+    },
+    {
+      "speaker": "A",
+      "text": "Our current businesses are Curator IO, which is a social media aggregator for websites and events. Frill Co, which is a customer feedback tool which allows you to collect customer feedback, plot it to a roadmap and announce new features. Juno Co, which is a digital signage business aimed at cafes, gyms, schools and shops. And Fluke Co, which is a no code tours platform that allows you to build onboarding tours for SaaS businesses, tool tips, pop ups, things like that, without having to bother the developers. And our final business, which we're launching in the next two weeks, is Smile, which is an innovative way at doing group e cards for B2B businesses. And altogether, these five apps make just over 200 grand a month. We're fully bootstrapped and we've used exactly the same playbook to launch all of them.",
+      "start": 87430,
+      "end": 135530
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, I'm excited to get into the playbook of how you did this. Clearly it's working. You've done it with three about to be five companies. Before we get into that, I want to understand a little bit about your background. How do you get to the point where you own multiple SaaS businesses.",
+      "start": 135530,
+      "end": 147170
+    },
+    {
+      "speaker": "A",
+      "text": "Well, I used to be a developer, one of the world's worst developers. I was a flash developer and ended up running an agency, a digital advertising agency, and sold that a number of years ago. I somehow fell into advertising, ironically realized I was rubbish at advertising. And what I really loved was building products. And that's how I got back into building products.",
+      "start": 147450,
+      "end": 167530
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, Mike, one of the big reasons I wanted to bring you on the channel is you have this sort of strict and meticulous way of looking at building apps, choosing ideas of what to build. And I really like your approach. So could break that down for me. What is your approach to building apps?",
+      "start": 167690,
+      "end": 182390
+    },
+    {
+      "speaker": "A",
+      "text": "So our entire approach is about minimizing risk. I expect every single one of our businesses to be successful. We have a much higher rate of success. We haven't had a failure. So our model is like this. We go and find the idea, we work out how well they're doing despite of a bad ux. We then go and assemble the team. We like to have it tech heavy, so we'll have a front end developer, a back end developer, ideally a designer as well, and then somebody like myself who does everything else around the product. We always start with or co founders. What that does is minimize founder fallout, which is one of the key reasons most businesses fail. We prioritize design quite heavily. We believe that good design sells, which is why we like to have a designer on the team. We like people that can do a little bit of everything. We like every single person on the team to be thinking about the UX of the product. That's really, really crucial to who we get on board. With those four co founders, we always split the company equally, 25% each. We then grow the company to about $10,000,000 MRR, which covers costs there or thereabout, depending on which company it is. Then after $10,000 mrr, we split the profits between the founders and that's when we start to pay ourselves. These businesses are about bigger salaries, not big exits. We don't invest as much money back into advertising, we don't invest as much money back into staff. We stay super, super lean so that all the profits come out to the founders.",
+      "start": 182390,
+      "end": 270750
+    },
+    {
+      "speaker": "B",
+      "text": "What I love about Mike's story is his approach to building. He doesn't just build apps randomly. He actually knows what separates successful SaaS businesses from failures and HubSpot for startups. Who I'm partnering with for today's video also knows a few things about successful companies too. Over 35,000 customers rely on them to grow their startups and they just put together an insane resource called how to Build a unicorn in 2025. It's a free high signal guide packed with the sharpest data and founder insights shaping billion dollar businesses today. Inside you'll discover what kinds of companies are actually winning, hot industries, fast rising topics, and how you can build something around these ideas. My favorite part about this is that they removed all the fluff and made it as quick and actionable as possible so you can walk away and start executing on these ideas immediately. So if you're building anything in 2025 and want to understand what separates winners from everyone else, just Download HubSpot for Startup's free guide at the first link in the description below. Thanks again to HubSpot for Startups for sponsoring this video. Let's get back into it. Okay, I think this is amazing. You sort of have this framework for how to find ideas and how to build an idea that's almost impossible to fail as you sort of explained. I want you to get more detailed though. Can you break down this playbook step by step so anybody watching can do the same?",
+      "start": 270930,
+      "end": 354610
+    },
+    {
+      "speaker": "A",
+      "text": "Sure. We have a ten step playbook and we follow this to the letter every single time we launch a business. First and foremost, pick an idea that's been done before. New ideas are risky. New ideas need validation. If you pick an idea that's been done before, you know that people want it. You know that it works. Number two, decide what is a good enough mvp. You need to work out from your competitors what are the things that their customers want the most. Build the mvp. Get it out there as quickly as possible. Get people using it. Core to how we make money early on is the third point in our playbook. Offer a lifetime deal. Offer away your product for $59, $100, whatever it is for a single time. Payment number four never give away an account for free. Always charge people. If people pay for it, they'll use it. That's key to what you want at this stage in the playbook. You want people using your product. You want people telling you why it's crap. You want people giving you as much feedback as possible. Number five do as as possible to sell a private Ltd. Work in Reddit groups. Work in private Facebook groups. Get onto X. Find out where your customers are living. Work with the LTD groups, of which there are many, to get your product bought by as many people as possible. For Frill, we launched a private Ltd and raised about 30 grand from our private LTD. Number six start writing content. It is never, ever, ever, ever too early to start writing content. Start writing landing pages, start writing blog posts. Use that money that you got from the private Ltd to start writing content. Write competitive pages, alternative to pages. Get it out there as early as humanly possible. The longer it's up there, the longer ChatGPT, the longer Google will start indexing it and start sending you traffic. Once you've started writing content, launch on AppSumo or one of the other marketplaces. Appsumo is great because they have huge, huge reach. You can do two different things on Appsumo. You can launch on their marketplace, which has a lower fee, or you can work with their sales team and work on their select offering. Both work. Do your own research there, but they have a huge, huge database of people that they can mail out to. This can get you again, way more users and a hell of a lot more capital. Your aim should be to close your Ltd with 100 grand in your pocket that you can use for a year or two year to write more content. Once you've done an AppSumo Ltd, move to stage 8, which is Do One Last Private LTD. Many people don't want to miss out on a D. So this is where you're closing off your ltd, your lifetime deal for life. It will never, ever be available again. Put your prices up a little bit and offer one last private ltd. Send it out to your mailing list and then close it. And ideally close it forever. Stage nine is crucial. This is live or die moment. You've got 100 grand, or however much you raise from your LTD in the bank. This is where you get your customers to write your current LTD customers to help you get an Honest review on Trustpilot, on G2, wherever they're willing to write your reviews. It's so incredibly important, it will boost your domain ranking and get honest reviews for you. You'll find that the LTD community are willing to do that because they really, really want you to succeed. They're your early ambassadors. It used to be Quora that we would go out and answer questions on, but more and more we're seeing Reddit as an important place to go and answer questions about your product. Scan Reddit, see who's asking for one of your competitors. Answer honestly, authentically on Reddit posts. Look for Subredd where your customers are hanging out. This is such a crucial stage because you've now moved to mrr. Money's depleting, but hopefully you're starting to get MRR and by the time your money runs out. Hopefully you've got enough MRR to stay alive. That's it. That's the ten step process. This has worked for us on three companies. We're halfway through the Playbook on a fourth company. We're about to start it on the fifth company.",
+      "start": 354690,
+      "end": 591240
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, thank you for sharing that playbook. That's amazing. Super tactical, super step by step. And I can see how that works. I want to jump back to the earlier steps of the Playbook, which is finding ideas. Ideas, specifically you really focus on finding ideas that can't fail. Can you go a little bit deeper on that? What is an example of an idea that can't fail? And then what is an example of an idea that could potentially fail that you wouldn't touch?",
+      "start": 591480,
+      "end": 613460
+    },
+    {
+      "speaker": "A",
+      "text": "So one, what I will tell you is one idea that or an area that we will never go after. We'll never go after an AI focused business. Too many times you have an idea that relies on something, an API that you do not control, something that you want to control. Controller, which puts you at massive, massive risk. Having said that, one idea that we, you know, we almost went after, we still may go after. We love the idea of some sort of documentation tool. I don't feel like the documentation tools that are out there at the moment are doing a really good job or the ones that are doing a really good job are severely overpriced. And good documentation, especially today, is going to be the key to success because AI needs good documentation to recommend your product well, to know about your product. So that's something that I think, think may work well. We just won't rely on AI to build or be an integral part of the business.",
+      "start": 613780,
+      "end": 666310
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, cool. I like that. Not going after sexy ideas that may not exist in six months. Avoiding platform risk. I want to switch gears a little bit and talk about Tech Stack. I know you come from a bit of a development background. How do you actually build these apps and what tech stack do you have them built on?",
+      "start": 666550,
+      "end": 681870
+    },
+    {
+      "speaker": "A",
+      "text": "The tech stack varies depending on the founding team and what they're comfortable using. Whether it's vue, whether it's React on the front end. Our back end still predominantly sits in PHP and Laravel, but again, that changes all the time. Some of the tools I'm loving at the moment. Willow Voice. I can barely type anymore. You just press the function key and you can talk at your computer. We're using granola for meeting notes. I absolutely love it. Obviously, Slack and things like that. We use Framer for websites. We've just moved over to Framer. Actually, all of a sudden, websites are no longer the job of the tech team and more recently Veo for prototyping. We prototype everything in and then we take it into design and figma and then we build it.",
+      "start": 681870,
+      "end": 721440
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, cool. Thanks for sharing that. The last question that I have for all founders who come on Starter Story. If you could go back in time and give advice to young Mike before you got started building apps and software and SaaS, for anybody who's watching this, what would be your advice to get started and build awesome companies like you're doing?",
+      "start": 721440,
+      "end": 737880
+    },
+    {
+      "speaker": "A",
+      "text": "Really simply? Just work with people you enjoy working with. Work with people that you are quite happy to go and have a. A drink at the pub with. It's actually the main reason I do all of this. I feel like I go to work every day and I go to work with my mates. It's, it's, you know, it's brilliant fun. We spend a lot of time working on the details because we love doing that. Don't just create something that customers want. Create something that you love building as well. That's super, super important.",
+      "start": 737960,
+      "end": 761980
+    },
+    {
+      "speaker": "B",
+      "text": "Well, I love that. Mike. What's the point of building businesses if it's not fun? Thank you for sharing everything about all the companies you're building. I think it's going to inspire a lot of people. Thanks for coming on and sharing.",
+      "start": 762140,
+      "end": 770450
+    },
+    {
+      "speaker": "A",
+      "text": "Pat, thanks a lot. Have a good day.",
+      "start": 770760,
+      "end": 771960
+    },
+    {
+      "speaker": "B",
+      "text": "Thank you, Mike, for coming on the channel and sharing all the different apps that you built. Personally, what I love about Mike's apps is that they're all boring. They're boring businesses, but they crush it and they make a whole lot of money. I think there's something to learn there about not chasing shiny, sexy ideas. On that same note, this is exactly why we launched Starter Story Build. We will help you take your idea, which it's okay if it's boring, and turn it into a real app using only AI tools. So if you are ready to get off the sidelines and ready to actually launch your project, then definitely head to the link in the description to check out Starter Story Build. We are running one of our new cohorts this week, so click that link and save your spot. All right, that's it for this episode. Thank you guys for watching. We will see you in the next one.",
+      "start": 772200,
+      "end": 815070
+    },
+    {
+      "speaker": "A",
+      "text": "Peace.",
+      "start": 815310,
+      "end": 815790
+    }
+  ]
+}

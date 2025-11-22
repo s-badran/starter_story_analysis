@@ -1,0 +1,275 @@
+{
+  "source": "/home/salouri/Projects/starter_story/transcripts/BNr1JOQdSN0/BNr1JOQdSN0_raw.json",
+  "segments": [
+    {
+      "speaker": "A",
+      "text": "I launched my app and made $65,000 in three days with zero audience.",
+      "start": 160,
+      "end": 3920
+    },
+    {
+      "speaker": "B",
+      "text": "Meet Devin, an indie hacker from India who failed at multiple startups before stumbling across a strategy that would change everything.",
+      "start": 4160,
+      "end": 11680
+    },
+    {
+      "speaker": "A",
+      "text": "Lifetime deals are a cheat code because it gives you. And most importantly, now Devin runs a.",
+      "start": 12000,
+      "end": 18600
+    },
+    {
+      "speaker": "B",
+      "text": "Successful app making around $20,000 a month. So I invited him onto the channel to break down this strategy that changed his business.",
+      "start": 18600,
+      "end": 25920
+    },
+    {
+      "speaker": "A",
+      "text": "I was always a struggling entrepreneur. I didn't know how to build distribution.",
+      "start": 26240,
+      "end": 30640
+    },
+    {
+      "speaker": "B",
+      "text": "In this episode, will break down his app and how he grew it to $200,000 a year. We'll go over his $65,000 launch strategy and why you should consider doing the same. And the lifetime deal strategy, the pros and cons, and why it actually might be genius. This one might be controversial, but I'm excited to get into it. I'm Pat Walls and this is Starter Story. All right, Devin, welcome to the channel. Tell me about who you are, what you built, and what's your story?",
+      "start": 30640,
+      "end": 56700
+    },
+    {
+      "speaker": "A",
+      "text": "Hi, Pat. My name is Devin and I'm one of the co founders of SuperGrow. SuperG is a SaaS that helps professionals build their personal brand on LinkedIn and now it makes $230,000 a year. I'm excited to come onto the channel and talk about lifetime deals.",
+      "start": 56780,
+      "end": 69160
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, well, I'm excited to talk about lifetime deals, but first I want to get some stats on this. Give me just a high level of how much cash your lifetime deal generated and then how the business is doing today.",
+      "start": 69160,
+      "end": 79640
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah, like when we launched Lifetime deal, we generated $65,000 in three days. Right now we are not focusing on Ltd, but we have a subscription business.",
+      "start": 79800,
+      "end": 87800
+    },
+    {
+      "speaker": "B",
+      "text": "So.",
+      "start": 87850,
+      "end": 88010
+    },
+    {
+      "speaker": "A",
+      "text": "So right now, currently we are making more than $19,000 per month. We currently have more than 800 plus recurring customers. Usually we get around more than 15,000 visits every month on our landing page.",
+      "start": 88080,
+      "end": 100320
+    },
+    {
+      "speaker": "B",
+      "text": "Before we get into the lifetime deals and the cash, the crazy cash infusion that you had in this business. Let's just talk about how you came up with the idea for this. How did you come up with the idea for Supergirl?",
+      "start": 100400,
+      "end": 110280
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah, like after my last product shutdown, I started looking for some markets because I already knew, like, I don't want to create a new category. So I found a lot of LinkedIn tools doing really great. I actually tried their tool out and I actually was not happy with the content creation piece. Around the same time GPT3 was launched and it actually changed the whole content creation game because it was really good at mimicking the writing style of the user. So I created sort of an MVP over the weekend and I really loved it because I was able to convert my own raw thoughts into LinkedIn worthy posts. And it was really amazing. So I thought there is something, something which I can do here. And that's how like I've ended up with Supergirl.",
+      "start": 110280,
+      "end": 150410
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, so that's sort of interesting. You looked at the existing competitors in the market, you realized that their solutions just weren't all that great. That gave you the confidence to build something. Could you dive deeper into that sort of validation strategy?",
+      "start": 150410,
+      "end": 163410
+    },
+    {
+      "speaker": "A",
+      "text": "So one thing which I always tell indie hackers is don't try to create a new market, just work on the validated market. So what I suggest a lot of people is go for products or go for markets which are actually generating revenue. Once you have identified, identify the validated market, your next step should be to figure out what are the competitors. So deeply understand your competitors. Use their product day in, day out and try to understand what are their core flows. Try to come up with a new way to solve the core flows. So once you are able to come up with a sort of a 1% increment in the quality of the product, like you can just go ahead and just build a new MVP after that. What I did was I did exactly this. So I actually studied my three competitors who were like the biggest competitors in my market back then. One was Taplio, the second one was Contentin. The third one was authored up. Taplio was the biggest in the market. They had like numerous features. But the core feature, which is basically content creation piece, was not that great. And after studying all these products, I realized the demand in the market is so much that even products like these are able to earn revenue. So I realized I can serve this demand really well.",
+      "start": 163730,
+      "end": 231960
+    },
+    {
+      "speaker": "B",
+      "text": "All right, cool. Well, we find the idea, we start building it now. Let's talk about lifetime deals. So essentially the lifetime deal generates rated $65,000 in about three days. Can you tell us how you get there?",
+      "start": 232120,
+      "end": 243780
+    },
+    {
+      "speaker": "A",
+      "text": "When I started Superguru, I had 600 followers on Twitter and maybe like 500 followers on LinkedIn. I was always a struggling entrepreneur. I didn't know how to build distribution. So I only had like 2, 3 customers back then and I actually didn't know how to get more customers. One of the co founder of RocketUp, Charlie, actually saw our journey on LinkedIn and he actually reached out to us. We would love to help you launch Supergrow on Rocket was really exciting because we were not expecting that. And initially, to be honest with you, I was really skeptical but like, after talking to Charlie, I kind of get it, like, why people do ltds. Okay.",
+      "start": 243780,
+      "end": 281920
+    },
+    {
+      "speaker": "B",
+      "text": "I want to hear some of the kind of the dirty details of the lifetime deal. How did you price it? How did that work?",
+      "start": 281920,
+      "end": 288720
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah, so actually lock it up helped us with the pricing. So we launched three different tiers. So the basic pricing tier was $79, which basically translates to our basic plan right now. The second plan was $199, which is a pro plan. The third plan was the agency Plan, which was $299. So whoever bought the product back then, they were getting like four to five years of value just by paying like 299, $198.",
+      "start": 288720,
+      "end": 313570
+    },
+    {
+      "speaker": "B",
+      "text": "Okay. So the pricing is interesting. I'm also curious about the platform's role. What did they actually do for you? And also more importantly, what percentage cut did they take of the lifetime sales?",
+      "start": 313650,
+      "end": 325570
+    },
+    {
+      "speaker": "A",
+      "text": "They actually do everything for you apart from the product. What Rocket Hub did was they marketed our product across a lot of different platforms, multiple things. They have a list of hundreds of thousands of customers who are ready to buy ltd's. The first thing they did was they sent email to all, all of their customers and they talked about superglow with them. The second thing which they did was they created ads for Instagram and Facebook. And the third thing which they did was they basically created all the marketing assets. Like they created screenshots, videos, which we still use some of these even today. So they created all these assets and they launched Supergo for us. Essentially our role was build the product. And the second was support, which is really crucial for entity because you are going to get a lot of queries and stuff. So those are the only two things which we did. Everything regarding marketing was actually done by RocketUp. So for this, RocketUp took like 40% of the cut, which translates to around $40,000 for us. Obviously it's a big cut. 40% is a huge cut. But if you think about it, at that moment, we did not have like, we had only like one or two customers. We had almost close to $0. But just by launching our product through them, we were able to generate $40,000.",
+      "start": 325730,
+      "end": 393140
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, wow, that's a big cut. 40%. I imagine a lot of people watching this are like, why would you give up that much of a product that you built? I'd love to hear from you about the pros and the cons of lifetime deals. I talk to a lot of founders. Some of them love it, clearly like you. Some of them regret it. So let's talk about it, what are the pros and cons?",
+      "start": 393220,
+      "end": 412660
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah, so one of the, the biggest benefit of LTD is cash infusion, validation and early feedback. Initially, when you are starting a company, when you're starting a product, you essentially have zero customers. You are people who can use your product and give you feedback. Through ltd, we got both the things. There are couple of downsides. So the biggest downside is high platform cut because in our case RocketUp took 40% of the revenue. And the second downside is we got a lot of angry customers reaching out to you for feature requests for missing features, for bugs and stuff. And also when you launch agaddy, you attract a lot of cheap customers also. So that sort of gives perception your product is not that great. So these are the three downsides of ltd.",
+      "start": 412740,
+      "end": 452660
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, interesting. So yeah, I mean, definitely pros, definitely cons. What I think is cool about it is the early feedback. So I guess my next question would be for you is did that lifetime deal, those hundreds of customers join, did that actually help improve your product?",
+      "start": 452660,
+      "end": 466260
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah, definitely. We had actually around more than 250plus Ltd customers. So there is a churn in LTD customers also. The only like 10% of these customers are really going to use your product after a certain period. Around 20 to 25 customers, they genuinely use the product every week. They used to give us very brutal feedback. Like because we were really new in the market, they were not really polite so they used to message us on intercom. Some of the customers were able to get our members also from Internet. Some of these customers were really good. They actually helped us shape the roadmap. So they gave us a lot of good insights into content creation on LinkedIn that actually helped us improve the product massively.",
+      "start": 466500,
+      "end": 504560
+    },
+    {
+      "speaker": "B",
+      "text": "All right, well, before we get back to Devin's story, let's talk about what he actually did. He didn't build a crazy new idea. He noticed a simple problem. He saw there was actually competition for it, but he still built something that was just a little bit better. And that one idea turned into a now $200,000 per year business. This is exactly why we launched Starter Story Build. It's a program where we help you find your simple idea, build it using AI coding tools and actually help you ship it to the world. The best part, you don't need years of coding experience. AI does the heavy lifting. So if you're ready to turn a simple idea into your next project, just head to the first link in the description to check out Starter Story Build. All right, let's get back to the Episode okay, so let's go over some of the objections that people do have to ltds. I posted about lifetime deals on X and someone wrote something along the lines of lifetime deals are just founder coping for a bad product. What do you think about that?",
+      "start": 504720,
+      "end": 562600
+    },
+    {
+      "speaker": "A",
+      "text": "So what I feel is actually LTD exposes bad products really faster because these LTD customers are going to give very brutal feedback to you. So I don't feel like LTD is just a go for a bad product.",
+      "start": 562760,
+      "end": 575610
+    },
+    {
+      "speaker": "B",
+      "text": "Cool. I mean I like that. What if instead you just offer your product for free to get feedback?",
+      "start": 575690,
+      "end": 580890
+    },
+    {
+      "speaker": "A",
+      "text": "What happens? What I've realized is free users don't actually validate your product, they will just consume it and if something doesn't work they will just ghost you. But LTD customers, because they have put real money into your business, they are going to give you good feedback. So they are going to basically tell you what exactly is broken in your product.",
+      "start": 580970,
+      "end": 597370
+    },
+    {
+      "speaker": "B",
+      "text": "The other alternative that I've heard about is maybe you offer a really cheap yearly plan or maybe even you offer just one year of access to the product. What do you think about that?",
+      "start": 597450,
+      "end": 606510
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah, I don't think like you will be able to attract that much attention through cheap annual plans. And also at the same time I don't think you will be able to generate that much of a revenue with cheap plans because see like we had generated $65 in three days. I don't think like if we have launched like adjunct plan we would have generated that much amount of money now Also like if you think about it, LTD buyers actually feel special. They got a deal nobody else will get in future. So this sort of creates an urgency and FOMO that annual plans won't be able to match.",
+      "start": 606590,
+      "end": 632350
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, cool. The last objection that I hear is that doing an LTD will kill your future long term growth because you can't make any money from those people that you sold the ltd's to. What do you think about that?",
+      "start": 632590,
+      "end": 645730
+    },
+    {
+      "speaker": "A",
+      "text": "That's actually not true. What I've realized is in future you can actually upsell them. So that is another thing which you can do. And also at the same time what I feel is you don't want to launch LTD for a long period of time. Say for example we launched LTD only for three days. So the very good way to ensure you are not overselling ltd's is just limit the time frame and also limit number of user are going to like support. So we limited that to 300 users. So because we launched only for three days and, and also like we, we did a lot of upselling to these LTD customers that actually helped us build our subscription business as well.",
+      "start": 645970,
+      "end": 680190
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, interesting. I mean on that note, I would love to hear about the transition. I mean you went from LTD strategy that sort of kickstarted the business, but then you transitioned it to subscription. I think a lot of people watching would like to hear what worked for you in terms of that transition and what advice would you have for other people trying to do the same.",
+      "start": 680590,
+      "end": 698900
+    },
+    {
+      "speaker": "A",
+      "text": "One of the biggest thing that we did just after launching LTD was we actually make sure our customers were happy. So we were really obsessed with our LTD customers. We used to spend like one or two hours every day on Intercom answering their question, helping them through content creation. Like we sometimes used to help them manually and then used to convert those workflows into features inside Superglow. So we did this for a couple of months. It actually helped us a lot in improving the product. We also added these tools called Clarity and Mixpanel to really understand what these customers were doing. So we used to basically see which feature set they are using, which features that they are not using. We did this like for a couple of months, but then we created this plan of launching our product on product hum. So what we did, we actually launched it on Product Hunt and we were able to become like product of the week in Product Hunt and actually gave us 50 customers also. So one of the key things, these LTD customers actually helped us make our product and launch better because they actually evangelized our product everywhere. I was not the only person talking about my product that day. We had like 10, 10 to 15 really Happy Ltd customers who actually talked about us on LinkedIn, on Twitter, on Product Hunt and they also shared about our product on these platforms like WhatsApp groups and stuff. Launching on LTD is not just for cash, it's for these purposes also. Like we were able to re 10, 15ambassadors for our product that actually helped us make our product Product of the week.",
+      "start": 699210,
+      "end": 783890
+    },
+    {
+      "speaker": "B",
+      "text": "I think that's super cool and I didn't think about it that way is that lifetime helps build community around your product which led to a really big Product Hunt launch. That's super cool. Let's switch topics real quick. I want to hear about Tech Stack. What kind of tools languages stack do you use to build this business?",
+      "start": 783970,
+      "end": 801160
+    },
+    {
+      "speaker": "A",
+      "text": "For app I use Rails, React and Tailwind. I use Postgres for db, Supabase for Auth and Assets, Railway for hosting, Framer for landing page, Supergirl AI for LinkedIn content creation, Intercom for live chat, Mixpanel for product analysts, Stripe for payments and Microsoft clarity for session recording.",
+      "start": 801560,
+      "end": 819460
+    },
+    {
+      "speaker": "B",
+      "text": "Could you also, if you're comfortable sharing, break down some of the costs and margins to run this business?",
+      "start": 819930,
+      "end": 824650
+    },
+    {
+      "speaker": "A",
+      "text": "So there are three broad categories of expense. One is basically marketing and affiliates. Currently we are spending around $3,000 there. Apart from that, we do have some freelancers who help us with design and product. We're currently spending more than thousand dollars there. So if I add everything, we are currently at 60 to 70% profit margin.",
+      "start": 824890,
+      "end": 841930
+    },
+    {
+      "speaker": "B",
+      "text": "Thanks for sharing that. And the last question that I have for you is a question we ask all founders who come on Starter Story. If you could stand on Young Devin's shoulders before you had this amazing business that you built before the Lifetime deal, what would be your advice to Young Devin and for anyone watching right now?",
+      "start": 841930,
+      "end": 858200
+    },
+    {
+      "speaker": "A",
+      "text": "I think my one piece of advice would be don't work in an unvalidated market and don't think of creating a very unique solution in a unique market. I think it's okay to build a better version of an existing product that's getting traction. As an indie hacker, it's very hard for us to educate users on the problem. So I would suggest focus on validated markets. Don't hesitate, don't think you need to create a really unique product. You can just build a better version of existing products.",
+      "start": 858280,
+      "end": 884980
+    },
+    {
+      "speaker": "B",
+      "text": "All right, Devin, thanks for coming on the channel. I think what you did is awesome. I think Lifetime deals are super cool and hopefully anybody watching this got to learn something really cool today. Let us know in the comments what you think about Lifetime deals. You think they're good? You think they're cope for bad founders. I'd love to hear. But thanks for coming on the channel, Devin.",
+      "start": 885300,
+      "end": 902100
+    },
+    {
+      "speaker": "A",
+      "text": "Thanks, Pat. Thanks for having me.",
+      "start": 902100,
+      "end": 903620
+    },
+    {
+      "speaker": "B",
+      "text": "All right, thanks again to Devin for coming onto the channel. I love his story because he's proof that you can build a really nice business from anywhere in the world. That's the path power of building apps and software, especially in this crazy AI wave we're going through right now. And Shameless Plug. That's exactly why we created Starter Story Build, our program where we guide you on how to use AI to go from an idea to an app in just a few days. In very little time, you could build something that solves a real problem and ship it to real users. So if you're interested in that, head to the first link in the description and check out Starter Story Build. Thank you guys for watching. We'll see you in the next one.",
+      "start": 903700,
+      "end": 939810
+    },
+    {
+      "speaker": "A",
+      "text": "Peace.",
+      "start": 940280,
+      "end": 940600
+    }
+  ]
+}

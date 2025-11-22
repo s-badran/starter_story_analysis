@@ -1,0 +1,221 @@
+{
+  "source": "/home/salouri/Projects/starter_story/transcripts/miEUhwSR2-0/miEUhwSR2-0_raw.json",
+  "segments": [
+    {
+      "speaker": "A",
+      "text": "I walked away from my career to build my own thing.",
+      "start": 160,
+      "end": 2560
+    },
+    {
+      "speaker": "B",
+      "text": "This is Nico, and he did something that, let's be honest, is really hard. He gave up his entire career.",
+      "start": 2640,
+      "end": 8880
+    },
+    {
+      "speaker": "A",
+      "text": "I didn't really know what I was doing.",
+      "start": 8880,
+      "end": 10480
+    },
+    {
+      "speaker": "B",
+      "text": "He was on the traditional path until two letters made him rethink everything. AI, AI, AI, AI.",
+      "start": 10560,
+      "end": 17520
+    },
+    {
+      "speaker": "A",
+      "text": "Building an AI is the best decision I ever made.",
+      "start": 17680,
+      "end": 20160
+    },
+    {
+      "speaker": "B",
+      "text": "I know, I know AI is all the rage right now, but this episode is about a normal guy who saw an opportunity and decided to make the leap. And you'll learn why he left his entire career behind to be build an AI and why you should too. How to build niche viral apps and the opportunities to build an AI. Right now. This one's going to be fun. I'm Pat Walls and this is Starter Story. All right, welcome, Nico, to the channel. Tell me about who you are, what you built, and what's your story?",
+      "start": 20160,
+      "end": 52060
+    },
+    {
+      "speaker": "A",
+      "text": "Hi, everyone, I'm Nico. I'm the founder of Neuroframes, which is a platform to create AI music videos. I've been a physicist in my previous life and was also always an active musician. And in the end of 20, I started building Neural Frames. It was kind of my first full stack software project ever. And the first year I built it as a solopreneur. And now we are a team of five, and last month we made $100,000.",
+      "start": 52300,
+      "end": 74920
+    },
+    {
+      "speaker": "B",
+      "text": "All right, well, tell me a little bit more about Neural Frames. What exactly does this tool do?",
+      "start": 75160,
+      "end": 79280
+    },
+    {
+      "speaker": "A",
+      "text": "So Neuroframes is a tool to create AI music videos. It's an AI music video generator. If you're a musician, you need lots of visual content. For every song that you put out, you need visual content to go along with it. And traditionally visual content is actually of hard to produce. So we try to make this easier and use several AI tools for it. Most of our users are hobby or indie musicians, some professional musicians too. And then there's a lot of people actually that create music now with AI music tools and come to Neuroframes to make music videos for these songs.",
+      "start": 79280,
+      "end": 108190
+    },
+    {
+      "speaker": "B",
+      "text": "What I think is super cool about your story is that you went through a full career change, you were doing something else, and then you stumbled into AI. Can you tell me a little bit more about your background before you got started with Neural Frames?",
+      "start": 108510,
+      "end": 119510
+    },
+    {
+      "speaker": "A",
+      "text": "I studied physics. In 2016, I finished my master's. I was kind of fed up with physics already. But as I was looking for jobs to do, I found that those were not really interesting to me. And so I didn't really know what to do with my life and did a PhD regardless. And in 2018 I ran the first scientific simulations and discovered that I really like programming. When I was done with my PhD in 2020, I joined the deep tech startup. Working kind of at the intersection of computer vision and physics was cool. I learned a lot about AI and programming and then eventually in 2022 started building new reframes.",
+      "start": 119510,
+      "end": 149930
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, let's dive into that a little bit. You were deep in this PhD academia world for years. How did you decide that you want drop everything and just completely change careers?",
+      "start": 149930,
+      "end": 159110
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah, deep down I must say I was never ultra passionate about physics. I was good in it and so I kept on doing it, but I always had the feeling that there would be more for me somehow. And I wanted to build something that affects people in the real world, maybe that improves somebody's lives. I think deep down in me there is a wish to be seen in the world and actually the startup environment is perfect for it because every decision I make has direct impact on the startup, which is really great.",
+      "start": 159110,
+      "end": 182230
+    },
+    {
+      "speaker": "B",
+      "text": "All right, before we finish Nico's story, I want to talk to the solo founders. Watching this. Going solo doesn't mean staying small. And if you hit 1 million ARR, you probably have enterprise customers. But those customers don't just ask what does your product do? They want to know if you're compliant. Words like SOC2, HIPAA and ISO 27001 can be hard to understand. And if you're not up to date with your compliance, the deal is probably dead before it even starts. That's why we partnered with Vanta on this video. Vanta is the platform that automates the hard stuff around security and compliance so you can focus on your product. Vanta hooks into your stack, runs continuous checks and keeps the evidence all clean for the auditors so you can stay in build mode while Vanta handles the paperwork. Thousands of fast growing companies like Ramp, Atlassian, LangChain and Cursor already use Vanta to prove security in real time. So if you're just getting started, Vanta put together this free Compliance for Startups bundle. It has checklists, case studies and step by step breakdowns to help you get compliance client before you lose the deal. Just click the first link in the description to download it for free. Huge thanks to Vanta for supporting the channel. Now let's get back to Nico. What would be your advice for someone who might be watching this? Who is considering changing their career building with AI?",
+      "start": 182420,
+      "end": 258240
+    },
+    {
+      "speaker": "A",
+      "text": "I think the most common thing holding people back is two things. One is they are scared that things won't work out. And the second might be that they are scared they can't do it, maybe due to technical challenges. I think for the former there's really no reason to be scared, to be honest, because there's nothing to lose. You will learn so much by switching careers, by building something your own, that you will easily make up for it later on, even if it doesn't work out. Right. And people should also not be scared of the technical challenges. It's never been easier to build something. It's incredible with these AI tools, you feel like a superhuman. You can just build anything you want in a crazy speed. The worst case that can happen is that, yeah, I tried to do something new and you can always go back to get your O job.",
+      "start": 258240,
+      "end": 297390
+    },
+    {
+      "speaker": "B",
+      "text": "All right, let's jump back to the idea. How did you find the idea for neural frames? How specifically did you find this amazing idea?",
+      "start": 297390,
+      "end": 304630
+    },
+    {
+      "speaker": "A",
+      "text": "I believe very strongly in the round find out principle. So meaning just do many random things all across the board. Imagine this as regions in the whole universe of ideas that you populate. Then something magical happens actually when multiple of these things that you've done in the past combine. For instance, in my case I was doing computer vision and then music, a lot of and turns out that these two can meet in the field of AI animation for music videos. Right. Maybe one practical tip also is what I do now, what I find useful to spot ideas is I use SEO tools such as ahrefs. For instance, if you have an idea, try to find a keyword that people might be looking for. This idea, if it has a certain volume, let's say more than thousand monthly searches or something, and the low difficulty it means you're onto something because people are searching for something and there's not already a thousand solutions for it. That's great.",
+      "start": 304710,
+      "end": 353380
+    },
+    {
+      "speaker": "B",
+      "text": "What kind of opportunities do you see in AI right now? What are some good business ideas to be building in AI?",
+      "start": 353380,
+      "end": 358980
+    },
+    {
+      "speaker": "A",
+      "text": "Too many. It's hard to restrain myself from building side projects. I find customizable media at the moment very interesting. I would love to have an AI podcast generator in general, I think voice mode and audio interface is very interesting. I would love to have an executive coach who I can talk to on my way to the office and just it has access to my Calendar and knows WhatsApp maybe has access to Slack and I can just bounce off ideas and do weekly planning with that. Yeah, I think there's many things that you can rethink nowadays with AI.",
+      "start": 358980,
+      "end": 387840
+    },
+    {
+      "speaker": "B",
+      "text": "All right, so one thing I noticed about neural frames is that it's an AI video generative tool just for musicians. Was it always like this?",
+      "start": 387840,
+      "end": 395640
+    },
+    {
+      "speaker": "A",
+      "text": "Niching down was a huge unlock for us actually. So I had no clear use case. The tagline on the landing page was text to video for everyone. Which is really not great, to be honest. And the smart friend actually told me I will have a much easier time selling this product if I decide on one particular use case. And this was very smart because. Imagine the following scenario. Yeah, you're a musician, you come to a site, it says text to video for everyone or AI video generator. And then you already need to do a mental step. Maybe I can do music videos here, right? Some people will not do this, so you lose already. Some people versus you come to a site that says bam. This is the platform to create music videos. This is what you've been waiting for, dear musician. So you will feel much more home and you are much more likely to tell your friends about it. So it's become a better product for your use case.",
+      "start": 395800,
+      "end": 439000
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, that's awesome. Let's take a detour a little bit to the growth of this business. How did you go from just an idea and an MVP to $100,000 a month?",
+      "start": 439000,
+      "end": 448040
+    },
+    {
+      "speaker": "A",
+      "text": "It was a long journey for sure. So maybe the first Internet money I made with a post on Hacker News. I posted on Hacker News kind of a week after I set this life. The whole product looked terrible. I think this actually resonated with the crowd on Hacker News who are kind of, you know, a bit nerdy. And it didn't look like a commercial product at all. And then it reached I think top six on a, on a Sunday, which just blew up my ph. I was having dinner with friends and saw 350 people in the last 30 minutes on the side and ran home to try to keep the GPUs alive. This was really great. Got me a lot of interesting coins, lots of backlinks. First Internet money and then I just kept building things try to make the product better. I kept reaching out to AI people. I made use of SEO kind of early on. Dedicated landing pages, free tools definitely still work really well on Google. One other thing that I did which resonated with people and that helped me was that I played the indie hacker solopreneur card aggressively in the footer of the site. It says no VC money, just a tiny company in love with text to videos. Like I tried to keep it very personal. My photo was everywhere. I recorded the YouTube tutorials and I think there is some value in that. I think people buy from people and not from companies. And so they felt connected. To me, this was kind of a flywheel of making the product a bit better known.",
+      "start": 448040,
+      "end": 519590
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, great. Let's dive into some of the numbers of this business. Can you share some of the numbers behind this business? How many users, how much revenue this is doing?",
+      "start": 519590,
+      "end": 527050
+    },
+    {
+      "speaker": "A",
+      "text": "We have around 1,500 customers bringing in $100,000 a month. We have around 100,000 monthly active users, so visitors coming to the site. And then I think in total now we have had 1.5 million videos finished on neuroframes, which is also wide.",
+      "start": 527050,
+      "end": 542610
+    },
+    {
+      "speaker": "B",
+      "text": "1.5 million AI videos generated. That's insane. On that note, can you tell me about the tools, languages and stack that you use to build this SaaS and run this business?",
+      "start": 542610,
+      "end": 551890
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah, so nowadays I use cursor for coding. The backend is written in Python, the front end is written in next JS. We use RunPod for our GPUs. We use file for text to video APIs. We use post hoc for analytics, which is awesome. Slack for communication, Linear for task tracking, Notion for internal documentation. If we document something, Ahrefs for SEO, which I really like. Intercom for customer support, email Octopus for newsletters and stuff. And then we have a custom telegram bot that alerts us if the servers are down, which turned out to be really useful. And then of course chatgpt as my therapist and all kinds of random tasks that come up in the startup journey.",
+      "start": 551970,
+      "end": 590480
+    },
+    {
+      "speaker": "B",
+      "text": "Nice. And you mentioned costs earlier. You're doing about $100,000 per month in revenue. What are the costs to run an AI generative SaaS business?",
+      "start": 590480,
+      "end": 599400
+    },
+    {
+      "speaker": "A",
+      "text": "At the moment we are spending around $45,000 per month just for GPUs and text video APIs, so almost half. And then 5k maybe for server storage, posting and stuff like that. Then we're spending I think now 1000 bucks a month on cursor at the moment, which is wild thanks to Opus. And then we have some other expenses. I mean $300 per month for email Octopus, $200 per month for Versailles. 120 I think for post H110, maybe for Ahrefs, 100 for intercom. There's not much profit in the end.",
+      "start": 599560,
+      "end": 628500
+    },
+    {
+      "speaker": "B",
+      "text": "Thank you for sharing all that. What's a key lesson that you've learned in your journey? Going from a PhD in physics to building your own AI apps, having a really successful business. What's the key lesson you've learned?",
+      "start": 629380,
+      "end": 639780
+    },
+    {
+      "speaker": "A",
+      "text": "You would think think as a bootstrap company you are in disadvantage to VC backed companies. But I think this is Oftentimes actually not true. It's of course easier to get off the ground as a VC backed business, but once you have some traction as a bootstrap business, you're actually much more free to make moves. I mean, we can target a much lower market size as a bootstrap business. Then a VC bag company needs to reach a billion dollars in valuation and otherwise it's not worth doing it. Right? Yeah, I'm much more relaxed. I don't need to do it. So this is nice because it means we can target certain problems that maybe VC backed companies won't target. Yep.",
+      "start": 639780,
+      "end": 671730
+    },
+    {
+      "speaker": "B",
+      "text": "The last question I have for you, we ask all founders come on the channel. If you could stand on Nico's shoulder when you know he was considering leaving the PhD, leaving the old career, what would be your advice?",
+      "start": 671730,
+      "end": 681330
+    },
+    {
+      "speaker": "A",
+      "text": "Do it. Don't be scared. Something that I learned for sure is the most important part is try to solve a problem and just focus on solving a problem for somebody. Somebody pays for a problem solved, they don't pay for the tech around it. They don't care about this.",
+      "start": 681330,
+      "end": 696270
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, that's great advice. Thank you Nico for coming on. The business you built is awesome. Good luck in the future and hope to have you on soon.",
+      "start": 696270,
+      "end": 702790
+    },
+    {
+      "speaker": "A",
+      "text": "Thank you very much Pat. Been a pleasure.",
+      "start": 702790,
+      "end": 704550
+    },
+    {
+      "speaker": "B",
+      "text": "I love Nico's story because of the career change that is really hard to do. He had his entire path before him, but then gave it all up to do something else. Build with AI I love this because it's proof that anyone from any background can learn how to use AI to bring an idea to life. It's cliche, but I really do think learning how to use AI will unlock things you never thought possible. And that's exactly why I launched Starter Story Build. It's a program designed to help anyone learn the basics of building with AI. And in just a few days you'll have a working app ready to ship into the world. If you're curious or interested in this, head to the first link in the description to check out more about Starter Story Build. Thank you guys for watching. I'll see you in the next one. Peace.",
+      "start": 704550,
+      "end": 748330
+    }
+  ]
+}

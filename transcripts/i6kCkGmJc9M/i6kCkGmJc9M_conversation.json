@@ -1,0 +1,263 @@
+{
+  "source": "/home/salouri/Projects/starter_story/transcripts/i6kCkGmJc9M/i6kCkGmJc9M_raw.json",
+  "segments": [
+    {
+      "speaker": "A",
+      "text": "Carl Hughes built a $2.5 million a year business in just two years with one strategy.",
+      "start": 160,
+      "end": 5440
+    },
+    {
+      "speaker": "B",
+      "text": "Putting ourselves in people's minds as the premium provider.",
+      "start": 5440,
+      "end": 8400
+    },
+    {
+      "speaker": "A",
+      "text": "He invited us into his home in Chicago to show us exactly how he did it and how he found a niche where he could charge tens of thousands of dollars per month to just a handful of clients. But before he started the business, Carl was plagued by self doubt.",
+      "start": 8400,
+      "end": 21840
+    },
+    {
+      "speaker": "B",
+      "text": "I just didn't have the confidence to think I could do it. I didn't believe I was the kind of person who could start their own company.",
+      "start": 21920,
+      "end": 27200
+    },
+    {
+      "speaker": "A",
+      "text": "Now he's running multiple million dollar businesses with a 10 year goal to hit million in total revenue. And his plan to reach that goal has nothing to do with starting new businesses.",
+      "start": 27440,
+      "end": 37460
+    },
+    {
+      "speaker": "B",
+      "text": "I got to meet a couple people who had done this thing called entrepreneurship through acquisition.",
+      "start": 37460,
+      "end": 41660
+    },
+    {
+      "speaker": "A",
+      "text": "In this video, Carl shares what most people get wrong when they go to start a product and a service. And he gives a step by step breakdown of how he would start all over again with nothing.",
+      "start": 41660,
+      "end": 51260
+    },
+    {
+      "speaker": "B",
+      "text": "I initially started draft.dev not even as a company. There was no website, there was no landing page.",
+      "start": 51260,
+      "end": 55980
+    },
+    {
+      "speaker": "A",
+      "text": "I'm Pat Walsh and this is Starter Story. Yeah, thanks for having me, dude.",
+      "start": 55980,
+      "end": 60860
+    },
+    {
+      "speaker": "B",
+      "text": "Good to see you, Pat.",
+      "start": 60940,
+      "end": 61820
+    },
+    {
+      "speaker": "A",
+      "text": "Tell me about who you are and what you built.",
+      "start": 61900,
+      "end": 63500
+    },
+    {
+      "speaker": "B",
+      "text": "My name is, my name's Carl hughes. I run draft.dev primarily and then actually just recently bought a second business. I'll start with draft.dev. what we do there is we create technical content aimed at software engineers for marketing purposes. So this is for companies that want to reach software developers. We've grown in three years to over two and a half million dollars in revenue. We've got a full time team of six or seven and then hundreds of contractors, literally hundreds around the world in 54 countries. So that's where I met today.",
+      "start": 63500,
+      "end": 86920
+    },
+    {
+      "speaker": "A",
+      "text": "Wow. And so how does that work? How does the service work?",
+      "start": 87080,
+      "end": 89320
+    },
+    {
+      "speaker": "B",
+      "text": "Draft.dev essentially what clients will do is they'll come to us and buy a package of 12, 24, 48 pieces of that they're going to publish on their site, typically blog posts, tutorials, things like that. And then what we'll do is go through the process of finding or using our writer pool who are all software engineers that are practicing day to day to write this content for them, pair them up with good editors, they'll clean up their work. We have tech reviewers and staff, so full time engineers that also check their work and then we get stuff back to clients on a weekly or twice a week basis.",
+      "start": 89320,
+      "end": 115940
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah, and what's the Type of client or company that pays for something like this.",
+      "start": 115940,
+      "end": 118860
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, so when we started out, it was a lot of early stage startups that were just kind of trying to get their first marketing efforts underway. Now what we tend to do is work with bigger, more established companies. So some of our headline clients might be places like Red Panda, Cloudflare, Dropbox. We've worked with a lot of big brands who are trying to reach developers for one reason or another. And so any company that wants to sell things to developers, usually it's like software tools like IDEs or testing tools, or it could be security tools, all that kind of stuff you want to sell to a really technical audience. And so you have to build authority with them, you have to build trust. And one of the best ways to do that is through content, whether it's written or video or, you know, some mix of both.",
+      "start": 118860,
+      "end": 156340
+    },
+    {
+      "speaker": "A",
+      "text": "Tell me about your backstory. How did you get into this business?",
+      "start": 156340,
+      "end": 158940
+    },
+    {
+      "speaker": "B",
+      "text": "Back in college I studied mechanical engineering and minored in business. I initially thought I'd go work for a really big company. I did internships with GE and Siemens, like huge companies, multinational. And it was the most boring shit I've ever done in my life. So like, I was like, I got to get out of here. My dad was an entrepreneur. I had an uncle who was an entrepreneur. They were small time local business owners but like, you know, they had that freedom, they had the lifestyle that I was looking for more. I started to look into that. I started looking into Internet entrepreneurship. I learned how to code on my, you know, my free time. I started picking up some freelance gigs making WordPress sites just for on the side. So I came out of school, I moved to Chicago. I worked with a small company called Uloop. I was there for a couple years and then I got a job as the first engineer at a company called Packback. I left about four years into that to go join an early stage startup called the Grade Network. And then about three years into that Covid hit and that was just the game changer that kind of forced me into entrepreneurship. So I was looking for something to do like I gotta fill my time a but I also want to make some money and contribute to the family. I initially started draft.dev not even as a company. There was no website, there was no landing page, there was nothing. It was a single page on my personal website called Carl's Writing. And I would send that around to people and say, here's a bunch of things I've written recently. Would you pay me to write for you? I sent that around to all these people in my network. I reached out to people randomly. I started to have phone calls with people who worked in these fields called Developer Relations, which I never even knew about before that. And I started to figure out that, oh, maybe there is more demand for this and there is something here. So that kind of started in 2020 with me freelancing, writing a few articles here and there. Within three months, I had way more work than I could handle and I started to hire people and I sort of phased out of my old job.",
+      "start": 159100,
+      "end": 250610
+    },
+    {
+      "speaker": "A",
+      "text": "So your niche Developer Relations content is super unique. How did you find this niche and what's your advice to others that are watching, that are looking for the right niche?",
+      "start": 250610,
+      "end": 259330
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, it comes to finding a niche, it wasn't super intentional on my part. I didn't have this like, formula where I was going out there and figuring out exactly what I'm looking for. But it was more, is this something I like doing and I'm interested in? And as I talk to customers, are they willing to actually pay for it? It's really easy to miss that because a lot of people just pursue the things they're interested in that have no potential monetization, or they pursue only what customers want to pay for, but they don't care about it at all. They have no interest or knowledge in that space. And that's super hard to stand out into.",
+      "start": 259330,
+      "end": 285470
+    },
+    {
+      "speaker": "A",
+      "text": "Let's talk about getting your first customer. How did you get your first customer, your first few customers, and what would be your advice for others looking to get their first customer?",
+      "start": 285550,
+      "end": 293110
+    },
+    {
+      "speaker": "B",
+      "text": "I don't even remember who the first, very first customer was, but at least the first five to ten were all people I had met at some point in my professional journey before and who I had stayed in touch with. I have this strategy I came up with just after college where I have a spreadsheet of about 50 people who I just want to keep in touch with. Who's on that list has changed over time as my interests have changed and what I'm doing. But I've always had like a weekly reminder. Just go reach out to a couple of those people and either have lunch or at least send them an email to see how they're doing, do a quick call. And that network list has been one of the most powerful things in my career. It literally got me my last two startup jobs. It got me started with draft.dev and so that small amount of effort, as much as it doesn't pay off quickly, was super helpful in the long run in starting A business.",
+      "start": 293110,
+      "end": 333840
+    },
+    {
+      "speaker": "A",
+      "text": "Let's talk about the fundamentals of a productized service. How is your team set up in terms of employees, contractors and partners?",
+      "start": 333840,
+      "end": 340720
+    },
+    {
+      "speaker": "B",
+      "text": "Again, it's kind of grown over time. It started off where we would have a writer and an editor and then I would kind of sit in and do all the tech reviews is what we call them. Where I just see like, is this technically a very strong article? Does it make sense? Engineer that's actually like pretty experienced gonna buy it. And eventually I hired out a full time engineer to do those tech reviews and then a few engineers that were kind of helping out on that. The team today@draft.dev is a little smaller than we were at our peak last year just because tech has kind of been in a downturn. VC funding is about a third of what it was last year. So naturally we follow some of that curve. But we've still got six full time team members and then hundreds of contractors that help us out with things like editing, tech reviews, writing, and then a lot of administrative stuff too.",
+      "start": 340720,
+      "end": 382120
+    },
+    {
+      "speaker": "A",
+      "text": "Let's talk about marketing as a business. Scaled, you got it to 100k per year and then you took it way bigger to 2.5 million a year. What are your main ways that you marketed and scaled the business to the point it is today?",
+      "start": 382120,
+      "end": 392320
+    },
+    {
+      "speaker": "B",
+      "text": "So it divides roughly evenly into thirds. We've got about a third of our business comes in from referrals and word of mouth. So that's existing clients telling their friends, their colleagues that are in similar businesses. Or it could be an existing client has a marketing person that leaves and goes to a new company and they kind of bring us along for the ride. And then the other third is going to be organic search and social media and kind of lump those together because they sort of feed on each other. But that could be things like we write a blog post that ranks for a certain term like developer advocate, what is a developer advocate or something. And then we also write a lot of social media posts that help kind of push people towards that same thing. And then that last third is cold outreach and just unknown random things that come up. We've always positioned ourselves as the premium service in this niche. Therefore we don't do a lot of discounting, we don't do a lot of one off trials. We make people sign quarterly commitments and that's all by design. Like the best agencies, when you look at the way they do it, they don't do little one off work for people. And part of it's just a nature of our costs, like our costs are pretty high per article because we're paying engineers for their time. But at the same time, it's also just about putting ourselves in people's minds as the premium provider that kind of carries through to all of our marketing. And so when people come to us, most of the time they've heard of us through several different channels. But we can kind of attribute it to one primary channel.",
+      "start": 392400,
+      "end": 464890
+    },
+    {
+      "speaker": "A",
+      "text": "You built this business to 2.5 million a year, basically two years. How did you learn all the skills needed to do that?",
+      "start": 464890,
+      "end": 472270
+    },
+    {
+      "speaker": "B",
+      "text": "One is, I was the first employee at two early stage startups. So I got to go with the founders on the journey from like hiring me, their first employee, to growing and raising money and doing all the things that founders do in those early days. And so that was super eye opening. Gave me a ton of insight into what it takes to actually start a business. It also gave me a lot of confidence. I think this is something that most people, and myself included, when I was thinking about starting a business and trying little businesses for years before I got draft.dev to actually work, I just didn't have the confidence to think I could do it. I didn't believe I was the kind of person who could start their own company. And seeing founders do that firsthand who were no different than me. They weren't smarter, they weren't more educated, they were able to do it. It made me realize, like, oh, this is very possible. It's not as unachievable as you might think. And that's where, like surrounding yourself with other entrepreneurs, people who are maybe one step ahead of you, is super powerful.",
+      "start": 472270,
+      "end": 519210
+    },
+    {
+      "speaker": "A",
+      "text": "I spent seven years trying to build 24 different businesses, but only one of them was successful. Now that business makes over a million dollars a year. But I could have done it a lot faster if I studied already successful businesses. Imagine, read the exact steps to how someone built a million dollar business and the mistakes they made so you can avoid them when you launch. Well, at Starter Story, we have a library of over 4,000 case studies and business idea breakdowns where you can do this, all backed by real data. For example, Luke joined Starter Story and dove into our case study about a newsletter that makes $25 million a year. Just one month later, he launched his own newsletter and did $5,800 in revenue in 30 days. It's simple. He studied what works, implemented it, and avoided the mistakes of people that were just a few steps ahead of him. So if you're serious about finding a business idea that works and making your first dollar ten times Faster. Check out the first link in the description. We're running a special right now for anyone coming from the channel. Anyways, enjoy the rest of the video. Peace.",
+      "start": 519210,
+      "end": 574810
+    },
+    {
+      "speaker": "B",
+      "text": "I also got a lot of experiential practice by starting little side projects that never really took off. So I had a ton of these, like at least 10 of them that I actually have some documentation around, like what I tried to do in the business, how it didn't work, what I did, learn from it. All of these little experiences add up and they stack up on top of each other. So I think it's important as an entrepreneur, even if you're struggling and going through a million different little iterations of projects and you're not hitting your stride, that's okay. That's part of the journey. And you have to accept that and just keep trying. Anyway, if I hadn't kept trying, then we wouldn't be here, right?",
+      "start": 574890,
+      "end": 606130
+    },
+    {
+      "speaker": "A",
+      "text": "So. Draft.dev Massive success in two years. What do you think made it so successful?",
+      "start": 606130,
+      "end": 610770
+    },
+    {
+      "speaker": "B",
+      "text": "I was able to do it part time and kind of get myself like make sure it was viable before I went full on into it. I think that would have been really tough to put the pressure on myself to like go 100% full time. Market timing was a big factor. Covid had just happened. All the tech companies that were doing marketing had to redirect their conference in person budgets into something because they were all getting funding still. They still had a lot of money to play with. As we started draft.dev all of a sudden there's just, you know, hundreds and hundreds of thousands of dollars being dumped into marketing in content, in the developer space. And we were so niche and so specific that we built trust much faster than a company that was just a general purpose content agency would have done.",
+      "start": 610770,
+      "end": 650090
+    },
+    {
+      "speaker": "A",
+      "text": "So with draft.dev, you prove that the model works and now you bought another productized service. Can you tell me more about that?",
+      "start": 650090,
+      "end": 655690
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, for sure, Pat. Last year when Draft.dev was growing, I was able to take a whole month off when my second son was born. And I kind of had this like existential crisis, like, what am I doing and what do I. What am I building this for? Like, what's the point? Because I had kind of achieved the goal that I set out to at the beginning, which was take a month off and the company runs without me. I got to meet a couple people who had done this, this thing called entrepreneurship through acquisition, which is basically going out and buying a small business and taking it over and running it. And so I got together with a friend of mine. I kind of sold him on this vision. We had been talking about doing a project together for a couple years. He's like, yeah, I'll come along, let's do it. So we got the money together to put to kind of go in and start looking for a company. We went through and talked to at least 50 to 100 founders about their business, how big it was, what might make sense for them to, if they wanted to ex it. And then we found three or four that looked really good. We finally settled on one that we really liked and the founder was ready to go. What it showed me was A, it's possible to buy another business, B, now that we've run it for a few months, it's possible to run someone else's business and it lets you skip years of work. And I mean, I don't want to say that's free because we obviously we paid for it, right? And there's a lot of debt that's on the table. But at the same time, like we've now jump started our second company. Our goal was to, you know, learn how this product process works for buying a company, prove that we can do it and we can run it, we can make it better, hopefully over time, and then hopefully do it again in a couple years.",
+      "start": 655770,
+      "end": 734330
+    },
+    {
+      "speaker": "A",
+      "text": "Let's talk about the opportunity of productized services. They're kind of blowing up right now. Why do you think this is and why are you so bullish on them?",
+      "start": 734330,
+      "end": 740810
+    },
+    {
+      "speaker": "B",
+      "text": "Productized services are super appealing. They were for me because they'll allow you to start a business that is theoretically scalable, but at the same time takes very little cost to get started with. So I think they're a great place to start for a lot of entrepreneurs. They're kind of a little bit of the best of both worlds of like a traditional agency or consulting model mixed with SaaS and that, you know, reoccurring revenue.",
+      "start": 740810,
+      "end": 760880
+    },
+    {
+      "speaker": "A",
+      "text": "If someone's starting a productized service today, what do you think are some of the best niches or industries or verticals to go after?",
+      "start": 760880,
+      "end": 766480
+    },
+    {
+      "speaker": "B",
+      "text": "I would kind of look at the way I started draft.dev what's something you're interested in and have the skills to maybe do on your own at the beginning, especially if you're a first time entrepreneur, because I'll admit that you shouldn't be doing all the work forever. But hiring other people is a whole skill you have to learn over time and you should kind of grow into it. Baby steps. So if you're starting your first productized service. Find something that you could do most of the work with yourself if you had to and then that there is actual market demand. And this again goes back to my number one advice for new entrepreneurs is talk to more potential customers and learn what are they paying for today that they're unsatisfied with. And if you can get that answer out of your target audience and the audience you want to work with, that's how you build a product service. I think the wrong approach is go I want to do a product design agency because I've seen other ones be successful, but I don't know anybody who would buy from me and I don't know anybody who needs it and I don't know why those other ones are successful. I just know they are. On the other hand, if you're able to go talk to 10 or 12 customers that have tried these other agencies have been unsatisfied. Why are they unsatisfied? What did, what could you do better if you redesign the service from the ground up and that's going to give you a way to differentiate. And that's the name of the game when it comes to like carving your own little niche in any product.",
+      "start": 766480,
+      "end": 832010
+    },
+    {
+      "speaker": "A",
+      "text": "I thank you for having me.",
+      "start": 832010,
+      "end": 834770
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, it's good to see you, Patrick.",
+      "start": 834770,
+      "end": 835950
+    },
+    {
+      "speaker": "A",
+      "text": "Congrats on all your success, man.",
+      "start": 836100,
+      "end": 837540
+    },
+    {
+      "speaker": "B",
+      "text": "Thank you.",
+      "start": 837540,
+      "end": 838060
+    },
+    {
+      "speaker": "A",
+      "text": "Follow this advice and you will build the 2.5 million dollar DEV writing agency. Just follow the step.",
+      "start": 838060,
+      "end": 845380
+    }
+  ]
+}

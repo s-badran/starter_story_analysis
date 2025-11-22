@@ -1,0 +1,245 @@
+{
+  "source": "/home/salouri/Projects/starter_story/transcripts/TCGXT7ySco8/TCGXT7ySco8_raw.json",
+  "segments": [
+    {
+      "speaker": "A",
+      "text": "2 years ago I quit my job. I started building, trying, experimenting, and just recently I reached the milestone of thinke mrr.",
+      "start": 160,
+      "end": 9560
+    },
+    {
+      "speaker": "B",
+      "text": "How does this guy make over $10,000 a month with screenshots? Well, it's because he works within the niche. He knows best.",
+      "start": 9560,
+      "end": 17200
+    },
+    {
+      "speaker": "A",
+      "text": "I knew how to build like it was kind of my super skill, you know.",
+      "start": 17600,
+      "end": 22000
+    },
+    {
+      "speaker": "B",
+      "text": "Before becoming an indie hacker, Demetro started his journey as an employee.",
+      "start": 22160,
+      "end": 26480
+    },
+    {
+      "speaker": "A",
+      "text": "I was working most of my life as a developer, writing code, helping startups and companies, building products.",
+      "start": 26930,
+      "end": 32530
+    },
+    {
+      "speaker": "B",
+      "text": "But one day he finally had enough and decided to take the leap and go all in on his dream.",
+      "start": 32770,
+      "end": 38610
+    },
+    {
+      "speaker": "A",
+      "text": "Even having the best job in the world, huge salary. Still, I felt that something pushed me into another direction. It was kind of my childhood dream.",
+      "start": 38690,
+      "end": 48130
+    },
+    {
+      "speaker": "B",
+      "text": "Now Dimitro is a solopreneur making a great living coding and building his own products. And all of his success comes down to one thing.",
+      "start": 48450,
+      "end": 57950
+    },
+    {
+      "speaker": "A",
+      "text": "You need to be persistent enough to try anything to just get to this first dollar.",
+      "start": 58110,
+      "end": 62670
+    },
+    {
+      "speaker": "B",
+      "text": "In this video, Demytro shares exactly how he went from nine to five to solopreneur and how anybody watching this could do something similar. And spoiler alert, he shares a lot of good stuff, including his framework for building ideas faster, some unconventional marketing channels he uses to get lots of paying customers, and his unique strategy to keep those customers for longer. Now let's jump right in. I'm Pat Walls and this is Starter Story. Hey man, welcome. Tell us a little bit about who you are and what you built.",
+      "start": 62670,
+      "end": 100090
+    },
+    {
+      "speaker": "A",
+      "text": "Let's try it. Let's try. Hi, I'm Dmitro, I'm building screenshot 1. It's my main focus and this is a product that helps copy companies from small to big to automate screenshots. So currently I am at 280 customers, making around $12,000 of monthly recovering revenue. It's a subscription model. You subscribe to a product and pay for example, $17 a month. And if you need extra screenshots, extra features and so on, you pay extra.",
+      "start": 100490,
+      "end": 132820
+    },
+    {
+      "speaker": "B",
+      "text": "Nice. Tell us the story about how you got started out with Screenshot one.",
+      "start": 133060,
+      "end": 137940
+    },
+    {
+      "speaker": "A",
+      "text": "Of course I had like millions of ideas, but when I was into this journey I realized I need to, you know, to reduce my space of ideas to something that I can really build. It should be a quality product. And as since I was a backend developer, server side developer, I knew how to build APIs like it was kind of my super skill. I reduced my list of ideas only to API products. One of the ideas was and I built it, it was email validation API. Somehow it looked super boring. For me. So I just focused on Screenshot fun. I went to Google and I saw so many competitors, it means there are people paying also. That was gutierreistic to evaluate the niche.",
+      "start": 138460,
+      "end": 174830
+    },
+    {
+      "speaker": "B",
+      "text": "You know, so you realize that there were similar tools to what you wanted to build and people were already paying for these tools. But isn't having competitors bad? How should others think about this when they're choosing their business idea?",
+      "start": 174830,
+      "end": 187750
+    },
+    {
+      "speaker": "A",
+      "text": "Having some niche with competitors is good. If you can probably also find some numbers, you can see how many customers they have. Almost every area you want to build. It's not unique. It's really hard to invent something unique. And even if you invent this thing whose set people need it, you know, the only thing you need to check there is enough of these users that will satisfy your goal. For example, you want to have 10k MRR. You probably need to check if there is enough of companies, for example which needs screenshot software and they will pay you like this amount of money.",
+      "start": 188230,
+      "end": 221930
+    },
+    {
+      "speaker": "B",
+      "text": "All right, so you validated the niche, but how did you go about validating the actual product? Did you ask for people's opinions?",
+      "start": 222330,
+      "end": 228730
+    },
+    {
+      "speaker": "A",
+      "text": "The problem is people are really nice. Some of the people can just pay you, you know, even for non existing product. But you still don't know will they use it or not, will it help them or not. Until you build it. Until you see this kind of companies that don't know you, you using your product. Yes. But once you have at least 10 paying customers from outside network and you didn't know them, they just came and bought your product and used it, that's for me like an ultimate validation.",
+      "start": 229050,
+      "end": 255620
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, so to validate the product we gotta build it, but we also gotta make sure people want to pay for it. Tell us how this happened with Screenshot one.",
+      "start": 255940,
+      "end": 262420
+    },
+    {
+      "speaker": "A",
+      "text": "It took me five months to build it and launch it. It was my first time. I wanted to be everything perfect and so on. It's mistake because you anyway your first version will be anyway not good. Let's say today I launch much, much faster. Like I try to launch in one month or less. I quickly build something really small. And one feature, I don't build notification, I don't build payments, anything. And then I share it with my close friends for clicking and testing that it just works like nothing is breaking, you know. Then I launch it on Twitter and so on. Yes. And if I can get access to my potential paying customers directly, I would just go to them, just reach out to people and then probably it will be payments and then it will be notification and Then I will start iterating, getting feedback, and so on.",
+      "start": 262660,
+      "end": 310260
+    },
+    {
+      "speaker": "B",
+      "text": "Dmytro is the perfect example of how a software engineer can turn his coding skills and a simple idea into a side project that makes thousands of dollars a month. But that comes with working on the right idea and knowing the best methods to get those first paying users. This is why I created Starter Story Academy. A place that helps you find an idea, validate that idea with real feedback, and help you execute on that idea so you can turn it into a profitable side project that might just change your life. So if you're curious about building a profitable side project, like Demetro and hundreds of other founders just like him, head to the first link in the description to learn a bit more about the academy and see if it's a fit for you. Now let's get back to our interview with Demetro. Okay, now we have a working product, but how do we get customers? Which marketing channels work for you the best?",
+      "start": 310580,
+      "end": 362270
+    },
+    {
+      "speaker": "A",
+      "text": "Okay. Okay. So when I started it was like I was trying almost everything. And then I saw for me Twitter worked, Google worked. These are currently major channels for me. Then you have a lot of unobvious channels like Zapier make. A lot of people are using these tools for their businesses, automating and if you can put your products onto these platforms, you know, people will find you. Also of course it was product hand launch. It helped me with the awareness and it helped me with the boosting my SEO. Some unobvious channel for me I probably will invest more it is YouTube. Somebody posted tutorial how to send cold emails with my product and I saw like paying customer coming from YouTube and I thought, wow, I can also publish tutorials on YouTube for this kind of technical product and people still can find me. In SEO and Google it's pretty hard to get to the first position, but for some keywords, Google also shows videos, you know, like YouTube videos. So you can post YouTube video and you can be ranked pretty high. You know, it's kind of hack.",
+      "start": 362510,
+      "end": 421810
+    },
+    {
+      "speaker": "B",
+      "text": "I would say, okay, cool, you got customers, but how about keeping them? How do you deal with Churn?",
+      "start": 421810,
+      "end": 428450
+    },
+    {
+      "speaker": "A",
+      "text": "Of course I'm asking customers. When they cancel subscription, they have pop up and they can choose reason or write their reason. But it didn't help because somebody answers with we don't need this product anymore, something like that, you know. So I started reaching out through emails. I was checking their profile, their company, what was their use case, what was the reason they specified. And then I was like trying to guess why they churned and Then I was like saying, you know, one, yes, no question. Did you churn because of, let's say, pricing? And people started to answer, you know, like, yes, yes, I did it because of that and so on. And I almost got 100% the success rate of getting these answers. It's a lot of manual work, but it's good because it was building mental model in me. Why how people use my product, why they churn, and what happens. You need to talk in support to people. You need to talk of a churn because sometimes you just realize somebody came and they're not your customer. And one of the ways to fix this is to change your marketing, you know, to change your copy. For example, I was getting some people who were expecting my product to be like, no code. So I emphasized that it's for developers. You know, it's like you need to write code to integrate my product. For me it was like, let's 11% per month. Now it's close to 7. I want to get it down. Less than 5% of customers be churning, you know, per month.",
+      "start": 429090,
+      "end": 507310
+    },
+    {
+      "speaker": "B",
+      "text": "All right, so talking to customers and testing your assumption is how you've reduced churn. Let's talk about monetization. Now tell us how you made your first dollar. With screenshot one.",
+      "start": 507710,
+      "end": 517950
+    },
+    {
+      "speaker": "A",
+      "text": "I was promoting for one month my product everywhere, like on every possible platform. Twitter, Reddit, indie, hackers, everywhere. Yes. And just one person saw it, found it valuable. They paid $7 per month for my product. But for me, it was a huge win. It felt like a million dollar. You know, you need to be persistent enough to try anything to just get to this first dollar.",
+      "start": 518410,
+      "end": 539370
+    },
+    {
+      "speaker": "B",
+      "text": "That's awesome. Tell us now how you decided on the pricing for your product.",
+      "start": 539930,
+      "end": 544170
+    },
+    {
+      "speaker": "A",
+      "text": "At the beginning it was pretty simple. $5 felt super cheap. Seven felt, oh, okay, it's the simplest. But my margins were almost zero. So I decided to reduce the free plan and I raised prices for next plans. When you raise prices, it really helps. It's much stronger signal to get people who really want to use your product. My current pricing is kind of an intuition, like how much customers still can pay and it will be valuable for them and it will be good profit margin for me. And we can still grow something like that. You know, it's like kind of an intuition.",
+      "start": 544820,
+      "end": 576190
+    },
+    {
+      "speaker": "B",
+      "text": "Cool. Now let's talk tech stack. What are the different tools, software and languages you use to run this $100,000 per year SaaS product?",
+      "start": 576350,
+      "end": 585550
+    },
+    {
+      "speaker": "A",
+      "text": "I use Typescript for managing headless browsers and Puppeteer library. I use go language for rate limiting, managing API Keys and so on. I use Cloudflare for storing screenshots as an API gateway to my product from the business perspective. I use Google Search Console for analyzing Google keywords, CTR and positions. I use Google Keyword Planner for predicting volumes for keywords when I want to write some content. I use post hoc analytics for product, like, you know, for building funnels. And if I see somebody paid for the product, I want to know from which marketing channel they came. Yes, I use post hoc for that. And then I use Crisp Channel Chat for live chat support and answering quick questions to customers. I have like my phone attached to it and if I see a message, I try to answer immediately to it. And if I can solve it, I also try to solve it immediately. I think that's probably most of the tools I use daily.",
+      "start": 586270,
+      "end": 641230
+    },
+    {
+      "speaker": "B",
+      "text": "All right, and if you don't mind me asking, what do the profit margins look like for your product?",
+      "start": 641470,
+      "end": 645470
+    },
+    {
+      "speaker": "A",
+      "text": "It's around from 40 to 60% profit margins. Most of my costs are servers. The pretty expensive. Currently I render around let's say 2 million screenshots and I pay from 3 to $4,000 per month for servers. Total expenses should be around $4,500, I think, like in total.",
+      "start": 645790,
+      "end": 667900
+    },
+    {
+      "speaker": "B",
+      "text": "That's awesome. So we already kind of talked about how having competitors is a good sign that you're building something lucrative. But once we're in business, how do we actually deal with those competitors and how do you go about it?",
+      "start": 668219,
+      "end": 679580
+    },
+    {
+      "speaker": "A",
+      "text": "I think the moment you have 10 paying customers, like real customers who are not from your network, not just for supporting you and using your product for their business, and they extract value from it, you just can focus on them and deploy feature for them. Optimize all your marketing for these kind of people and search for them. For most solo founders who want to build a simple business and to just cover their current life expenses and to leave off that business, you probably don't need to be harsh enough and to be bad and you can be just nice, kind, build relationships with people and still get enough customers to pay your bills, you know.",
+      "start": 680230,
+      "end": 719520
+    },
+    {
+      "speaker": "B",
+      "text": "Got it. Okay. You've given us some great insights into what it takes to build a SaaS business. But now let's get a little bit more personal. What does a day in the life look like for you?",
+      "start": 719680,
+      "end": 729520
+    },
+    {
+      "speaker": "A",
+      "text": "It's pretty simple. I wake up, I help my wife to send kids to school, to kindergarten. Then I just go home and drink a cup of coffee or I just go to some local cafe and drink a cup of coffee. And I always, always, every morning I read at Least one hour of some book. So then I work till the evening when till the kids come home. And for example, today I will go to play football, soccer with friends. Yes. On weekends, I do some fun stuff. Traveling, having time with my friends, with my wife, kids, and so on. If you're a solopreneur especially, you need to take care of your mental health, because it's like, it's your only tool that you use every day. And if you feel bad, your quality of decisions are also much, much worse. You know, having clear mind and thinking is one of the most leveraged things you can do in your business, I think.",
+      "start": 731200,
+      "end": 786020
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, cool. Now, the last question that we ask all founders that we interview, what would be your advice for entrepreneurs just starting out?",
+      "start": 786800,
+      "end": 793680
+    },
+    {
+      "speaker": "A",
+      "text": "I want to say, like, don't listen to anybody, including me. And like any advice, consume everything, everything you can. Like, try to find the most quality content you can. But at the end of the day, don't outsource your decision to anybody. You need to own it. You need to have intuition, like with the what are you going to build to market to do with your business? What kind of journey you want to have? Yes. Try to act from your own mind. Like, if you base your decisions, don't outsource them. Don't ask people, let's say, tell me what to do or I want to quit my job. What do you think? Should I quit it or not? No, you decide. If you want to quit it, quit it. If not, then not. It's pretty hard to generalize any lessons. For example, I had good runaway, but. But somebody quitting their job, they don't have good runaway, and it makes a huge difference. Some people treat money seriously and some people don't care. Like, for example, I was poor. So for me, losing all money, it's not a big deal. You know, like, I feel I can be destroyed and start again. But for somebody, for example, who was growing in a good family, it can be pretty scary. So it's pretty hard to give advice. For example, just quit your job. Burn all the bridges, you know, and so, like, it's. It's pretty contextual thing to do.",
+      "start": 794160,
+      "end": 868190
+    },
+    {
+      "speaker": "B",
+      "text": "All right, thank you, Demetro, for coming on. I love the business that you built. Good luck with everything and have a great day.",
+      "start": 869310,
+      "end": 875950
+    },
+    {
+      "speaker": "A",
+      "text": "Thank you.",
+      "start": 876190,
+      "end": 876830
+    },
+    {
+      "speaker": "B",
+      "text": "Yo, guys, I really hope you enjoyed the video and got some actionable advice that you can take from Demetro. But I want to say something real quick. At the end of the day, the point of these videos is to teach you guys how to find ideas how to build them. So hopefully you you can start a profitable project on your own. While learning is important, action is the thing that's going to get you that dream outcome. And if you're still struggling to take action no matter what, then I highly recommend you check out the Academy. It's the community I wish that I had when I first started, and it's got a bunch of resources to help you get those first users with your idea. Just head to the first link in the description if you're ready to commit and you're ready to take action. Much love and I'll see you guys in the next one. Peace.",
+      "start": 877150,
+      "end": 919570
+    }
+  ]
+}

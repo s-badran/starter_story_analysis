@@ -1,0 +1,323 @@
+{
+  "source": "/home/salouri/Projects/starter_story/transcripts/u8sW-NhGfXw/u8sW-NhGfXw_raw.json",
+  "segments": [
+    {
+      "speaker": "A",
+      "text": "This is Dawson and he built a million dollar per year crypto app all by himself. And the crazy part is he built it in less than a day.",
+      "start": 240,
+      "end": 9600
+    },
+    {
+      "speaker": "B",
+      "text": "I basically went start to finish, I think four or five hours total.",
+      "start": 9600,
+      "end": 12800
+    },
+    {
+      "speaker": "A",
+      "text": "He invited us into his van home in Colorado to show us exactly how he built this thing and the viral marketing strategy that got him 10,000 organic signups in just 48 hours.",
+      "start": 12960,
+      "end": 24320
+    },
+    {
+      "speaker": "B",
+      "text": "What I really leaned into was, but.",
+      "start": 24480,
+      "end": 26580
+    },
+    {
+      "speaker": "A",
+      "text": "There was a problem. All of those users didn't pay him a single dollar. Then Dawson came up with a genius monetization strategy that scaled him to over $100,000 a month.",
+      "start": 26740,
+      "end": 38940
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, so I came up with this idea of an anti email strategy.",
+      "start": 38940,
+      "end": 41940
+    },
+    {
+      "speaker": "A",
+      "text": "In this video, Dawson will share the exact ideation, marketing and monetization blueprints he used to build a $1 million app as a solo developer. I'm Pat Walls and this is Starter Story.",
+      "start": 42020,
+      "end": 54630
+    },
+    {
+      "speaker": "C",
+      "text": "Dawson. Thanks for having me. We are in your sprinter van right now in Boulder, Colorado. Tell me about who you are and what you built.",
+      "start": 55990,
+      "end": 63750
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, of course. Thanks for having me. My name is Dawson. I am a solopreneur software engineer. I made a company called Earnify. And earnify helps Ethereum users find and claim money they didn't know they had. I grew earnify to over 250,000 free users, 5,000 paid users, and that was over a million dollars. ARR. And, and then had a liquidity event, took my exit and moved into this van. Doing a little exploring, doing a little consulting, but mostly just skiing. Nice.",
+      "start": 63990,
+      "end": 90840
+    },
+    {
+      "speaker": "C",
+      "text": "Tell me a little bit more About Earnify, this Web3 startup that you built.",
+      "start": 90840,
+      "end": 94640
+    },
+    {
+      "speaker": "B",
+      "text": "If you're a user of Ethereum, you're going all over the place, investing in things, trading, swapping, voting, and governance. But you don't know about these things called airdrops. Now airdrops are like coupons. It's like, hey, come use this thing. We'll give you an airdrop free money. Honestly. So earnify is just a very simple website. If you put in your Ethereum address on the homepage, you're going to get instant results of what are your unclaimed airdrops. And it's very common to get hundreds or thousands of dollars in these. If you're even moderately active in Ethereum, the average user over the course of the entire website was getting $750 by being a customer.",
+      "start": 94640,
+      "end": 128650
+    },
+    {
+      "speaker": "C",
+      "text": "All right, let's talk about your backstory. What were you doing that led you to starting this amazing business?",
+      "start": 128730,
+      "end": 134890
+    },
+    {
+      "speaker": "B",
+      "text": "Really? When I was a kid, I was, I was really into video games and I was really into just being a dork. Honestly, with math and science, that really paid out well. In middle school, I had a friend who taught me how to start programming. I wrote these programs that actually helped us cheat on our geometry tests. People started plugging in and sharing the program. That was my first taste of, you know, like, product market fit and having people like the thing you code or build. But that path was not very straightforward for me. So when I was a student, I actually lost a lot of interest in software. The degree found a way to kind of take the excitement away from me. After my first two years, I wanted to drop out. But instead of dropping out, I got a taste of hackathons. Hackathons, I think, are so fun because it gives you the opportunity not just to create something fast, but also you can build products that real people use. You can build things that real people want. If you do it right, you can put it on a website and have real users at the end of the weekend. Yeah. And I was addicted from then on, really. On understanding that software could go change the world.",
+      "start": 134970,
+      "end": 190830
+    },
+    {
+      "speaker": "C",
+      "text": "Yeah. So you were working as a software engineer at Uber and some other big tech healthcare companies. What was that experience like?",
+      "start": 190830,
+      "end": 197870
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, Working at a company like Uber, obviously the salary is pretty lucrative from the outside. It's a booming, successful startup. I was there in 2016. I was there pre IPO. That was the hot place to be. And yet while there, I just saw the downsides of large corporations. Just ineffective teams, honestly. And that was a bit sad to be a part of because I really want to make direct change in this world. And so in addition to just being disillusioned with big tech, then I was also disillusioned with kind of the office space and just not wanting to show up every day. I needed to get a break and get away. So what I did actually is I left and I just Nomad. I just traveled the world for a year, and I almost just had to reach the point of, like, I don't need software. For now, I'm just going to be a nomad. I'm just going to travel and do yoga and see the world, you know.",
+      "start": 197870,
+      "end": 239620
+    },
+    {
+      "speaker": "C",
+      "text": "What was that experience like of deciding to quit and drop everything and go do this Nomad thing? How did you feel in that time?",
+      "start": 239620,
+      "end": 246580
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, so I felt really scared. I felt really worried to kind of step out of that comfort. This was a pretty risky move to leave not just a great startup, but also to leave San Francisco. I felt like all of software existed there. But during that year of travel, I met some folks in Australia who were distributing financial aid for nonprofits through Ethereum. And it was just the most niche out of this world experience to cross paths with those folks while being outside of San Francisco and outside of the tech bubble. They almost like pulled me back in to realize technology can be used for good, technology can be impactful. And that got me really interested all over again in software in Ethereum and making something in crypto.",
+      "start": 246740,
+      "end": 285490
+    },
+    {
+      "speaker": "C",
+      "text": "Yeah. What happens next? How do you come up with the idea for earnify?",
+      "start": 285490,
+      "end": 288770
+    },
+    {
+      "speaker": "B",
+      "text": "When I came back to the US it took me over a year to kind of reassimilate to being in the US Being American and knowing that I wanted to base my life here. As I did that, I just started competing in more and more of these hackathons. This was a one month long hackathon and crypto was popping off. It was getting very hot. As a user in this community, I knew the pain points. I already knew which problem I wanted to solve. But I love waiting until the ideas are really clear. And so sometimes I'll take the first two or three weeks of a month long hackathon just letting the ideas bounce around in my brain so that when I do hit the computer, I have tons of conviction. Once I have that conviction, the idea just flows a lot more easily. And that's what happened here, is that I waited till almost the last second. From then, it was just building the solution I needed. Once I hit the code base and started writing this, I basically went start to finish. I think four or five hours total.",
+      "start": 288850,
+      "end": 334870
+    },
+    {
+      "speaker": "A",
+      "text": "Dawson is proof that just one person can start a million dollar business in just a few hours. But that comes with knowing the right information and finding the right problem to solve. Now imagine there was a place that gave you all this. The problems to solve, the blueprints to solve them, and the strategies that turn simple ideas into million dollar online businesses. Well, at Starter Story, we have a library of over 4,000 case studies and business idea breakdowns where you can access this, all backed by data from real entrepreneurs. So if you're serious about building a profitable side project, head to the first link in the description and we're going to give you 50 solo developer ideas just like Dawson's, so you can get started on your journey. Now let's get back to how Dawson actually launched this business. Peace.",
+      "start": 335400,
+      "end": 385890
+    },
+    {
+      "speaker": "C",
+      "text": "So you build this thing in basically five hours in the hackathon and it starts taking off. Can you tell me more about that?",
+      "start": 386210,
+      "end": 392450
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, I ship the website, put it on a public URL and publishing this tweet that just went super viral about the website. Crafted this tweet just really intentionally. I included a nice little video of how the searching worked for an address that had a ton of airdrops for it. So of course it's kind of teasing folks, letting them know this is what's possible out there. And I think there was almost a bit of a charitable feeling where folks were like, I want to help other people find the money they didn't know they had. Also, hitting retweet was such an easy thing to do. I had 10,000 organic signups at the end of that 48 hours.",
+      "start": 392450,
+      "end": 419870
+    },
+    {
+      "speaker": "C",
+      "text": "And how did you get those signups?",
+      "start": 420590,
+      "end": 421930
+    },
+    {
+      "speaker": "B",
+      "text": "Yes, I got those signups by optimizing this page for the call to actions to sign up for the email, both in the header and in just a massive button above the fold. Using drop shadows and borders properly to draw the user's eyes towards these buttons. It felt incredible. I almost was. Was losing faith before, that is, you know, I've always been shipping stuff, but never had that many eyes on what I've. What I've built. I thought you had to be already at the top to get eyes on your. Your content, but I realized if you just add a lot of value for people, that you can rise to the top that way as well.",
+      "start": 422000,
+      "end": 451600
+    },
+    {
+      "speaker": "C",
+      "text": "Yeah. So you got this app, it's getting a bunch of free users. How does this turn into a thing that makes a million dollars? ARR.",
+      "start": 451600,
+      "end": 457680
+    },
+    {
+      "speaker": "B",
+      "text": "I came up with this idea of an anti email strategy. And this is just rooting for the fact that I hate getting spam emails. And so I just never sent an email unless the email was, you have matched this amount of money, you have this to go claim. The open rate was through the roof. Just everyone wanted to always open these emails if they got one. And then what I just did is I decided one day every single airdrop from now on is gonna be paywalled. So you'll see. Okay, you have $793 of this airdrop, but you cannot claim it unless you pay. Yeah. If I was charging people, it was always so they could get even more out of it. And I felt like that honest relationship led to so many signups and just people telling other friends about it as well.",
+      "start": 458000,
+      "end": 495000
+    },
+    {
+      "speaker": "C",
+      "text": "Yeah. Let's talk about growth. What channels actually grew this business?",
+      "start": 495000,
+      "end": 498680
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah. So a strict choice I made in the beginning was never do paid ads. By doing that, anyone that even hears about the website already knows that they have money to go claim there. But what I really leaned into was Twitter. So a lot of crypto people hang out on Twitter. And I used to do these really kitschy, fun campaigns where I did one called 25 Days of Christmas. Every single day for 25 days, I would tag someone publicly on Twitter and say the amount of dollars they had unclaimed with a screenshot.",
+      "start": 499080,
+      "end": 524080
+    },
+    {
+      "speaker": "C",
+      "text": "It was basically saying, like, you're an idiot if you don't go claim this. And they would be tagging them and all that.",
+      "start": 524080,
+      "end": 528200
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah. Even there'd be this community pressure that was actually healthy of other people seeing it, being like, well, I wish I had that to go claim. Yeah. I also just became a fiend for going to conferences, showing up in person and letting people know about what I was building led to even more signups as well.",
+      "start": 528280,
+      "end": 541540
+    },
+    {
+      "speaker": "C",
+      "text": "Cool. But, yeah, crypto is a crowded space. Anyone could build an app like this.",
+      "start": 541540,
+      "end": 545620
+    },
+    {
+      "speaker": "B",
+      "text": "Technically.",
+      "start": 545620,
+      "end": 546020
+    },
+    {
+      "speaker": "C",
+      "text": "How did you differentiate earnify?",
+      "start": 546020,
+      "end": 547940
+    },
+    {
+      "speaker": "B",
+      "text": "The thing that made earnify so different is just how obsessive I was about quality. And that led to this really good reputation again, where if someone got a notification, they knew it was a high dollar value that they could go claim right then. And any of the competitors who are trying, they were including too much. That too much led to lower quality. And then people didn't trust. And trust is so big because of how much hacking and phishing there is within crypto.",
+      "start": 548020,
+      "end": 569460
+    },
+    {
+      "speaker": "C",
+      "text": "Yeah.",
+      "start": 569460,
+      "end": 569820
+    },
+    {
+      "speaker": "B",
+      "text": "Another part is just being early. That's not always advice you can replicate, but if you can, that's obviously going to be helpful. You can be the first in the scene and then provide so much quality that no one can even catch up.",
+      "start": 569820,
+      "end": 578900
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah.",
+      "start": 578900,
+      "end": 579300
+    },
+    {
+      "speaker": "C",
+      "text": "So you built this as a solo developer? As a solopreneur. Tell me what that experience was like.",
+      "start": 579300,
+      "end": 583820
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah. Solo has a lot of pros and a lot of consultants. One of the pros is you get to take it where you want, you don't have to ask permission, and you get to ship to users directly. Any team is going to slow you down a bit on that. But of course, the cons are it can be lonely. You can also think something's a great idea when it's not. And so you got to stay around in communities if you can. I did a bit of co working at the time and these conferences I mentioned in order to bounce off ideas from other people and make sure I wasn't just in an echo chamber in my head.",
+      "start": 584220,
+      "end": 608760
+    },
+    {
+      "speaker": "C",
+      "text": "Yeah. You're a software engineer. What are your favorite tools and coding languages? What do you build with? Yeah.",
+      "start": 608760,
+      "end": 613900
+    },
+    {
+      "speaker": "B",
+      "text": "Finally, the best part. So what I love to code in is Typescript. I use Typescript Full stack. We've got Node Js, on the back end, we've got React on the front end and pull this all together with a framework called Next js. So Next JS makes really fast websites. Having speed and having all of this website just load so fast for everyone was also part of what helped me grow. I'm a Big Mac guy. I have a maxed out MacBook Pro. I have a split keyboard, just super nerdy. I can get good posture and just a huge 3231 inch pocket monitor to make sure that my eyes are resting all day as well. For Code editor, I use VS code. Anyone out there who does typescript knows that's probably going to be the best choice.",
+      "start": 613900,
+      "end": 650170
+    },
+    {
+      "speaker": "C",
+      "text": "Anyways, so you got this successful, profitable business and then something crazy happens. Can you tell me about that?",
+      "start": 650170,
+      "end": 656570
+    },
+    {
+      "speaker": "B",
+      "text": "So I got a Twitter DM from David Hoffman. He's one of the podcasters and this large podcast called Bankless. I had been watching and listening to Bankless for years. In fact, Bankless helped me get into Ethereum. I had a bucket list item that was to get my name mentioned on Bankless. Not only did I get my name mentioned, but I ended up being the cto. And so it was just a dream come true. But I never considered the acquisition route until they reached out and I realized how realistic that was. We talked for several months about some of the specifics and yeah, after two years of growing the company alone, it was acquired by Bankless.",
+      "start": 656650,
+      "end": 688250
+    },
+    {
+      "speaker": "C",
+      "text": "You sell your company, you have this life changing event. Tell me what that experience was like.",
+      "start": 688330,
+      "end": 692250
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, it felt like there was a huge celebration, but then right after that kind of wears off. The dopamine wears off. It's a bit of a free fall feeling. This used to be your passion. It used to be how you spend every day. And then after that you've got to discover what your new meaning is going to be. I feel that a bit with travel, with fitness, with skiing, with this van. When you say that, it sounds like the dream. Oh, of course I want to ski seven days a week. Of course I want to go wherever I want, whenever I want. But actually that's not the dream. It only took me a couple weeks to really feel how dark that could be. Because yeah, you can ski every day, but what you're spending seven days alone up in the mountains, you're not sharing experiences with other people. And it turns out a lot of my meaning is through community, it's through social stuff. It's through spending time with people and making memories with people.",
+      "start": 692330,
+      "end": 734030
+    },
+    {
+      "speaker": "C",
+      "text": "Do you see yourself starting another company or doing work or are you working now?",
+      "start": 734270,
+      "end": 737830
+    },
+    {
+      "speaker": "B",
+      "text": "I do, yeah. So I see myself as a serial entrepreneur. This is just one of hopefully many. And at the moment I have started some consulting. I'm really doing a lot of open source projects as well. Back on Twitter again. I'm also on Farcaster, which is this website that is a decentralized social media platform. And so just publishing and building in public is already what I've started doing again.",
+      "start": 737830,
+      "end": 756990
+    },
+    {
+      "speaker": "C",
+      "text": "All right, well, you're living this van life right now. Tell me what a day in the life like is for you. Living out of this van, working and skiing.",
+      "start": 757230,
+      "end": 763470
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, a day in the life is, you know, I manage spending time with friends and I manage spending time up in the mountains. I manage a little bit of time on the computer. So I kind of balance these three things. Besides that, I spend a lot of time at either co working spaces, putting myself around other people, or going to these meetups, making sure I'm still around these ideas a lot, but really doing it from a different place mentally because I want to. I'm doing it for the fun of it. I'm not doing it because I have to find customers or I have to find the next idea necessarily.",
+      "start": 763470,
+      "end": 789630
+    },
+    {
+      "speaker": "C",
+      "text": "Yeah, that's great. Okay, one final question. If you could sit on Dawson's shoulder when you were, you know, a software engineer at Uber, kind of really trying to figure out what you wanted to do when you're a digital nomad, what advice would you have for him?",
+      "start": 789630,
+      "end": 803110
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, if I were to talk to my old self, I think I would just say enjoy the process more. I wouldn't want to change what got me to today. Anything that seems like a misstep was actually something that taught me a lot. But it's just that during that process, don't have as much anxiety, don't have as much worry, because it will all work out, you know, like, look at me now. It panned out pretty well.",
+      "start": 803110,
+      "end": 821220
+    },
+    {
+      "speaker": "C",
+      "text": "All right, man. Well, thank you, thank you, thank you for having us. Follow this advice and you'll build a million dollar Ethereum airdrop app.",
+      "start": 821940,
+      "end": 829860
+    },
+    {
+      "speaker": "A",
+      "text": "Hey, guys, Pat here. I really hope Dawson's story inspires you and motivates some of you to go ahead and start your own thing. If you're curious about doing something similar. But you're still looking for an idea, well, I have something for you right now. You can download our deep dive solo developer report for free. It breaks down 50 different solo developer ideas, including their business models, how much money they make, and tons of other stuff you'd want to know. Just click the first link in the description. And if you're serious about finally building your own idea, consider joining Starter Story, and we'll help you do that. That much love. I'll see you guys in the next one. Peace.",
+      "start": 831140,
+      "end": 870660
+    }
+  ]
+}

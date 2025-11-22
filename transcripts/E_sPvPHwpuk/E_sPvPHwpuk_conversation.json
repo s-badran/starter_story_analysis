@@ -1,0 +1,167 @@
+{
+  "source": "/home/salouri/Projects/starter_story/transcripts/E_sPvPHwpuk/E_sPvPHwpuk_raw.json",
+  "segments": [
+    {
+      "speaker": "A",
+      "text": "A few weeks ago, I got a DM on X from this guy named Yasser. We got to chatting, and he told me something I couldn't believe. He took his app from 0 to 1 million in just 117 days. And what's even crazier is he did it with zero audience.",
+      "start": 160,
+      "end": 16880
+    },
+    {
+      "speaker": "B",
+      "text": "When I launched, I only had 16 followers.",
+      "start": 17120,
+      "end": 19280
+    },
+    {
+      "speaker": "A",
+      "text": "I brought Yasser onto the channel to talk about how he did it, and he shared everything, including a breakdown of the tweet that changed his life, how to make millions with AI agents, and what most people get wrong when it comes to building their mvp. This one you can't miss. I'm Pat Walls and this is Starter Story. All right, Yasser, welcome to the channel. Tell me about who you are, what you built, and what's your story?",
+      "start": 19440,
+      "end": 48060
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, so my name is Yasser. I build chat base to 7 million in ARR with no funding. I launched it two and a half years ago as a solopreneur to my 16 followers on Twitter, and it went viral.",
+      "start": 48380,
+      "end": 59300
+    },
+    {
+      "speaker": "A",
+      "text": "Wow. Okay, that's insane. I haven't seen numbers like that before. Tell me about how you came up with this idea for Chatbase.",
+      "start": 59380,
+      "end": 65780
+    },
+    {
+      "speaker": "B",
+      "text": "So I followed the bootstrapping movement on X, like Peter Levels, all those guys. I was doing actually internships in faang companies. But once I got there, I realized maybe it's not for me. I looked at people five, 10 years ahead of me in their career, and it was not something that I was looking up to. But when I saw, like, people like Peter, people like Danny Postma, especially in the AI wave, I thought, hey, like, I can actually do this. I saw people doing demos of how you can build a ChatGPT for your data and stuff like that, but no one was building a product around it. I knew, like, this is a good idea. I didn't do any validation or anything. I just, like, said, if I don't do this, someone else will. So I released chatbase to my 16 followers. It went viral. All of this was happening in my final year of university. This was just like a side project, right? I was happy it made money, but I'm not going to drop out yet. But when I saw the first sale and then, like, it kept going and like, this is. This is significant. I had like two or three sales every day and I dropped out.",
+      "start": 66020,
+      "end": 123070
+    },
+    {
+      "speaker": "A",
+      "text": "All right, so you mentioned that you tweeted something out to your 16 followers. It went viral, and essentially that this. This one tweet kind of changed your life. Can you walk me through this viral tweet?",
+      "start": 123230,
+      "end": 134030
+    },
+    {
+      "speaker": "B",
+      "text": "I think this Was like my third tweet ever in my life for this one. Three things made it work well. One, a familiar interface, the streaming interface, where like the text is streaming in a, in like a chat interface. Ye. This was like a very chatgpt thing which like at the time was going viral. So I think taking a glance at the demo, it's just interesting. The other part was minimizing the seconds to like the aha moment. I think I did that well here. Like it's a very simple demo, right. But it just shows you exactly what I built was capable of in like the first 20 seconds. Right. And I think the other thing I did is mention the tools that I was using two and a half years ago. Like there was a bunch of new AI companies, AI tools starting out. No one had any customers because they're all new. So every company was trying to, to show people like, hey, this is something that is being used by real people building like real products. When I mentioned like LangChain and Pinecone and stuff like that, it made sense for them to push it too because no one else was building stuff like this on their platforms yet because it was all very new and they wanted to promote like their AI features and stuff like that. When I mentioned this, those people picked it up and they were like going viral. So my thing also went viral and then it created this viral loop. And I think yeah, most of, most of the initial traction was from that.",
+      "start": 134110,
+      "end": 206550
+    },
+    {
+      "speaker": "A",
+      "text": "I really do like the kind of build in public thing that you're doing. You're kind of sharing what tools you're using and that was a big piece in it. If you could break down the build in public playbook, because I know you kind of did this over and over again. Tell me what you learned and what works there.",
+      "start": 206870,
+      "end": 218630
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, so I think the easiest thing is just to share what you're doing every day. That's like the most basic thing you can do. First two or three months, if you're, if you're not lucky, it will just be you practicing what works and what doesn't. It's not going to get any, any views because you're trying to build a brand, you're trying to build a story. One tweet is not going to do it right. People need to see your face. A preferably if you can do videos too, post them on X. A few people in the build in public space are doing that and they're doing very well because not enough people are doing that. So you stand out more. Frame it as like, I'm building something. I'm learning a lot along the way. I'm going to take you on that journey. I would say. Also an important part is not to be boring. I think it's better to be more personal. Share like your personal story, have a personality. Like have controversial takes. Maybe if it's something you actually believe in because that's how you get people to notice you.",
+      "start": 218630,
+      "end": 267810
+    },
+    {
+      "speaker": "A",
+      "text": "All right, before we get further into how Yasser built this business to over 6 million ARR, I want to call out something a lot of early founders forget about your bank. Yeah, I know, not the sexiest part of your stack. But when your app goes viral, revenue jumps and your user base explodes overnight. The wrong bank can become a massive bottleneck. Low card limits, slow payouts, manual everything. That's what happens when you use a finance system that wasn't built for startups. That's why we've partnered with Brex, the modern financ platform designed for builders like you. With Brex, you get up to 20x, higher card limits, built in expense tracking, automated payments, high yield returns and same day liquidity so you can move fast when the moment hits. One in three US startups already use Brex and they put together this free guide for you, the Startup's Guide to Modern Banking. It breaks down how to extend your Runway, protect your cash and avoid the kind of finance headaches that kill momentum. Just click the first link in the description to grab the guide. Thank you to Brex for supporting the channel. Now let's get back to Yasser's story. Before we jumped on this call, you told me something crazy, which was that chatbase went from zero to a million ARR in 117 days, which is less than half a year, just a couple months. That doesn't even seem believable to me. So I love you broke down. How that's even possible that an app can grow that fast and how yours did.",
+      "start": 268200,
+      "end": 354950
+    },
+    {
+      "speaker": "B",
+      "text": "After the first initial viral moment, I kept adding more features and with every new release I would frame it as a new launch. I think some people when they tweet, they frame like the second or third launch as like feature launches. So if someone new is looking at that, they don't have any context, right? So they're not, they're very likely to skip it. So I tried to frame every single launch to make it make sense to new people that don't know me, that don't know chat based. The other thing was just like being creative around going viral without spending any money. So what I did, for example, going into subreddits of books. I would create that chatgpt for their book. It was like for free. I was losing money on this. The only point of doing this is to have my domain opened by a lot of people so I get like more domain authority. Maybe they click on it and then they see the landing page. They see, hey, like I can actually pay money for this. I kept doing that for all the books. I did that for a lot of influencers too. I did this for Paul Graham for Naval. Lastly, also, sponsored posts were very big. If I'm not launching something today, then I have to do a sponsored post with a big page. We did one with a page on LinkedIn that day. I think we did $4,000. So. So yeah, I think sponsored posts, if you structure them well, they're a very good way to get your product out there.",
+      "start": 355300,
+      "end": 429210
+    },
+    {
+      "speaker": "A",
+      "text": "Awesome. All right, well, can we dive into some of the numbers behind this business? How big is this thing become?",
+      "start": 429450,
+      "end": 434650
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, right now we're exactly at 6.8 million ARR. It's growing very fast. And right now it's only PLG. We just passed actually two days ago. Customers that are paying us between $40 and $500 a month, which is insane. And I think registered users is around like 600,000 something.",
+      "start": 434890,
+      "end": 453990
+    },
+    {
+      "speaker": "A",
+      "text": "Okay, that's insane. You mentioned PLG. What is that?",
+      "start": 454310,
+      "end": 457910
+    },
+    {
+      "speaker": "B",
+      "text": "So this is product led growth. You just have a stripe button on your website. You do most of the marketing outside of your website. You just have a good landing page. People can just go in, buy a subscription, put in their credit card. You don't have to have a lot of features, just have like one core feature. In my case it would just upload a PDF and talk with it. Just have like a good ui, don't have any bugs, have like a good MVP and then launch it into the universe. Find the balance between launching fast and not launching garbage. Have a good quality tool so that you're proud of when people are using it. And then people would be excited to use it more if they're not like frustrated using it.",
+      "start": 458230,
+      "end": 492380
+    },
+    {
+      "speaker": "A",
+      "text": "All right, well, let's talk about AI agents. That's what you've been building for a long time. You know a lot about this. How can people watching this learn how to build with AI agents? What's the right kind of framework for learning these and where to go.",
+      "start": 492780,
+      "end": 503640
+    },
+    {
+      "speaker": "B",
+      "text": "If you want to build products, then you go to sources like OpenAI's cookbooks or like their documentation, read about their agents. SDK do the same with Vercel has a library called AI SDK, which is very powerful. Just read, like, their documentation, look at the examples, look who's using them. Learn how those companies tell you how to build AI agents. I think actually maybe a good idea is to find something that you can't build yet. And the only bottleneck is the AI model itself. Like the intellig is not there yet, and then start building that and just like, bet that in a year you're going to have GPT5, which is capable of doing that, and then you're going to have one full year, like a head start on everyone else. I think something very similar happened to me. I started working on Chatbase before that ChatGPT API. So I had like the product ready, people were using it, and then all of a sudden ChatGPT launched their chat API. So I just released a tweet that said, in the last 48 hours, I built this cool new product. And because everyone was talking about the new ChatGPT API and what you can build with it, this also went very viral. So, yeah, I think you can do something similar.",
+      "start": 503800,
+      "end": 569830
+    },
+    {
+      "speaker": "A",
+      "text": "All right, let's talk about tech Stack. How did you build this app? What kind of tools and languages and stack did you use to build this?",
+      "start": 570230,
+      "end": 576470
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, so it changed over time. Now, I think the stack we landed on is Vercel for hosting. We're also using their AI SDK for a lot of our AI infrastructure. We're using Supabase for the database and then we're using all the AI labs. So OpenAI, anthropic, anthropic, cohere, Google, Gemini, Grok, we're using all of them. So in chat base, you can have a dropdown and choose which model works best for you. And of course, Stripe for billing, Dub for affiliates, Mentalify for our documentation.",
+      "start": 576710,
+      "end": 606810
+    },
+    {
+      "speaker": "A",
+      "text": "Cool. You have built this amazing business. You've been doing it for many years. You've had some successful things, some not so successful projects. What have you learned through the process that surprised you?",
+      "start": 607290,
+      "end": 618530
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, so I think going into it, where we assume that there's like a blueprint on how to build a good business, it's just who's going to be working hard. But what I realized is that there is so many different ways to build a good company from, like how you work together, performance reviews in person or remote, what's the culture like? All of that can change a lot between company to company. This is actually good because this means that you don't need a lot of experience to start a company. Mostly the advice you're getting from people that have done this before. It's just good to listen to, but mostly irrelevant because no one knows your situation as much as you. The best practices change so much from situation to situation. The people that give good advice will tell you the same thing. They would give you what they think is right, but in the end they will say, actually, like, you should, like, trust your gut, mostly because you know your situation more than me.",
+      "start": 618690,
+      "end": 666140
+    },
+    {
+      "speaker": "A",
+      "text": "Cool. I love that last question that we ask everyone who comes on Starter Story. If you could go back two and a half years, or however long it's been, stand on Yasser's shoulder, what would be your advice to young Yasser?",
+      "start": 666220,
+      "end": 677570
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, I think for me specifically, I wasn't thinking big enough in the beginning. My goal was to just get my 10k, move to Bali, live the indie hacker lifestyle. I just realized, like, why not shoot for the stars, right? Why not build the first 100 million ARR bootstrapped company? I was too worried that because everyone was saying, it's like a chatgpt rapper, it's not gonna work. This, this got into my head because it was true. It was just a ChatGPT wrapper. So I think I wasn't aggressive enough. I was too shy about what I'm building. I was too reserved. I think if I go back, I would have moved a lot faster. I would have put more on the line. So, yeah, just aim higher, I would say, for me.",
+      "start": 677730,
+      "end": 713980
+    },
+    {
+      "speaker": "A",
+      "text": "Cool. Well, that's great advice. Thank you, Yasser, for coming on to Starter Story. It's amazing what you built. One of the probably greatest success stories in the indie hacker world. And it's going to keep growing and I love it. So thanks for coming on.",
+      "start": 714220,
+      "end": 725170
+    },
+    {
+      "speaker": "B",
+      "text": "Thank you for having me.",
+      "start": 725400,
+      "end": 726280
+    },
+    {
+      "speaker": "A",
+      "text": "Yasser is proof that you don't need a big audience to get started. He started his app when he had 16 followers on Twitter, and in less than three years, he grew it to over 6 million ARR. He got started just by building stuff. And nowadays AI has made it easier than ever to build. That's why I launched Starter Story Build. It's our flagship program where in two weeks you'll find and build a simple app with AI. Hundreds of people have joined and launched their first app into the world. Head to the link in the description to learn more. Thank you guys for watching. I'll see you in the next one. Peace.",
+      "start": 726840,
+      "end": 762050
+    }
+  ]
+}

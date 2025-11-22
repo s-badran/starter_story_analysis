@@ -1,0 +1,473 @@
+{
+  "source": "/home/salouri/Projects/starter_story/transcripts/nzVcbrLl9VU/nzVcbrLl9VU_raw.json",
+  "segments": [
+    {
+      "speaker": "A",
+      "text": "This is Alex, a guy who started a newsletter in his dorm room and then sold it for millions. But after selling that business, he felt lost and spent months trying to figure out what idea he would pursue next.",
+      "start": 400,
+      "end": 13120
+    },
+    {
+      "speaker": "B",
+      "text": "It basically took me 12 months of doing every cliche thing that an entrepreneur does when they're looking for meaning.",
+      "start": 13200,
+      "end": 20480
+    },
+    {
+      "speaker": "A",
+      "text": "This year he found a new opportunity, a new identity to become a multipreneur. The goal, to launch a bunch of different tiny businesses and then hire CEOs.",
+      "start": 20560,
+      "end": 30840
+    },
+    {
+      "speaker": "B",
+      "text": "To run them over the next five to 10 years. I want to have a dozen plus companies that sit under me that I am the CEO of, none of, but I am the co founder and chairman of all of them.",
+      "start": 30840,
+      "end": 41020
+    },
+    {
+      "speaker": "A",
+      "text": "I flew out to New York to ask him about this personal holding company and how it all works. Turns out he's already launched a few ideas and one of them is already a million dollar business.",
+      "start": 41020,
+      "end": 50300
+    },
+    {
+      "speaker": "C",
+      "text": "So we have 12 clients that are paying $7,000 a month. That's roughly a million dollars a year in annualized revenue.",
+      "start": 50700,
+      "end": 58580
+    },
+    {
+      "speaker": "A",
+      "text": "We're gonna dive more into that business and go over his framework for how he find ideas worth pursuing.",
+      "start": 58580,
+      "end": 64920
+    },
+    {
+      "speaker": "C",
+      "text": "The best way to think of business ideas is to.",
+      "start": 64920,
+      "end": 67080
+    },
+    {
+      "speaker": "A",
+      "text": "Plus we'll cover the insanely scrappy method he used to launch that million dollar business, how he defines product, market fit, and how to hire top tier CEOs to run these businesses. I'm Pat Walls and this is Starter Story.",
+      "start": 69160,
+      "end": 82200
+    },
+    {
+      "speaker": "D",
+      "text": "What's up man?",
+      "start": 84680,
+      "end": 85400
+    },
+    {
+      "speaker": "A",
+      "text": "What's up?",
+      "start": 85400,
+      "end": 86000
+    },
+    {
+      "speaker": "D",
+      "text": "Yeah, thanks for having me. Okay, tell me who you are and what are you building.",
+      "start": 86000,
+      "end": 88920
+    },
+    {
+      "speaker": "B",
+      "text": "I'm Alex Lieberman.",
+      "start": 89400,
+      "end": 90600
+    },
+    {
+      "speaker": "C",
+      "text": "I started a company in college called.",
+      "start": 90890,
+      "end": 92410
+    },
+    {
+      "speaker": "B",
+      "text": "Morning Brew, which makes business media fun and engaging for modern professionals. Morning Brew is a 200 person company that does more than $75 million a year in revenue. And today I'm building Storyarb, a modern executives personal media company. And my goal ultimately is to have a portfolio of bootstrap businesses under me.",
+      "start": 92410,
+      "end": 112010
+    },
+    {
+      "speaker": "D",
+      "text": "So what does that mean, a portfolio of bootstrap businesses?",
+      "start": 112010,
+      "end": 114090
+    },
+    {
+      "speaker": "B",
+      "text": "There's this idea of personal holding companies that's been talked a lot about recently. Some people call them personal venture studios or my buddy Greg Eisenberg coined the term multipreneur. A personal holding company, very simply is a company that is comprised of companies under it. And so the idea would be, let's just say Alex Lieberman's company is Alex Lieberman LLC. There would be hypothetically 10 businesses that sit under Alex Lieberman LLC. And I'm the CEO of the holding company. My vision for my own personal holding company is over the next five to 10 years. I want to have a dozen plus companies that sit under me that I am the CEO of none of, but I am the co founder and chairman of all of them. And for me, I get excited by that because it allows me to spend my time on the things within entrepreneurship that I am most excited by. That morning Brew taught me over the last eight to 10 years. Today we have one company within my.",
+      "start": 114090,
+      "end": 170520
+    },
+    {
+      "speaker": "C",
+      "text": "Personal Holdco, which is Story Arb.",
+      "start": 170520,
+      "end": 172520
+    },
+    {
+      "speaker": "B",
+      "text": "And Story Arb is a ghostwriting agency for B2B executives and very simply we help the top 1% of founders or executives build their brands on Twitter and LinkedIn. I put $0 into it and our goal is to get to product market fit as quickly as possible with the ultimate goal of having Story RB a $10 million business on its own and profiting at least 3.5 million every year.",
+      "start": 172600,
+      "end": 197860
+    },
+    {
+      "speaker": "D",
+      "text": "Can you give us a timeline of how you get here?",
+      "start": 197860,
+      "end": 200740
+    },
+    {
+      "speaker": "B",
+      "text": "I dreamed of only one thing when I was growing up and that was working on Wall Street. I went to college at the University of Michigan from 2011 to 2015, studied business there. Still on this path to have the world's greatest trader job ever. While I was at Michigan, week before my junior year, my dad passed away Suddenly.",
+      "start": 200740,
+      "end": 219260
+    },
+    {
+      "speaker": "C",
+      "text": "He was 46 years old, died of.",
+      "start": 219340,
+      "end": 221540
+    },
+    {
+      "speaker": "B",
+      "text": "A stroke, was in perfect health like me. And so that feeling of obligation basically guided the next eight years of my life. It forced this perspective on me that every day could be our last and we really should spend our time in a way that aligns with our values and fills us up. And so I graduate from Michig, I got the world's greatest trading job, I'm working on Wall street and I realize I'm not fulfilled in the slightest. While I was doing that, we had already started Morning Brew and I was working on it on the side and I realized I was so fired up by what I was doing from 9 o' clock to midnight, far more fired up than what I was doing from 6:00am to 9:00 clock. I quit my job when we had 30,000 subscribers. We had not made a dollar on the business, but I just had this sense of faith and so did Austin, that we'd be able to figure out a way to make money as a business. So we sold the company in October of 2020, to Axel Springer. Almost six months later, I stepped down as CEO of the business. And that is probably the hardest professional moment that I've ever had. 12 months of doing every cliche thing that an entrepreneur does when they're looking for meaning, reading about stoicism, taking long walks with their dog. Like, I was trying to do everything to figure out my purpose. And what I landed on was that there are a few things that I love in business. I love spending time with other founders. I love coaching them. I love storytelling and selling. I love creating content, and I love spending my time on the early days of the business. You know what Reid Hoffman calls the town and village stages versus, like the city and state stages. I love that part of the business. And I just ask myself, how can I spend the rest of my career just in the town and village and not in the city and state?",
+      "start": 221540,
+      "end": 324370
+    },
+    {
+      "speaker": "D",
+      "text": "All right, let's talk about why personal holding companies are becoming a thing. What do you think is the opportunity here? Why is it taking off?",
+      "start": 324610,
+      "end": 329730
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, so I think there is just a number of different trends that we're seeing. Some are like macro, cultural, and global trends. Others are trends specific to entrepreneurship and the business landscape.",
+      "start": 330120,
+      "end": 341640
+    },
+    {
+      "speaker": "C",
+      "text": "The first, which is like a global.",
+      "start": 341640,
+      "end": 343160
+    },
+    {
+      "speaker": "B",
+      "text": "Trend, is there is just increased emphasis on the importance of, like, lifestyle, balance and health in a professional's life. And so I think it's very much in vogue now to be thinking about how you're taking care of yourself. We're in a golden age of entrepreneurship right now because the cost of failure of entrepreneurship has never been lower. It is easier than ever before to ideate or test ideas with platforms like product hunt or Kickstarter.",
+      "start": 343160,
+      "end": 370100
+    },
+    {
+      "speaker": "C",
+      "text": "It is easier or cheaper than ever.",
+      "start": 370260,
+      "end": 372460
+    },
+    {
+      "speaker": "B",
+      "text": "Before to actually run your business. You have an e commerce business, you shopify, you have a newsletter business, you have beehive.",
+      "start": 372460,
+      "end": 378099
+    },
+    {
+      "speaker": "C",
+      "text": "And so I think it's inviting more.",
+      "start": 378180,
+      "end": 379940
+    },
+    {
+      "speaker": "B",
+      "text": "People to start businesses with this different.",
+      "start": 379940,
+      "end": 382860
+    },
+    {
+      "speaker": "C",
+      "text": "Image of what a great business is.",
+      "start": 382860,
+      "end": 384420
+    },
+    {
+      "speaker": "B",
+      "text": "And for a lot of people, that's a cash flowing asset that maybe does six to seven figures a year, gives you a great lifestyle, and maybe you do that over and over and over rather rather than trying to swing for the fences with a $10 billion company that you have 0.1% chance of actually succeeding.",
+      "start": 384420,
+      "end": 400080
+    },
+    {
+      "speaker": "A",
+      "text": "All right, quick break.",
+      "start": 400080,
+      "end": 401040
+    },
+    {
+      "speaker": "D",
+      "text": "This is me five years ago, desperate to start my own business, but plagued.",
+      "start": 401200,
+      "end": 405400
+    },
+    {
+      "speaker": "A",
+      "text": "With shiny object syndrome.",
+      "start": 405400,
+      "end": 406720
+    },
+    {
+      "speaker": "D",
+      "text": "I tried building SaaS, tools, freelancing, affiliate marketing. But none of these business ideas ever.",
+      "start": 406720,
+      "end": 412320
+    },
+    {
+      "speaker": "A",
+      "text": "Panned out to anything.",
+      "start": 412320,
+      "end": 413360
+    },
+    {
+      "speaker": "D",
+      "text": "But everything changed one day when I.",
+      "start": 413360,
+      "end": 414920
+    },
+    {
+      "speaker": "A",
+      "text": "Looked inside and wondered, what if instead I built a business around what I'm good at and what I'm passionate about? Well, that decision led me to building a business that now makes over a million dollars a year. And that's what Starter story is all about. It's a Community of thousands of founders who change their life by building an online business around their skills and their passions. Our 4000 plus case studies and business idea breakdowns will show you how regular.",
+      "start": 414920,
+      "end": 440080
+    },
+    {
+      "speaker": "D",
+      "text": "People just like you found the right.",
+      "start": 440080,
+      "end": 442240
+    },
+    {
+      "speaker": "A",
+      "text": "Idea and turned it into millions. For example, Luke joined Starter Story and.",
+      "start": 442240,
+      "end": 446440
+    },
+    {
+      "speaker": "D",
+      "text": "Dove into our case study about a.",
+      "start": 446440,
+      "end": 447960
+    },
+    {
+      "speaker": "A",
+      "text": "Newsletter business that makes over $25 million a year. Just one. He launched his own newsletter business that did $5,800 in revenue in 30 days.",
+      "start": 447960,
+      "end": 456860
+    },
+    {
+      "speaker": "D",
+      "text": "So if you're serious about finding that.",
+      "start": 456860,
+      "end": 458380
+    },
+    {
+      "speaker": "A",
+      "text": "Right idea, click the first link in the description.",
+      "start": 458380,
+      "end": 461060
+    },
+    {
+      "speaker": "D",
+      "text": "We're running a special for the YouTube family. All right, enjoy the video. I'll see you around. Peace with the holding company. Your first big success is a ghostwriting agency. Can you tell me how you started that?",
+      "start": 461060,
+      "end": 471980
+    },
+    {
+      "speaker": "C",
+      "text": "Yeah. So, you know, one day I was.",
+      "start": 472220,
+      "end": 474500
+    },
+    {
+      "speaker": "B",
+      "text": "Literally just on Twitter.",
+      "start": 474500,
+      "end": 476460
+    },
+    {
+      "speaker": "C",
+      "text": "I was thinking to myself how there's all these short form video agencies and I've seen like a dozen pop up.",
+      "start": 476460,
+      "end": 481880
+    },
+    {
+      "speaker": "B",
+      "text": "In the last 12 months.",
+      "start": 481880,
+      "end": 482800
+    },
+    {
+      "speaker": "C",
+      "text": "I feel like text based platforms like Twitter or X and LinkedIn haven't been given nearly enough love. And so I put out a tweet that basically says if you're an executive who believes in the power of building audience, but you don't have enough time or you don't have the skill to do it yourself, and you're willing to spend five to $10,000 a year to have someone else help you build it. DM me. So I got 25 DMs. Like that's my favorite way to build a business is like product doesn't exist yet. You get a sense of demand, then you build the product after you truly build the plane as you're flying it. So I was like, okay, there's demand. Now my next issue I need to solve for is supply. I need ghostwriters because I'm not gonna write all these things. So I literally connected clients with two of the ghostwriters, set up a slack channel for them two or three months in. I was like, okay, there's enough legitimacy here where now I think I can advertise where the business is to hire a great CEO. Because again, with the personal holding company model, I did not want to be the CEO of this business. And the idea is hopefully we get to product market fit with the company by end of year, where ultimately I only spend five to ten hours a week on the business. And that is kind of the time or investment trajectory that I hope to have with any business that I spin up.",
+      "start": 482960,
+      "end": 552710
+    },
+    {
+      "speaker": "D",
+      "text": "Can you break down storeyarb? How's it set up and how's it doing?",
+      "start": 552710,
+      "end": 556710
+    },
+    {
+      "speaker": "C",
+      "text": "Yep. So we have 12 clients that are paying $7,000 a month. So $84,000 top line a month. It's roughly a million dollars a year in annualized revenue. We think this business can be a $10 million a year business. That's basically 110 clients. We have two full time employees, our CEO as well as content strategist, who's a hybrid of account manager and kind of content mind. And then we have three freelancers who are ghostwriters. The profit margin on this type of business is roughly 30 to 35%. So, you know, the goal ultimately is a $10 million business that does 3 to $3.5 million a year in cash flow. And basically for our clients, we interview them once a month. We get all the thoughts out of their head, and we have our ghostwriter and content strategist create 12 pieces of content per week per client.",
+      "start": 556710,
+      "end": 608990
+    },
+    {
+      "speaker": "D",
+      "text": "You mentioned product market fit. How do you determine that and how do you know when you've reached product market fit?",
+      "start": 608990,
+      "end": 614190
+    },
+    {
+      "speaker": "C",
+      "text": "It depends on the business that you're in for. Story Arb. I think of product market fit in two ways. One, as a percentage of our current clients, what percentage of our clients would recommend story arb to the people in their network where their reputation is on the line? And I want that number to be at least 50%. The other number that I'm focused on is retention, because again, I think the easiest part of this business is getting customers. I think the hardest part of this business is keeping customers. And I've heard historically for ghostwriting agencies that when I talk to people who own ghostwriting agencies, they retain their average customer for like three to five months. That is like a scary short period of time. And so our goal is, when we hit true product market fit, our average customer will have worked with us for on average 10 months. And so those are the metrics we're focused on to hit that point where we feel like we can now scale our customer base now because clearly we're providing something that's super valuable to people.",
+      "start": 614190,
+      "end": 673930
+    },
+    {
+      "speaker": "D",
+      "text": "A CEO runs each of the companies within your personal holding company. How do you find great CEOs?",
+      "start": 674170,
+      "end": 680090
+    },
+    {
+      "speaker": "C",
+      "text": "Basically, I look for a few qualities that I consider to be the unteachables. I look for someone who has an obsessive brain. I want someone who goes to sleep thinking about the business, and I want someone waking up thinking about the business because it means they enjoy what they're doing so much. I want someone who's a great critical thinker. I want them to think about how are they informed by their previous experiences, but also how is this situation different and how do they need to behave differently. I want someone who's value aligned with me. Like I want someone who's high integrity, strong communicator, like the things that really matter no matter what business you're working in. And the final piece is a great work ethic. Every day of the week I bet on someone who is less talented but has more humility and self awareness because I believe if they also have good work ethic, they will just grit their way to a higher ceiling. And they will also always be willing and have the humility to call out their blind spots. But I really think it's almost impossible to teach good work ethic. And so I need that in a CEO that I bring on.",
+      "start": 680090,
+      "end": 738030
+    },
+    {
+      "speaker": "D",
+      "text": "How do you pay CEOs and how the distributions look like?",
+      "start": 738030,
+      "end": 741950
+    },
+    {
+      "speaker": "C",
+      "text": "Basically the Range is a CEO a salary between 100 to $200,000 a year and then their equity in the business will be somewhere between 10 and 50%. Whenever one of my businesses hits product market fit every quarter thereafter, all of the profits of the business are distributed to equity holders and the CEO will get their percentage of equity in profit distribution. And the whole idea is by having this distribution strategy, it keeps the CEO super incentivized to continue to grow the business.",
+      "start": 741950,
+      "end": 771500
+    },
+    {
+      "speaker": "D",
+      "text": "All right, so you got this one successful business. Now you're thinking of new ideas. Can you tell me how you approach new ideas and how do you validate them?",
+      "start": 771900,
+      "end": 780180
+    },
+    {
+      "speaker": "B",
+      "text": "First of all, the best way to.",
+      "start": 780420,
+      "end": 782620
+    },
+    {
+      "speaker": "C",
+      "text": "Think of business ideas is to never just sit on a couch thinking of business ideas. That is the worst way to do it, right? Be a magnet for problems. So be incredible at finding and hoarding people's problems and then thinking about what are novel solutions for solving those problems. If I wanted to launch another business today, I would, but I want to focus with story art first. So if anyone wants to steal one of these ideas, they can. The first idea is what I call workflow automation Agency. I think the next big one will be basically like Notion or Airtable or different forms of automation agencies using these no code tools like Zapier and Make as well as using AI and offshore talent. And I think every business you wind up finding people working on manual tasks that can be automated or outsourced. So if I was to build my next business in the holdco, it would be that I think there's so much opportunity to build it. So your audience should feel free to steal the idea and take it and build it themselves.",
+      "start": 782620,
+      "end": 835120
+    },
+    {
+      "speaker": "D",
+      "text": "Let's talk about the risks of a personal holding company. They're pretty sexy right now, blowing up. But what do you think could be the downfall of them?",
+      "start": 835120,
+      "end": 842480
+    },
+    {
+      "speaker": "B",
+      "text": "Personal holding companies work well for people who understand what a personal holding company offers you and it aligns with what you want to spend your time on. That's why I'm doing it. But the first big risk is dilution. It's lack of focus. Like I want to get one business right before thinking about my next business. And so for story arb, right now we don't have product market fit. In my mind until we have product market fit, I'm not going to launch another business. Once we have product market fit, I will launch a business. And so my whole thesis on this is go slow to be able to go fast. So launch a business, figure out how to hit product market fit. Hopefully that makes me better at launching a business and hitting product market fit faster the next time. And so each kind of iteration of launching and finding success with a business can happen faster and faster.",
+      "start": 842560,
+      "end": 884280
+    },
+    {
+      "speaker": "A",
+      "text": "Faster.",
+      "start": 884350,
+      "end": 884670
+    },
+    {
+      "speaker": "B",
+      "text": "But like, I don't also have a number in my head of like, oh, I need to be at 12 companies within the next three years. I would rather four successful businesses than 12 non successful businesses. The second, when you have a personal holding company and you're the entrepreneur sitting at the top of it, you have to think of yourself as a product, meaning you are in service of the companies you Launch and the CEOs that you bring on. And so if you're a product, like any product, you have like value, you have value proposition you offer to your companies and to your CEOs. And if you don't offer enough value, two things happen. One, you can't command nearly enough equity to be excited about these businesses that you've launched. And two, talent, like employees aren't going to be excited to work for your businesses because they don't see the value that you're bringing to the table.",
+      "start": 884830,
+      "end": 931520
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah.",
+      "start": 931520,
+      "end": 931960
+    },
+    {
+      "speaker": "B",
+      "text": "And so those are the two huge risks. And I spend a ton of time thinking about them to hopefully mitigate them.",
+      "start": 931960,
+      "end": 936200
+    },
+    {
+      "speaker": "D",
+      "text": "So for anyone watching this video and wants to start a personal holding company, what would be a great business to start with?",
+      "start": 936200,
+      "end": 942180
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, I mean at the end of the day, I think it comes down to first understanding your strengths and your weaknesses. You just need to be brutally honest about what are the one or two things you're exceptional at based on your interests and your past. Call it five to 10 years of work experience and build around that first. So one example I would just use is like Greg Eisenberg. Like, Greg Eisenberg is the king of community. Like, he is known on Twitter and on the Internet as the guy who understands how to build vibrant community on the Internet. So what did he do? He went and launched a paid community for people building communities. And anyone who has interest in understanding how to build a membership community on the Internet is of course going to follow Greg and join his community because they know like, he is the guy for that. Plus, not only is he just like great from a marketing perspective because people trust him for it, he also knows how to build great communities so he can constantly add value to his customers within that membership.",
+      "start": 942260,
+      "end": 999280
+    },
+    {
+      "speaker": "D",
+      "text": "All right, so last question we asked to all founders is if you could stand on Alex's shoulder in the early days and give him advice, what would you say?",
+      "start": 999890,
+      "end": 1008290
+    },
+    {
+      "speaker": "B",
+      "text": "A few things come to mind. First, I like to say find the suck. Find great problems to solve. Don't just sit with friends on a weekend and brainstorm business ideas like immerse yourself in industries you're interested in finding problems in, identify those problems, figure out what problems are especially painful, there isn't a good solution for it, and then start thinking about how can you provide a better solution. And the second is everyone talks about taking the leap of faith in entrepreneurship and I just think it's completely a misnomer. It's more about like stepping pebble to pebble carefully across the river versus jumping over the river. Like, there are so many ways that you can test ideas low cost on the Internet today. You can put out ideas onto social, you can launch ideas on product hunt, you can launch a product on Kickstarter Starter, you can create a Shopify store or you can create a newsletter. Like, my best idea for launch or for testing anything is like I always start with a tweet. If there's interest in a tweet, I turn into a tweet thread. If there's interest in that, I turn into a newsletter. If there's interest in that and I turn into a video. The same exact concept exists for business. So don't think that business is too risky for you because you have to take a leap. Because business actually can be very low risk if you just step intentionally, step by step.",
+      "start": 1008530,
+      "end": 1080590
+    },
+    {
+      "speaker": "D",
+      "text": "All right, man, thank you.",
+      "start": 1081470,
+      "end": 1083030
+    },
+    {
+      "speaker": "B",
+      "text": "Thanks so much for having me.",
+      "start": 1083030,
+      "end": 1083950
+    },
+    {
+      "speaker": "D",
+      "text": "It was awesome. Great to meet you.",
+      "start": 1084030,
+      "end": 1085590
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah.",
+      "start": 1085590,
+      "end": 1086030
+    },
+    {
+      "speaker": "D",
+      "text": "Follow this advice and you'll have a seven figure ghost writing agency within two weeks.",
+      "start": 1086910,
+      "end": 1090590
+    }
+  ]
+}

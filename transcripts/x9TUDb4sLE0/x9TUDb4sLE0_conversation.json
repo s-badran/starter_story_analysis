@@ -1,0 +1,221 @@
+{
+  "source": "/home/salouri/Projects/starter_story/transcripts/x9TUDb4sLE0/x9TUDb4sLE0_raw.json",
+  "segments": [
+    {
+      "speaker": "A",
+      "text": "After six failed SaaS ideas, my seventh made millions.",
+      "start": 160,
+      "end": 3200
+    },
+    {
+      "speaker": "B",
+      "text": "This is Jacob. He built a million dollar SaaS 100% with no code.",
+      "start": 3440,
+      "end": 7920
+    },
+    {
+      "speaker": "A",
+      "text": "So you don't need to know how to actually code. You don't need to know code syntax.",
+      "start": 8080,
+      "end": 11920
+    },
+    {
+      "speaker": "B",
+      "text": "The tool he built it with and grew it from zero to $1 million ARR. It's not lovable, it's not cursor, it's.",
+      "start": 11920,
+      "end": 19360
+    },
+    {
+      "speaker": "A",
+      "text": "That's the best part of it is anyone can get started and understand the basic frameworks even of programming.",
+      "start": 20480,
+      "end": 25840
+    },
+    {
+      "speaker": "B",
+      "text": "Jacob is proof that you don't need any coding experience to build a profitable SaaS. And not knowing how to code might actually be a huge advantage. In this video, Jacob and Alex come onto the channel to break down exactly how they bootstrapped their SaaS to $1 million in just 10 months. Plus we'll talk about the secret to building MVPs with no code, the marketing strategy that exploded the business, and how you can get started building apps without code. Today I'm Pat Walls and this is Starter Story. All right, welcome Jacob to Starter Story. Tell me a little about the business that you built and what's your story.",
+      "start": 26020,
+      "end": 64520
+    },
+    {
+      "speaker": "A",
+      "text": "My name is Jacob and I built a million dollar business with no code. I'm a self taught developer and the co founder of faceless video. It's 100% bootstrapped and I built it from scratch with Bubble and it's now doing over a million dollars a year in ARR.",
+      "start": 65000,
+      "end": 77320
+    },
+    {
+      "speaker": "B",
+      "text": "Wow, that's amazing. Can you give me a further breakdown of how Faceless works, what it does and some of the numbers behind the business?",
+      "start": 77880,
+      "end": 84280
+    },
+    {
+      "speaker": "A",
+      "text": "It's a SaaS that automates faceless social media channels and the user only needs to provide their channel topic and our platform writes the video content, creates the video and posts that video on the user's behalf every single day. Entirely on autopilot, we're generating thousands of videos every single day for users, some of which had well over a million views, plenty of which have had hundreds of thousands of views. Total number of users signed up, over 1.1 million. And they're all hopping on current and relevant trends right now.",
+      "start": 84710,
+      "end": 111510
+    },
+    {
+      "speaker": "B",
+      "text": "That's an amazing business that you built, but I want to go back a little bit. What's your background and how do you get to the point of building a SaaS?",
+      "start": 111730,
+      "end": 119650
+    },
+    {
+      "speaker": "A",
+      "text": "My background started as an artist, I started as a songwriter, producer and I was releasing music on Spotify, diving full force into that world. So when I graduated college I decided to live at home with my mom and go full force into being a songwriter, artist, Producer. I started hiring companies to do marketing for me, but I was just repeatedly disappointed by all the different marketing services that I was getting. So I just figured, okay, I got to go do this myself. So I took courses online about how to market my music, and with very little budget, took my music to close to a million streams and thousands of genuine fans that naturally progressed into helping my friends out in the music business and helping them promote their music, which turned into my first business, Domino. It's a music marketing agency. And while I love that experience, what I realized about doing a service based business is that my income was directly correlated with my time. And I just wanted to scale beyond my agency and help more people without sacrificing more of my time. And that made me start looking into SaaS.",
+      "start": 119970,
+      "end": 176990
+    },
+    {
+      "speaker": "B",
+      "text": "So you caught the bug and then you came upon an idea that kind of changed everything. Let's talk about that idea. And I actually had you bring your co founder Alex on, who was a part of coming up with that idea. So Alex is joining us right now. I'd love to hear from you. How did you come up with the idea for Faceless Video?",
+      "start": 177070,
+      "end": 194830
+    },
+    {
+      "speaker": "C",
+      "text": "Yeah, so thanks for having me. I was getting a lot of Faceless videos on my TikTok algorithm. I had seen a lot of these videos go extremely viral. And my goal originally was just to go viral. And I thought to myself, I can edit these videos. You know, they look simple enough, they're going viral, why not do it myself? But then I realized that consistency was a huge problem. And coming up with new ideas, editing every day became something that was actually pretty difficult to stick to. So I, I had an idea because I realized with, you know, the advancements in tech that were going on, these videos were simple enough that this could be done automatically. And so I reached out to Jacob, and then Jacob had the idea to make this into a SaaS product instead of an internal tool so we could make channels together. Looking back, I'm really glad that I let the algorithm guide me. And, you know, we all are on TikTok and Instagram Reels and we see these trends in videos and most of the time we scroll past. But if you take a second to actually analyze what's going on, there are plenty of good business ideas in there.",
+      "start": 195150,
+      "end": 254990
+    },
+    {
+      "speaker": "B",
+      "text": "So you have the idea. Now it's time to get building. Tell me how, how did you build Faceless Video?",
+      "start": 255230,
+      "end": 260350
+    },
+    {
+      "speaker": "A",
+      "text": "It started with bubble and APIs, and bubble was the infrastructure for bringing everything together. And like with anything else, it always starts with, can this work from a technical perspective? At least you know, can I actually find a way to type in text and have this web app output a faceless video? So for the first month, that's really all this MVP was. And that eventually migrated into the managing users having a ui, UX Flow, a payment processing system, a pricing model, and turning it into a full fledged web app.",
+      "start": 260830,
+      "end": 287520
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, so tell me why Bubble is great for non developers.",
+      "start": 287680,
+      "end": 290800
+    },
+    {
+      "speaker": "A",
+      "text": "In its simplest form it translates programming into human language. So you don't need to know how to actually code, you don't need to know code. Syntax is plain English. And that's the best part of it, is anyone can get started and understand the basic frameworks even of bubble programming. Because now that I actually know how to code, I see that it is actually still very much programming, just in a more visual, human friendly way. And they also handle plenty of other important aspects of actually running a web app, such as security, scalability, privacy rules, back end management, all these other things that I would not have even known where to begin if I was just coming at it completely fresh or custom.",
+      "start": 291120,
+      "end": 328330
+    },
+    {
+      "speaker": "B",
+      "text": "You know, I talked to a lot of people who will start their app on bubble, but then, you know, once things get too complicated and they really want to scale, they have to move off it, which ends up being a huge thing. But as I understand you, your app, which is making $1 million a year right now, is still on bubble. Why have you decided to stay on bubble?",
+      "start": 328570,
+      "end": 346160
+    },
+    {
+      "speaker": "A",
+      "text": "If it ain't broke, don't fix it. It's kind of as simple as that. You know, we haven't run into any issues that would require a dramatic shift. I ran into a scalability issue once, but bubble support fixed it and that was really good peace of mind for staying long term with them. And realistically, all the bells and whistles that developers get through custom code is not necessary for building a successful business. All you need is a great idea, a functioning product and a great go to market strategy and you can validate really quickly and scale based on that.",
+      "start": 346160,
+      "end": 373870
+    },
+    {
+      "speaker": "B",
+      "text": "All right, let's pause for a quick moment to talk about AI. Everyone's hyped up right now about using AI to build apps, but right now I'm seeing that most people get stuck in what I call a death spiral of prompting. They have lots of chats with the AI, but the code never actually works. And that's exactly why we're partnering with Bubble. Bubble AI doesn't put your idea into a cookie cutter template. It actually blows it up into a full stack working app. All you have to do is describe your Idea and Bubble AI will spin up the entire stack in minutes. A polished ui, a pre wired database, and workflows that are ready to roll. I've been poking around with it to build some stuff for starter story and watching it just build everything while I sit there and enjoy my drink. That's pretty amazing. So if you've been sending on an idea, head to the first link in the description, sign up for free, and tell Bubble AI exactly what you want to build. If you do that, drop your idea in the comments. I'll read through them and let you know which ones are my favorite. All right, let's dive back into Jacob and Alex's story. On that note, what would be some of the opportunities that you see right now for ideas that people could build with bubble or other no code tools?",
+      "start": 373870,
+      "end": 444340
+    },
+    {
+      "speaker": "A",
+      "text": "I think marketplaces are kind of the first thing that comes to mind actually, just because it's the easiest way to manage a front end and a back end through no code. It's a bit more generic, but honestly, you can build anything if you get creative. But even if it's no code, that doesn't necessarily mean that it's easy. You still have to get creative. You still need to be resourceful. But there's plenty of opportunities with no code, and it brings down the barrier to entry enough so that you can start. And starting is the biggest hurdle.",
+      "start": 444710,
+      "end": 470430
+    },
+    {
+      "speaker": "B",
+      "text": "Well, that's awesome. So I want to switch gears to marketing, distribution. How did you take this idea from zero to a million dollars a year?",
+      "start": 470980,
+      "end": 480020
+    },
+    {
+      "speaker": "A",
+      "text": "To have success as a B2C app, you need to have viral potential. Your CAC customer acquisition costs, it's pretty low. And so to spend a lot on ads or other methods of promotion is not really viable for a B2C app. That's something I learned. The faces that my other products really didn't have.",
+      "start": 480660,
+      "end": 499120
+    },
+    {
+      "speaker": "C",
+      "text": "We didn't reinvent the wheel. We do all of the usual stuff. You know, we do SEO, we do ads, influencers, organic content. But the key is really getting your messaging right. And it's nothing fancy, it's just good execution. So I come from a filmmaking background and that's a lot about storytelling. So if you can crack storytelling, then you can really sell a product. What you want to do is kickstart telling that story with ads, influencer collaborations, and other things. That's what Jacob and I did. Our first advertisement for Facelift video was a Twitter thread that we spent like 200 bucks on and we got hundreds of thousands of views and it kind of instantly went viral. And that was Very, very helpful for us. And also our biggest growth came when influencers who saw our ads that we'd never even reached out to started promoting faceless video on their own because they genuinely believed that their audience would like the product. And Jacob also knows this. But word of mouth is consistently one of our top five attribution sources. So like on our customer attribution thing, people will just type in friend, so you know, people actually like the product. But if you have something that's truly original and solves a pain point, especially around an emerging trend, people will notice if you're first to market with something. So that's what we kind of centered our whole marketing strategy around, is showing how are we different from what's out there? And then also this is how you can tap into this existing trend in a new way so you can lay the foundation with traditional marketing like ads, influencers and all these things. But virality happens when the product kind of speaks for itself and you have the proper messaging and all of the incentives are lined up.",
+      "start": 499200,
+      "end": 593610
+    },
+    {
+      "speaker": "B",
+      "text": "I want to switch gears a little bit and talk about this business that you built and how it's impacted you. You had a lot of failed businesses before then you had this thing kind of take off. I'd love to hear more about that experience and how it changed things.",
+      "start": 593610,
+      "end": 606170
+    },
+    {
+      "speaker": "A",
+      "text": "SaaS is incredible. I think that's kind of the first thing I have to say. I went from a service based business into, into SaaS and it just allows you to make more money while getting your time back. And that that's huge. With a properly running system, your business will make money for you while you sleep. That doesn't mean it's hands off though, while you're awake, of course. But I was just amazed by how the system can really work when it connects. Something else that I realized a little bit, maybe more on the personal side, is it's important to make sure that what you're pursuing is for the love of doing it. Because when times get hard, it's easy to quit.",
+      "start": 606730,
+      "end": 640000
+    },
+    {
+      "speaker": "C",
+      "text": "It also gives us a competitive advantage because Jacob and I truly love doing this business and we're obsessed with it. We're always thinking about it, we're always texting each other about the business. And if it's not truly something you love someone who loves doing it, they'll always surpass you.",
+      "start": 640000,
+      "end": 654040
+    },
+    {
+      "speaker": "B",
+      "text": "You have this successful business you get to sit down and work on every day you're passionate about it. What does an actual day in the life look like for you? You have a million dollar business. What does that look like every day.",
+      "start": 654200,
+      "end": 664020
+    },
+    {
+      "speaker": "A",
+      "text": "It kind of sits into two different buckets. I'm either looking into ways to cut costs, make things more efficient, improve the product, or bring on completely new features, integrations and partnerships. That's kind of what a day in the life looks like. It's just constant optimizations. I'm still doing bug reports too, so there's of course the mundane side of things as well.",
+      "start": 664020,
+      "end": 681540
+    },
+    {
+      "speaker": "C",
+      "text": "For me, it's more of a balancing act. It's just finding new ways to grow while keeping our existing channels running smoothly. So, you know, creative strategy, working with our new team, as Jacob said, managing partnerships. So it's just figuring out how to scale while also not breaking what's already working.",
+      "start": 681620,
+      "end": 697200
+    },
+    {
+      "speaker": "B",
+      "text": "Thanks for sharing. That last question we asked all founders is you can stand on Jacob and Alex's shoulders when you're just starting out before the success, what would you tell them?",
+      "start": 697520,
+      "end": 704480
+    },
+    {
+      "speaker": "A",
+      "text": "There's there's three things that come to mind. For me, the the first is build from day zero, optimizing for the best case scenario. If 100,000 people signed up today, could your app handle it? Or would you have to rethink your pricing model and your technical debt when that starts to happen? The other thing is to not get too attached. If I didn't go through six ideas before Faceless, I probably still would have been trying to make that first idea work. And it just may not have worked at all. Maybe the idea wasn't good enough. Failing fast is a win win. There's no lose scenario with that. The third thing that comes to mind is to stay bootstrapped, because staying bootstrapped forces you to build lean and really focus on your value. If your idea is valuable to others, then you can scale healthily, and if it's not, then you can move on and adapt quickly. You have options.",
+      "start": 704480,
+      "end": 747490
+    },
+    {
+      "speaker": "C",
+      "text": "So I've been doing this since I've been young. I've always built things. But don't watch generic tutorials. Just pick a project that you're genuinely excited about and then learn everything you need to make that project real. You'll learn 10 times faster by building something you actually care about. And also you can leverage your existing skills that you think might not apply to building a business. I don't think our marketing would have been as strong as if I didn't have a storytelling background. And I don't think that you know, a lot of what Jacob did, you know, come to fruition if he didn't have his background in the music industry and the advertising industry.",
+      "start": 747650,
+      "end": 780340
+    },
+    {
+      "speaker": "B",
+      "text": "Thank you Alex. Thank you Jacob for coming on. The business you guys built is amazing. I'm sure it's going to keep growing. The fact you built it on bubble is also amazing. I haven't heard of that before, but I think that's awesome. Thanks for coming on Starter Story and have a great day.",
+      "start": 780580,
+      "end": 794100
+    },
+    {
+      "speaker": "A",
+      "text": "Thank you so much for having us. Thank you.",
+      "start": 794420,
+      "end": 796300
+    },
+    {
+      "speaker": "B",
+      "text": "I love Jacob's story because he went from having basically no coding experience to building a million dollar app. It's unreal to see how these AI tools are turning everyone into a builder and how they're getting better every single day. This is why we've been working on something called Starter Story Build. It's the place to learn about how to build with AI and how to turn your idea into a simple working production app that gets users and potentially can make money. In just 12 days. We'll guide you through the basics of building with AI and you'll get the skills to bring your ideas to life. If you're interested in checking out Starter Story Build, check the link in the description to learn more. Thank you guys again for watching. I'll see you in the next one. Peace.",
+      "start": 796460,
+      "end": 842630
+    }
+  ]
+}

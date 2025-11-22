@@ -63,9 +63,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/PmyXmpkTIdc.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/PmyXmpkTIdc_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/PmyXmpkTIdc/PmyXmpkTIdc_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/PmyXmpkTIdc/PmyXmpkTIdc_conversation.json"
     },
-    "transcribed_at": "2025-11-21T15:55:26.700886Z"
+    "transcribed_at": "2025-11-21T15:55:26.700886Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/PmyXmpkTIdc"
   },
   "67zh8_yiPh4": {
     "title": "I Built 3 SaaS Apps to $200K MRR: Here's My Exact Playbook",
@@ -75,9 +77,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/67zh8_yiPh4.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/67zh8_yiPh4_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/67zh8_yiPh4/67zh8_yiPh4_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/67zh8_yiPh4/67zh8_yiPh4_conversation.json"
     },
-    "transcribed_at": "2025-11-21T15:56:20.249982Z"
+    "transcribed_at": "2025-11-21T15:56:20.249982Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/67zh8_yiPh4"
   },
   "9WWvLj-NqEE": {
     "title": "My 2 apps made $1.5M",
@@ -87,9 +91,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/9WWvLj-NqEE.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/9WWvLj-NqEE_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/9WWvLj-NqEE/9WWvLj-NqEE_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/9WWvLj-NqEE/9WWvLj-NqEE_conversation.json"
     },
-    "transcribed_at": "2025-11-21T15:57:52.926027Z"
+    "transcribed_at": "2025-11-21T15:57:52.926027Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/9WWvLj-NqEE"
   },
   "CwHD6Fg-Mjs": {
     "title": "I vibe coded a $20K/month mobile app in 14 days",
@@ -99,9 +105,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/CwHD6Fg-Mjs.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/CwHD6Fg-Mjs_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/CwHD6Fg-Mjs/CwHD6Fg-Mjs_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/CwHD6Fg-Mjs/CwHD6Fg-Mjs_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:01:41.280178Z"
+    "transcribed_at": "2025-11-21T16:01:41.280178Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/CwHD6Fg-Mjs"
   },
   "T5zMsTw8GWQ": {
     "title": "How I built a $30K/month mobile app",
@@ -111,9 +119,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/T5zMsTw8GWQ.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/T5zMsTw8GWQ_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/T5zMsTw8GWQ/T5zMsTw8GWQ_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/T5zMsTw8GWQ/T5zMsTw8GWQ_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:02:33.698491Z"
+    "transcribed_at": "2025-11-21T16:02:33.698491Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/T5zMsTw8GWQ"
   },
   "plrni3IBEyI": {
     "title": "I made $1M flipping apps",
@@ -123,9 +133,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/plrni3IBEyI.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/plrni3IBEyI_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/plrni3IBEyI/plrni3IBEyI_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/plrni3IBEyI/plrni3IBEyI_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:03:27.592530Z"
+    "transcribed_at": "2025-11-21T16:03:27.592530Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/plrni3IBEyI"
   },
   "4BsxnGRbF4k": {
     "title": "I Found a Business for Sale and Rebuilt It Into $20K/Month",
@@ -135,9 +147,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/4BsxnGRbF4k.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/4BsxnGRbF4k_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/4BsxnGRbF4k/4BsxnGRbF4k_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/4BsxnGRbF4k/4BsxnGRbF4k_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:04:41.608840Z"
+    "transcribed_at": "2025-11-21T16:04:41.608840Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/4BsxnGRbF4k"
   },
   "88BbTpbWVpY": {
     "title": "I rebuilt a $1B app and now make $14K/month",
@@ -147,9 +161,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/88BbTpbWVpY.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/88BbTpbWVpY_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/88BbTpbWVpY/88BbTpbWVpY_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/88BbTpbWVpY/88BbTpbWVpY_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:05:30.146080Z"
+    "transcribed_at": "2025-11-21T16:05:30.146080Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/88BbTpbWVpY"
   },
   "YtyJ4reSQY0": {
     "title": "Teen From Kazakhstan Makes $1M/Year Online",
@@ -159,9 +175,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/YtyJ4reSQY0.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/YtyJ4reSQY0_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/YtyJ4reSQY0/YtyJ4reSQY0_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/YtyJ4reSQY0/YtyJ4reSQY0_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:06:23.404165Z"
+    "transcribed_at": "2025-11-21T16:06:23.404165Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/YtyJ4reSQY0"
   },
   "DV7bBCAABg4": {
     "title": "I built a $100K/month AI app",
@@ -171,9 +189,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/DV7bBCAABg4.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/DV7bBCAABg4_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/DV7bBCAABg4/DV7bBCAABg4_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/DV7bBCAABg4/DV7bBCAABg4_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:07:35.910160Z"
+    "transcribed_at": "2025-11-21T16:07:35.910160Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/DV7bBCAABg4"
   },
   "hYW9YDwHE20": {
     "title": "My app made $80K in 6 months",
@@ -183,9 +203,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/hYW9YDwHE20.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/hYW9YDwHE20_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/hYW9YDwHE20/hYW9YDwHE20_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/hYW9YDwHE20/hYW9YDwHE20_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:08:47.291953Z"
+    "transcribed_at": "2025-11-21T16:08:47.291953Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/hYW9YDwHE20"
   },
   "VZ1XspToV1E": {
     "title": "I Built a $1M SaaS Using YouTube",
@@ -195,9 +217,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/VZ1XspToV1E.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/VZ1XspToV1E_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/VZ1XspToV1E/VZ1XspToV1E_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/VZ1XspToV1E/VZ1XspToV1E_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:09:58.059573Z"
+    "transcribed_at": "2025-11-21T16:09:58.059573Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/VZ1XspToV1E"
   },
   "w8oUlfgvcTI": {
     "title": "My two apps made $30M",
@@ -207,9 +231,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/w8oUlfgvcTI.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/w8oUlfgvcTI_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/w8oUlfgvcTI/w8oUlfgvcTI_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/w8oUlfgvcTI/w8oUlfgvcTI_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:10:51.721883Z"
+    "transcribed_at": "2025-11-21T16:10:51.721883Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/w8oUlfgvcTI"
   },
   "3eY71OS4MFw": {
     "title": "How We Built a $10K/mo SaaS",
@@ -219,9 +245,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/3eY71OS4MFw.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/3eY71OS4MFw_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/3eY71OS4MFw/3eY71OS4MFw_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/3eY71OS4MFw/3eY71OS4MFw_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:11:48.038998Z"
+    "transcribed_at": "2025-11-21T16:11:48.038998Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/3eY71OS4MFw"
   },
   "w3zxMrwWrt0": {
     "title": "This app replaced my 9-5 ($150K/year)",
@@ -231,9 +259,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/w3zxMrwWrt0.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/w3zxMrwWrt0_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/w3zxMrwWrt0/w3zxMrwWrt0_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/w3zxMrwWrt0/w3zxMrwWrt0_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:12:43.843446Z"
+    "transcribed_at": "2025-11-21T16:12:43.843446Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/w3zxMrwWrt0"
   },
   "hKqLceTPLWM": {
     "title": "The $1M Mobile App Playbook",
@@ -243,9 +273,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/hKqLceTPLWM.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/hKqLceTPLWM_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/hKqLceTPLWM/hKqLceTPLWM_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/hKqLceTPLWM/hKqLceTPLWM_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:14:07.637629Z"
+    "transcribed_at": "2025-11-21T16:14:07.637629Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/hKqLceTPLWM"
   },
   "laRliIVNZgU": {
     "title": "I Quit YouTube & Built a $1M App (Without My Audience)",
@@ -255,9 +287,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/laRliIVNZgU.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/laRliIVNZgU_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/laRliIVNZgU/laRliIVNZgU_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/laRliIVNZgU/laRliIVNZgU_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:15:06.098008Z"
+    "transcribed_at": "2025-11-21T16:15:06.098008Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/laRliIVNZgU"
   },
   "a1EXyJlSx9g": {
     "title": "My app makes $41K/month",
@@ -267,9 +301,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/a1EXyJlSx9g.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/a1EXyJlSx9g_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/a1EXyJlSx9g/a1EXyJlSx9g_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/a1EXyJlSx9g/a1EXyJlSx9g_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:16:00.767171Z"
+    "transcribed_at": "2025-11-21T16:16:00.767171Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/a1EXyJlSx9g"
   },
   "BNr1JOQdSN0": {
     "title": "How I Made $65K in 3 Days",
@@ -279,9 +315,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/BNr1JOQdSN0.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/BNr1JOQdSN0_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/BNr1JOQdSN0/BNr1JOQdSN0_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/BNr1JOQdSN0/BNr1JOQdSN0_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:16:57.481851Z"
+    "transcribed_at": "2025-11-21T16:16:57.481851Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/BNr1JOQdSN0"
   },
   "1nfPvJKrYYQ": {
     "title": "Our simple app made $100K in 90 days",
@@ -291,9 +329,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/1nfPvJKrYYQ.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/1nfPvJKrYYQ_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/1nfPvJKrYYQ/1nfPvJKrYYQ_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/1nfPvJKrYYQ/1nfPvJKrYYQ_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:17:49.315571Z"
+    "transcribed_at": "2025-11-21T16:17:49.315571Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/1nfPvJKrYYQ"
   },
   "VfNRd5Rk0cM": {
     "title": "This app made over $1M",
@@ -303,9 +343,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/VfNRd5Rk0cM.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/VfNRd5Rk0cM_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/VfNRd5Rk0cM/VfNRd5Rk0cM_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/VfNRd5Rk0cM/VfNRd5Rk0cM_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:18:46.159928Z"
+    "transcribed_at": "2025-11-21T16:18:46.159928Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/VfNRd5Rk0cM"
   },
   "MLAH5OZ5FO8": {
     "title": "How I Built a $4M Business (Simple Strategy)",
@@ -315,9 +357,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/MLAH5OZ5FO8.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/MLAH5OZ5FO8_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/MLAH5OZ5FO8/MLAH5OZ5FO8_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/MLAH5OZ5FO8/MLAH5OZ5FO8_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:19:41.665762Z"
+    "transcribed_at": "2025-11-21T16:19:41.665762Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/MLAH5OZ5FO8"
   },
   "rPguT9z6kRQ": {
     "title": "How I Finally Built a $10K/Month SaaS (30 Failures)",
@@ -327,9 +371,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/rPguT9z6kRQ.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/rPguT9z6kRQ_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/rPguT9z6kRQ/rPguT9z6kRQ_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/rPguT9z6kRQ/rPguT9z6kRQ_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:20:35.421343Z"
+    "transcribed_at": "2025-11-21T16:20:35.421343Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/rPguT9z6kRQ"
   },
   "F8i0kkrQ8_o": {
     "title": "How We Built It: $900K Open Source SaaS",
@@ -339,9 +385,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/F8i0kkrQ8_o.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/F8i0kkrQ8_o_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/F8i0kkrQ8_o/F8i0kkrQ8_o_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/F8i0kkrQ8_o/F8i0kkrQ8_o_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:21:28.770460Z"
+    "transcribed_at": "2025-11-21T16:21:28.770460Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/F8i0kkrQ8_o"
   },
   "NvtsM8Nk72c": {
     "title": "How I Built It: $23K/month micro-saas",
@@ -351,9 +399,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/NvtsM8Nk72c.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/NvtsM8Nk72c_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/NvtsM8Nk72c/NvtsM8Nk72c_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/NvtsM8Nk72c/NvtsM8Nk72c_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:22:23.560036Z"
+    "transcribed_at": "2025-11-21T16:22:23.560036Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/NvtsM8Nk72c"
   },
   "3X4VneEHvig": {
     "title": "How I Used Reddit To Build a $25K/Month Business",
@@ -363,9 +413,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/3X4VneEHvig.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/3X4VneEHvig_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/3X4VneEHvig/3X4VneEHvig_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/3X4VneEHvig/3X4VneEHvig_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:23:18.347452Z"
+    "transcribed_at": "2025-11-21T16:23:18.347452Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/3X4VneEHvig"
   },
   "_KaFS4Dxs5k": {
     "title": "How I Built a $10K/Month SaaS (Beginner Strategy)",
@@ -375,9 +427,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/_KaFS4Dxs5k.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/_KaFS4Dxs5k_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/_KaFS4Dxs5k/_KaFS4Dxs5k_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/_KaFS4Dxs5k/_KaFS4Dxs5k_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:24:10.162504Z"
+    "transcribed_at": "2025-11-21T16:24:10.162504Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/_KaFS4Dxs5k"
   },
   "miEUhwSR2-0": {
     "title": "My AI App Makes $100K/Month",
@@ -387,9 +441,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/miEUhwSR2-0.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/miEUhwSR2-0_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/miEUhwSR2-0/miEUhwSR2-0_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/miEUhwSR2-0/miEUhwSR2-0_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:25:05.871986Z"
+    "transcribed_at": "2025-11-21T16:25:05.871986Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/miEUhwSR2-0"
   },
   "8BtHk-oNlN0": {
     "title": "My 3 Apps Make $35K/Month",
@@ -399,9 +455,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/8BtHk-oNlN0.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/8BtHk-oNlN0_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/8BtHk-oNlN0/8BtHk-oNlN0_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/8BtHk-oNlN0/8BtHk-oNlN0_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:25:55.124583Z"
+    "transcribed_at": "2025-11-21T16:25:55.124583Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/8BtHk-oNlN0"
   },
   "ZGwQoRw7mh8": {
     "title": "My Side Project Makes $15K/Month (Quit My 9-5)",
@@ -411,9 +469,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/ZGwQoRw7mh8.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/ZGwQoRw7mh8_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/ZGwQoRw7mh8/ZGwQoRw7mh8_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/ZGwQoRw7mh8/ZGwQoRw7mh8_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:26:53.396628Z"
+    "transcribed_at": "2025-11-21T16:26:53.396628Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/ZGwQoRw7mh8"
   },
   "EF3uyvHHBfM": {
     "title": "I make $40K/month with this one website",
@@ -423,9 +483,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/EF3uyvHHBfM.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/EF3uyvHHBfM_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/EF3uyvHHBfM/EF3uyvHHBfM_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/EF3uyvHHBfM/EF3uyvHHBfM_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:27:43.570280Z"
+    "transcribed_at": "2025-11-21T16:27:43.570280Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/EF3uyvHHBfM"
   },
   "BaWUPamqWlA": {
     "title": "How I Used Reddit to Hit $17K MRR (With ZERO Audience)",
@@ -435,9 +497,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/BaWUPamqWlA.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/BaWUPamqWlA_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/BaWUPamqWlA/BaWUPamqWlA_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/BaWUPamqWlA/BaWUPamqWlA_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:28:39.380664Z"
+    "transcribed_at": "2025-11-21T16:28:39.380664Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/BaWUPamqWlA"
   },
   "E_sPvPHwpuk": {
     "title": "How I Built A $1M Business in 117 Days",
@@ -447,9 +511,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/E_sPvPHwpuk.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/E_sPvPHwpuk_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/E_sPvPHwpuk/E_sPvPHwpuk_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/E_sPvPHwpuk/E_sPvPHwpuk_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:29:31.195794Z"
+    "transcribed_at": "2025-11-21T16:29:31.195794Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/E_sPvPHwpuk"
   },
   "HBCwzfFbopE": {
     "title": "This App Makes $25,000/Month",
@@ -459,9 +525,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/HBCwzfFbopE.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/HBCwzfFbopE_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/HBCwzfFbopE/HBCwzfFbopE_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/HBCwzfFbopE/HBCwzfFbopE_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:30:27.934501Z"
+    "transcribed_at": "2025-11-21T16:30:27.934501Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/HBCwzfFbopE"
   },
   "gpn1jEoWT4A": {
     "title": "How I Built It: $15K/month Mobile App",
@@ -471,9 +539,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/gpn1jEoWT4A.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/gpn1jEoWT4A_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/gpn1jEoWT4A/gpn1jEoWT4A_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/gpn1jEoWT4A/gpn1jEoWT4A_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:31:22.802610Z"
+    "transcribed_at": "2025-11-21T16:31:22.802610Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/gpn1jEoWT4A"
   },
   "CoqAxV6b6j4": {
     "title": "I Make $100K/Year From 2 AI Side Projects",
@@ -483,9 +553,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/CoqAxV6b6j4.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/CoqAxV6b6j4_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/CoqAxV6b6j4/CoqAxV6b6j4_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/CoqAxV6b6j4/CoqAxV6b6j4_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:32:18.819421Z"
+    "transcribed_at": "2025-11-21T16:32:18.819421Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/CoqAxV6b6j4"
   },
   "x9TUDb4sLE0": {
     "title": "I Built a $1M SaaS 100% with No Code (Bubble)",
@@ -495,9 +567,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/x9TUDb4sLE0.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/x9TUDb4sLE0_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/x9TUDb4sLE0/x9TUDb4sLE0_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/x9TUDb4sLE0/x9TUDb4sLE0_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:33:14.744141Z"
+    "transcribed_at": "2025-11-21T16:33:14.744141Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/x9TUDb4sLE0"
   },
   "npcL7oRZQlI": {
     "title": "How I Built It: $9K/Month Micro-SaaS",
@@ -507,9 +581,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/npcL7oRZQlI.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/npcL7oRZQlI_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/npcL7oRZQlI/npcL7oRZQlI_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/npcL7oRZQlI/npcL7oRZQlI_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:34:14.335688Z"
+    "transcribed_at": "2025-11-21T16:34:14.335688Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/npcL7oRZQlI"
   },
   "4hMg_CZauJs": {
     "title": "I Built an App with Cursor and Made $100K on Launch Day",
@@ -519,9 +595,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/4hMg_CZauJs.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/4hMg_CZauJs_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/4hMg_CZauJs/4hMg_CZauJs_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/4hMg_CZauJs/4hMg_CZauJs_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:35:10.344164Z"
+    "transcribed_at": "2025-11-21T16:35:10.344164Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/4hMg_CZauJs"
   },
   "L_FY6aW9cJ4": {
     "title": "How to Use AI to Find a $1M Idea [Reddit, Claude]",
@@ -531,9 +609,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/L_FY6aW9cJ4.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/L_FY6aW9cJ4_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/L_FY6aW9cJ4/L_FY6aW9cJ4_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/L_FY6aW9cJ4/L_FY6aW9cJ4_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:36:17.926468Z"
+    "transcribed_at": "2025-11-21T16:36:17.926468Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/L_FY6aW9cJ4"
   },
   "En34iY-rQc0": {
     "title": "I Make $250K/Month From 20 Apps",
@@ -543,9 +623,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/En34iY-rQc0.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/En34iY-rQc0_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/En34iY-rQc0/En34iY-rQc0_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/En34iY-rQc0/En34iY-rQc0_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:37:18.044246Z"
+    "transcribed_at": "2025-11-21T16:37:18.044246Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/En34iY-rQc0"
   },
   "jpSY4MlWX50": {
     "title": "I Built an App with Cursor, Made $30K, and Quit My Job.",
@@ -555,9 +637,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/jpSY4MlWX50.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/jpSY4MlWX50_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/jpSY4MlWX50/jpSY4MlWX50_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/jpSY4MlWX50/jpSY4MlWX50_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:38:13.144155Z"
+    "transcribed_at": "2025-11-21T16:38:13.144155Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/jpSY4MlWX50"
   },
   "0T55DRYqeeA": {
     "title": "From Zero to $42K/Month in 90 Days with AI",
@@ -567,9 +651,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/0T55DRYqeeA.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/0T55DRYqeeA_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/0T55DRYqeeA/0T55DRYqeeA_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/0T55DRYqeeA/0T55DRYqeeA_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:39:13.460654Z"
+    "transcribed_at": "2025-11-21T16:39:13.460654Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/0T55DRYqeeA"
   },
   "PSx0vcUY-sk": {
     "title": "I Got Rejected From YC, Then Built a $200M Startup",
@@ -579,9 +665,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/PSx0vcUY-sk.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/PSx0vcUY-sk_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/PSx0vcUY-sk/PSx0vcUY-sk_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/PSx0vcUY-sk/PSx0vcUY-sk_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:40:11.520136Z"
+    "transcribed_at": "2025-11-21T16:40:11.520136Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/PSx0vcUY-sk"
   },
   "tMkpiFIW8Xg": {
     "title": "My Coding Game Makes $1M Per Month",
@@ -591,9 +679,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/tMkpiFIW8Xg.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/tMkpiFIW8Xg_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/tMkpiFIW8Xg/tMkpiFIW8Xg_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/tMkpiFIW8Xg/tMkpiFIW8Xg_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:41:05.595320Z"
+    "transcribed_at": "2025-11-21T16:41:05.595320Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/tMkpiFIW8Xg"
   },
   "8xgnm6SynH4": {
     "title": "I Spent 24 Hours With Roblox Millionaires",
@@ -603,9 +693,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/8xgnm6SynH4.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/8xgnm6SynH4_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/8xgnm6SynH4/8xgnm6SynH4_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/8xgnm6SynH4/8xgnm6SynH4_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:42:24.482135Z"
+    "transcribed_at": "2025-11-21T16:42:24.482135Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/8xgnm6SynH4"
   },
   "vLLBzUZr6-s": {
     "title": "My Apps Make $4.5M/Year With $0 Marketing",
@@ -615,9 +707,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/vLLBzUZr6-s.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/vLLBzUZr6-s_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/vLLBzUZr6-s/vLLBzUZr6-s_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/vLLBzUZr6-s/vLLBzUZr6-s_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:43:24.210478Z"
+    "transcribed_at": "2025-11-21T16:43:24.210478Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/vLLBzUZr6-s"
   },
   "KpVPST_P4W8": {
     "title": "I Make $60K/Month with 4 Apps",
@@ -627,9 +721,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/KpVPST_P4W8.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/KpVPST_P4W8_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/KpVPST_P4W8/KpVPST_P4W8_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/KpVPST_P4W8/KpVPST_P4W8_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:44:25.381275Z"
+    "transcribed_at": "2025-11-21T16:44:25.381275Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/KpVPST_P4W8"
   },
   "zPijWd9uk-I": {
     "title": "I Locked Myself In A Room, Made 17 Apps, & Sold 2 for $265,000",
@@ -639,9 +735,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/zPijWd9uk-I.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/zPijWd9uk-I_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/zPijWd9uk-I/zPijWd9uk-I_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/zPijWd9uk-I/zPijWd9uk-I_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:45:21.912902Z"
+    "transcribed_at": "2025-11-21T16:45:21.912902Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/zPijWd9uk-I"
   },
   "qeY283nBhIA": {
     "title": "I Built a $10K/Month App from My Mom\u2019s Basement",
@@ -651,9 +749,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/qeY283nBhIA.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/qeY283nBhIA_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/qeY283nBhIA/qeY283nBhIA_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/qeY283nBhIA/qeY283nBhIA_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:46:21.399253Z"
+    "transcribed_at": "2025-11-21T16:46:21.399253Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/qeY283nBhIA"
   },
   "KcCnqLBhvXY": {
     "title": "The $10M AI SaaS Playbook",
@@ -663,9 +763,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/KcCnqLBhvXY.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/KcCnqLBhvXY_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/KcCnqLBhvXY/KcCnqLBhvXY_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/KcCnqLBhvXY/KcCnqLBhvXY_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:47:56.345290Z"
+    "transcribed_at": "2025-11-21T16:47:56.345290Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/KcCnqLBhvXY"
   },
   "gU9FtZIfb_M": {
     "title": "I Quit My Job & Accidentally Built A $10M Business",
@@ -675,9 +777,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/gU9FtZIfb_M.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/gU9FtZIfb_M_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/gU9FtZIfb_M/gU9FtZIfb_M_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/gU9FtZIfb_M/gU9FtZIfb_M_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:48:50.598577Z"
+    "transcribed_at": "2025-11-21T16:48:50.598577Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/gU9FtZIfb_M"
   },
   "h9R6ZeNruuI": {
     "title": "The Underdog: From $200K in Debt to $1M App Maker",
@@ -687,9 +791,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/h9R6ZeNruuI.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/h9R6ZeNruuI_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/h9R6ZeNruuI/h9R6ZeNruuI_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/h9R6ZeNruuI/h9R6ZeNruuI_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:49:53.775585Z"
+    "transcribed_at": "2025-11-21T16:49:53.775585Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/h9R6ZeNruuI"
   },
   "BeRKQkU5Ceo": {
     "title": "The Underdog: From Life Changing Accident to $100M/Year",
@@ -699,9 +805,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/BeRKQkU5Ceo.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/BeRKQkU5Ceo_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/BeRKQkU5Ceo/BeRKQkU5Ceo_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/BeRKQkU5Ceo/BeRKQkU5Ceo_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:50:52.451953Z"
+    "transcribed_at": "2025-11-21T16:50:52.451953Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/BeRKQkU5Ceo"
   },
   "yue9in5oh64": {
     "title": "How I Built It: $20K/Month AI App as a Non-Technical Founder",
@@ -711,9 +819,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/yue9in5oh64.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/yue9in5oh64_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/yue9in5oh64/yue9in5oh64_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/yue9in5oh64/yue9in5oh64_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:51:51.224208Z"
+    "transcribed_at": "2025-11-21T16:51:51.224208Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/yue9in5oh64"
   },
   "5u9u8yzPEpA": {
     "title": "He Made $10M with 3 iPhone Apps",
@@ -723,9 +833,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/5u9u8yzPEpA.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/5u9u8yzPEpA_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/5u9u8yzPEpA/5u9u8yzPEpA_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/5u9u8yzPEpA/5u9u8yzPEpA_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:52:51.758283Z"
+    "transcribed_at": "2025-11-21T16:52:51.758283Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/5u9u8yzPEpA"
   },
   "ZEIPj7QbZeI": {
     "title": "The Underdog: He Turned His Last $1,000 Into $150M",
@@ -735,9 +847,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/ZEIPj7QbZeI.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/ZEIPj7QbZeI_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/ZEIPj7QbZeI/ZEIPj7QbZeI_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/ZEIPj7QbZeI/ZEIPj7QbZeI_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:53:54.365329Z"
+    "transcribed_at": "2025-11-21T16:53:54.365329Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/ZEIPj7QbZeI"
   },
   "G4nsGvL4Fo0": {
     "title": "I Make $15K/Month With 2 AI Apps",
@@ -747,9 +861,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/G4nsGvL4Fo0.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/G4nsGvL4Fo0_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/G4nsGvL4Fo0/G4nsGvL4Fo0_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/G4nsGvL4Fo0/G4nsGvL4Fo0_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:54:45.253705Z"
+    "transcribed_at": "2025-11-21T16:54:45.253705Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/G4nsGvL4Fo0"
   },
   "TCGXT7ySco8": {
     "title": "How I Built It: $12K/Month Micro SaaS",
@@ -759,9 +875,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/TCGXT7ySco8.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/TCGXT7ySco8_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/TCGXT7ySco8/TCGXT7ySco8_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/TCGXT7ySco8/TCGXT7ySco8_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:55:36.103784Z"
+    "transcribed_at": "2025-11-21T16:55:36.103784Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/TCGXT7ySco8"
   },
   "WuzxmeUP6ro": {
     "title": "How I Built It: $37K/Month Notion App",
@@ -771,9 +889,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/WuzxmeUP6ro.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/WuzxmeUP6ro_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/WuzxmeUP6ro/WuzxmeUP6ro_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/WuzxmeUP6ro/WuzxmeUP6ro_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:56:27.109014Z"
+    "transcribed_at": "2025-11-21T16:56:27.109014Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/WuzxmeUP6ro"
   },
   "xZDofUHbZHA": {
     "title": "The day I hit reset on my life",
@@ -783,9 +903,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/xZDofUHbZHA.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/xZDofUHbZHA_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/xZDofUHbZHA/xZDofUHbZHA_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/xZDofUHbZHA/xZDofUHbZHA_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:57:20.284849Z"
+    "transcribed_at": "2025-11-21T16:57:20.284849Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/xZDofUHbZHA"
   },
   "GFnBp8lMIf4": {
     "title": "9 Things That Make Me $1.8M/Year",
@@ -795,9 +917,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/GFnBp8lMIf4.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/GFnBp8lMIf4_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/GFnBp8lMIf4/GFnBp8lMIf4_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/GFnBp8lMIf4/GFnBp8lMIf4_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:58:15.946996Z"
+    "transcribed_at": "2025-11-21T16:58:15.946996Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/GFnBp8lMIf4"
   },
   "mjCa8IFjM2E": {
     "title": "How I Built It: $10K/Month AI Image Generator",
@@ -807,9 +931,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/mjCa8IFjM2E.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/mjCa8IFjM2E_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/mjCa8IFjM2E/mjCa8IFjM2E_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/mjCa8IFjM2E/mjCa8IFjM2E_conversation.json"
     },
-    "transcribed_at": "2025-11-21T16:59:13.403297Z"
+    "transcribed_at": "2025-11-21T16:59:13.403297Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/mjCa8IFjM2E"
   },
   "loXc0Tyi4R4": {
     "title": "How I Built It: $40K/Month iPhone App",
@@ -819,9 +945,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/loXc0Tyi4R4.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/loXc0Tyi4R4_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/loXc0Tyi4R4/loXc0Tyi4R4_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/loXc0Tyi4R4/loXc0Tyi4R4_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:00:20.794117Z"
+    "transcribed_at": "2025-11-21T17:00:20.794117Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/loXc0Tyi4R4"
   },
   "TNZmNIYv050": {
     "title": "Faceless: From Immigrant to $1M/Year",
@@ -831,9 +959,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/TNZmNIYv050.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/TNZmNIYv050_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/TNZmNIYv050/TNZmNIYv050_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/TNZmNIYv050/TNZmNIYv050_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:01:22.025367Z"
+    "transcribed_at": "2025-11-21T17:01:22.025367Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/TNZmNIYv050"
   },
   "ty9ZcimL6VE": {
     "title": "How I Built It: $20K/Month Chrome Extension",
@@ -843,9 +973,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/ty9ZcimL6VE.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/ty9ZcimL6VE_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/ty9ZcimL6VE/ty9ZcimL6VE_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/ty9ZcimL6VE/ty9ZcimL6VE_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:02:16.694814Z"
+    "transcribed_at": "2025-11-21T17:02:16.694814Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/ty9ZcimL6VE"
   },
   "WGVxAmmJUmY": {
     "title": "The Underdog: From $10/hr to $1.5M/Year",
@@ -855,9 +987,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/WGVxAmmJUmY.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/WGVxAmmJUmY_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/WGVxAmmJUmY/WGVxAmmJUmY_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/WGVxAmmJUmY/WGVxAmmJUmY_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:03:36.792996Z"
+    "transcribed_at": "2025-11-21T17:03:36.792996Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/WGVxAmmJUmY"
   },
   "8yCXyCN_NR0": {
     "title": "I Turned $150 into $2M/Year",
@@ -867,9 +1001,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/8yCXyCN_NR0.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/8yCXyCN_NR0_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/8yCXyCN_NR0/8yCXyCN_NR0_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/8yCXyCN_NR0/8yCXyCN_NR0_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:04:52.357665Z"
+    "transcribed_at": "2025-11-21T17:04:52.357665Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/8yCXyCN_NR0"
   },
   "WctFUP4w0sc": {
     "title": "I Built A $1M SaaS In 87 Days",
@@ -879,9 +1015,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/WctFUP4w0sc.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/WctFUP4w0sc_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/WctFUP4w0sc/WctFUP4w0sc_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/WctFUP4w0sc/WctFUP4w0sc_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:06:33.431965Z"
+    "transcribed_at": "2025-11-21T17:06:33.431965Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/WctFUP4w0sc"
   },
   "OoFqTMPW_3E": {
     "title": "He Quit His Job And Makes $10M/Year Writing Online",
@@ -891,9 +1029,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/OoFqTMPW_3E.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/OoFqTMPW_3E_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/OoFqTMPW_3E/OoFqTMPW_3E_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/OoFqTMPW_3E/OoFqTMPW_3E_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:08:17.476852Z"
+    "transcribed_at": "2025-11-21T17:08:17.476852Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/OoFqTMPW_3E"
   },
   "b5JhfGHafZA": {
     "title": "They Make $1.4M/Year With AI",
@@ -903,9 +1043,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/b5JhfGHafZA.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/b5JhfGHafZA_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/b5JhfGHafZA/b5JhfGHafZA_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/b5JhfGHafZA/b5JhfGHafZA_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:09:08.762205Z"
+    "transcribed_at": "2025-11-21T17:09:08.762205Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/b5JhfGHafZA"
   },
   "trNGj1BN1GU": {
     "title": "I Make $1M/Year As An Introvert",
@@ -915,9 +1057,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/trNGj1BN1GU.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/trNGj1BN1GU_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/trNGj1BN1GU/trNGj1BN1GU_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/trNGj1BN1GU/trNGj1BN1GU_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:10:04.782749Z"
+    "transcribed_at": "2025-11-21T17:10:04.782749Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/trNGj1BN1GU"
   },
   "akM6P97_0B8": {
     "title": "The Multipreneur: He Makes $10M/Year With 6 Businesses",
@@ -927,9 +1071,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/akM6P97_0B8.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/akM6P97_0B8_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/akM6P97_0B8/akM6P97_0B8_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/akM6P97_0B8/akM6P97_0B8_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:11:01.612852Z"
+    "transcribed_at": "2025-11-21T17:11:01.612852Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/akM6P97_0B8"
   },
   "ptT0tfzeu8I": {
     "title": "I Hacked Reddit To Build A $1M Business",
@@ -939,9 +1085,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/ptT0tfzeu8I.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/ptT0tfzeu8I_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/ptT0tfzeu8I/ptT0tfzeu8I_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/ptT0tfzeu8I/ptT0tfzeu8I_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:11:42.160854Z"
+    "transcribed_at": "2025-11-21T17:11:42.160854Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/ptT0tfzeu8I"
   },
   "dphK9rh2F5U": {
     "title": "I Make $1M/Month From Bed",
@@ -951,9 +1099,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/dphK9rh2F5U.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/dphK9rh2F5U_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/dphK9rh2F5U/dphK9rh2F5U_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/dphK9rh2F5U/dphK9rh2F5U_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:12:39.195558Z"
+    "transcribed_at": "2025-11-21T17:12:39.195558Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/dphK9rh2F5U"
   },
   "7pCgbhUWW54": {
     "title": "I Turned One Website Into $1M/Year",
@@ -963,9 +1113,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/7pCgbhUWW54.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/7pCgbhUWW54_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/7pCgbhUWW54/7pCgbhUWW54_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/7pCgbhUWW54/7pCgbhUWW54_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:13:36.182352Z"
+    "transcribed_at": "2025-11-21T17:13:36.182352Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/7pCgbhUWW54"
   },
   "zTKYJWAEl78": {
     "title": "I Make $5M/Year With 3 Businesses",
@@ -975,9 +1127,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/zTKYJWAEl78.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/zTKYJWAEl78_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/zTKYJWAEl78/zTKYJWAEl78_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/zTKYJWAEl78/zTKYJWAEl78_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:14:32.248064Z"
+    "transcribed_at": "2025-11-21T17:14:32.248064Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/zTKYJWAEl78"
   },
   "OKl0C3zg0LU": {
     "title": "I Made $2.5M Selling A Digital Product",
@@ -987,9 +1141,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/OKl0C3zg0LU.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/OKl0C3zg0LU_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/OKl0C3zg0LU/OKl0C3zg0LU_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/OKl0C3zg0LU/OKl0C3zg0LU_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:15:28.921681Z"
+    "transcribed_at": "2025-11-21T17:15:28.921681Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/OKl0C3zg0LU"
   },
   "u8sW-NhGfXw": {
     "title": "I Built A $1M App In 5 Hours",
@@ -999,9 +1155,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/u8sW-NhGfXw.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/u8sW-NhGfXw_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/u8sW-NhGfXw/u8sW-NhGfXw_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/u8sW-NhGfXw/u8sW-NhGfXw_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:16:18.929980Z"
+    "transcribed_at": "2025-11-21T17:16:18.929980Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/u8sW-NhGfXw"
   },
   "7LZ0MTkNr34": {
     "title": "I Make $1M/Year With One Website",
@@ -1011,9 +1169,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/7LZ0MTkNr34.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/7LZ0MTkNr34_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/7LZ0MTkNr34/7LZ0MTkNr34_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/7LZ0MTkNr34/7LZ0MTkNr34_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:17:15.769797Z"
+    "transcribed_at": "2025-11-21T17:17:15.769797Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/7LZ0MTkNr34"
   },
   "6iqo7lNR_m0": {
     "title": "I Built This $5M/Year Business From A Van",
@@ -1023,9 +1183,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/6iqo7lNR_m0.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/6iqo7lNR_m0_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/6iqo7lNR_m0/6iqo7lNR_m0_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/6iqo7lNR_m0/6iqo7lNR_m0_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:18:08.576617Z"
+    "transcribed_at": "2025-11-21T17:18:08.576617Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/6iqo7lNR_m0"
   },
   "uBGbvKScavk": {
     "title": "I Made $30M With My Side Project",
@@ -1035,9 +1197,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/uBGbvKScavk.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/uBGbvKScavk_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/uBGbvKScavk/uBGbvKScavk_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/uBGbvKScavk/uBGbvKScavk_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:18:52.580549Z"
+    "transcribed_at": "2025-11-21T17:18:52.580549Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/uBGbvKScavk"
   },
   "GGxUH6EXF9I": {
     "title": "The Underdog: From Dead Broke to $30,000,000",
@@ -1047,9 +1211,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/GGxUH6EXF9I.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/GGxUH6EXF9I_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/GGxUH6EXF9I/GGxUH6EXF9I_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/GGxUH6EXF9I/GGxUH6EXF9I_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:19:49.948574Z"
+    "transcribed_at": "2025-11-21T17:19:49.948574Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/GGxUH6EXF9I"
   },
   "G5cbMnFXcj0": {
     "title": "I Make $2.4M/Year With 6 YouTube Channels",
@@ -1059,9 +1225,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/G5cbMnFXcj0.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/G5cbMnFXcj0_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/G5cbMnFXcj0/G5cbMnFXcj0_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/G5cbMnFXcj0/G5cbMnFXcj0_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:20:45.472225Z"
+    "transcribed_at": "2025-11-21T17:20:45.472225Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/G5cbMnFXcj0"
   },
   "IZsQqarWXtY": {
     "title": "I Built a $1M AI App [No Code]",
@@ -1071,9 +1239,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/IZsQqarWXtY.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/IZsQqarWXtY_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/IZsQqarWXtY/IZsQqarWXtY_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/IZsQqarWXtY/IZsQqarWXtY_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:21:43.530613Z"
+    "transcribed_at": "2025-11-21T17:21:43.530613Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/IZsQqarWXtY"
   },
   "Gv2fzC96Z40": {
     "title": "The Underdog: From His Parent\u2019s Basement to $25M",
@@ -1083,9 +1253,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/Gv2fzC96Z40.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/Gv2fzC96Z40_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/Gv2fzC96Z40/Gv2fzC96Z40_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/Gv2fzC96Z40/Gv2fzC96Z40_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:22:40.253180Z"
+    "transcribed_at": "2025-11-21T17:22:40.253180Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/Gv2fzC96Z40"
   },
   "vedkm3ZmHIE": {
     "title": "The $1.8M Solopreneur Playbook",
@@ -1095,9 +1267,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/vedkm3ZmHIE.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/vedkm3ZmHIE_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/vedkm3ZmHIE/vedkm3ZmHIE_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/vedkm3ZmHIE/vedkm3ZmHIE_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:23:24.902505Z"
+    "transcribed_at": "2025-11-21T17:23:24.902505Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/vedkm3ZmHIE"
   },
   "T_wEmB5MapE": {
     "title": "How I Built A $1M Business From This Starbucks",
@@ -1107,9 +1281,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/T_wEmB5MapE.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/T_wEmB5MapE_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/T_wEmB5MapE/T_wEmB5MapE_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/T_wEmB5MapE/T_wEmB5MapE_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:24:18.788105Z"
+    "transcribed_at": "2025-11-21T17:24:18.788105Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/T_wEmB5MapE"
   },
   "lWwZ-fsD8gM": {
     "title": "I Quit My $250K Job To Become an Author",
@@ -1119,9 +1295,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/lWwZ-fsD8gM.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/lWwZ-fsD8gM_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/lWwZ-fsD8gM/lWwZ-fsD8gM_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/lWwZ-fsD8gM/lWwZ-fsD8gM_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:25:15.217013Z"
+    "transcribed_at": "2025-11-21T17:25:15.217013Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/lWwZ-fsD8gM"
   },
   "p3xa6mpxvOY": {
     "title": "I Became A Venture Capitalist With Only $1,000",
@@ -1131,9 +1309,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/p3xa6mpxvOY.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/p3xa6mpxvOY_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/p3xa6mpxvOY/p3xa6mpxvOY_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/p3xa6mpxvOY/p3xa6mpxvOY_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:26:17.966833Z"
+    "transcribed_at": "2025-11-21T17:26:17.966833Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/p3xa6mpxvOY"
   },
   "nzVcbrLl9VU": {
     "title": "The Multipreneur: He\u2019s Building A $10M Portfolio of Income Streams",
@@ -1143,9 +1323,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/nzVcbrLl9VU.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/nzVcbrLl9VU_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/nzVcbrLl9VU/nzVcbrLl9VU_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/nzVcbrLl9VU/nzVcbrLl9VU_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:27:08.916057Z"
+    "transcribed_at": "2025-11-21T17:27:08.916057Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/nzVcbrLl9VU"
   },
   "e6COsh5wfNA": {
     "title": "They Built A $2M Business To Fund Their Dreams",
@@ -1155,9 +1337,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/e6COsh5wfNA.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/e6COsh5wfNA_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/e6COsh5wfNA/e6COsh5wfNA_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/e6COsh5wfNA/e6COsh5wfNA_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:28:07.728913Z"
+    "transcribed_at": "2025-11-21T17:28:07.728913Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/e6COsh5wfNA"
   },
   "i6kCkGmJc9M": {
     "title": "He Built A $2.5M/Year Business In 2 Years",
@@ -1167,9 +1351,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/i6kCkGmJc9M.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/i6kCkGmJc9M_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/i6kCkGmJc9M/i6kCkGmJc9M_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/i6kCkGmJc9M/i6kCkGmJc9M_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:29:04.972808Z"
+    "transcribed_at": "2025-11-21T17:29:04.972808Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/i6kCkGmJc9M"
   },
   "IuoscQiQQLg": {
     "title": "The Underdog: He Turned His Last $4,000 Into $48M",
@@ -1179,9 +1365,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/IuoscQiQQLg.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/IuoscQiQQLg_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/IuoscQiQQLg/IuoscQiQQLg_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/IuoscQiQQLg/IuoscQiQQLg_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:29:54.422794Z"
+    "transcribed_at": "2025-11-21T17:29:54.422794Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/IuoscQiQQLg"
   },
   "wqN-gjnpns8": {
     "title": "He's Launching A New $1M Business Every Month",
@@ -1191,9 +1379,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/wqN-gjnpns8.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/wqN-gjnpns8_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/wqN-gjnpns8/wqN-gjnpns8_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/wqN-gjnpns8/wqN-gjnpns8_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:30:49.479674Z"
+    "transcribed_at": "2025-11-21T17:30:49.479674Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/wqN-gjnpns8"
   },
   "irEi7DVBHdA": {
     "title": "Meet The Kid Who Made $1M with ChatGPT",
@@ -1203,9 +1393,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/irEi7DVBHdA.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/irEi7DVBHdA_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/irEi7DVBHdA/irEi7DVBHdA_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/irEi7DVBHdA/irEi7DVBHdA_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:31:45.527572Z"
+    "transcribed_at": "2025-11-21T17:31:45.527572Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/irEi7DVBHdA"
   },
   "9pP4qSrt5GU": {
     "title": "I Made $2.3M Writing Like a 5th Grader",
@@ -1215,9 +1407,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/9pP4qSrt5GU.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/9pP4qSrt5GU_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/9pP4qSrt5GU/9pP4qSrt5GU_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/9pP4qSrt5GU/9pP4qSrt5GU_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:32:41.543255Z"
+    "transcribed_at": "2025-11-21T17:32:41.543255Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/9pP4qSrt5GU"
   },
   "5MaPEK-yVVY": {
     "title": "I Make $845,601 Writing This Online...",
@@ -1227,9 +1421,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/5MaPEK-yVVY.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/5MaPEK-yVVY_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/5MaPEK-yVVY/5MaPEK-yVVY_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/5MaPEK-yVVY/5MaPEK-yVVY_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:33:30.786441Z"
+    "transcribed_at": "2025-11-21T17:33:30.786441Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/5MaPEK-yVVY"
   },
   "Fk2J2U7669o": {
     "title": "How To Build A $100M Podcast Empire",
@@ -1239,9 +1435,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/Fk2J2U7669o.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/Fk2J2U7669o_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/Fk2J2U7669o/Fk2J2U7669o_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/Fk2J2U7669o/Fk2J2U7669o_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:34:27.825121Z"
+    "transcribed_at": "2025-11-21T17:34:27.825121Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/Fk2J2U7669o"
   },
   "5C3YCTL-36c": {
     "title": "I Make $11M/Year Selling One Product",
@@ -1251,9 +1449,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/5C3YCTL-36c.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/5C3YCTL-36c_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/5C3YCTL-36c/5C3YCTL-36c_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/5C3YCTL-36c/5C3YCTL-36c_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:35:23.336129Z"
+    "transcribed_at": "2025-11-21T17:35:23.336129Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/5C3YCTL-36c"
   },
   "dXKzST0FE-A": {
     "title": "I Make $1.3M/Year With One Skill",
@@ -1263,9 +1463,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/dXKzST0FE-A.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/dXKzST0FE-A_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/dXKzST0FE-A/dXKzST0FE-A_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/dXKzST0FE-A/dXKzST0FE-A_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:36:17.022922Z"
+    "transcribed_at": "2025-11-21T17:36:17.022922Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/dXKzST0FE-A"
   },
   "v6IF-lVuvbs": {
     "title": "The Solopreneur: He Makes $1.7M With 0 Employees",
@@ -1275,9 +1477,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/v6IF-lVuvbs.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/v6IF-lVuvbs_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/v6IF-lVuvbs/v6IF-lVuvbs_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/v6IF-lVuvbs/v6IF-lVuvbs_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:37:09.407084Z"
+    "transcribed_at": "2025-11-21T17:37:09.407084Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/v6IF-lVuvbs"
   },
   "Km0FNcBI9CM": {
     "title": "Zero to $1.1B from Flipping Websites",
@@ -1287,9 +1491,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/Km0FNcBI9CM.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/Km0FNcBI9CM_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/Km0FNcBI9CM/Km0FNcBI9CM_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/Km0FNcBI9CM/Km0FNcBI9CM_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:38:10.184733Z"
+    "transcribed_at": "2025-11-21T17:38:10.184733Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/Km0FNcBI9CM"
   },
   "CnE_fLDqa7M": {
     "title": "He Turned $500 Into $10M",
@@ -1299,9 +1505,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/CnE_fLDqa7M.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/CnE_fLDqa7M_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/CnE_fLDqa7M/CnE_fLDqa7M_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/CnE_fLDqa7M/CnE_fLDqa7M_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:39:11.935438Z"
+    "transcribed_at": "2025-11-21T17:39:11.935438Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/CnE_fLDqa7M"
   },
   "DZTApvWzMuY": {
     "title": "He Makes $125,000/year As A Niche YouTuber",
@@ -1311,9 +1519,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/DZTApvWzMuY.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/DZTApvWzMuY_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/DZTApvWzMuY/DZTApvWzMuY_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/DZTApvWzMuY/DZTApvWzMuY_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:40:08.816838Z"
+    "transcribed_at": "2025-11-21T17:40:08.816838Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/DZTApvWzMuY"
   },
   "BskeAo66er0": {
     "title": "He Built A $600,000 One Person Business (with video editing)",
@@ -1323,9 +1533,11 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/BskeAo66er0.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/BskeAo66er0_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/BskeAo66er0/BskeAo66er0_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/BskeAo66er0/BskeAo66er0_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:41:07.603016Z"
+    "transcribed_at": "2025-11-21T17:41:07.603016Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/BskeAo66er0"
   },
   "hCvy-Rt7Naw": {
     "title": "How To Make $30K/month With Cooking",
@@ -1335,8 +1547,10 @@
     "status": "completed",
     "audio_file": "/home/salouri/Projects/starter_story/downloads/hCvy-Rt7Naw.mp3",
     "transcript_files": {
-      "raw": "/home/salouri/Projects/starter_story/transcripts/hCvy-Rt7Naw_raw.json"
+      "raw": "/home/salouri/Projects/starter_story/transcripts/hCvy-Rt7Naw/hCvy-Rt7Naw_raw.json",
+      "conversation": "/home/salouri/Projects/starter_story/transcripts/hCvy-Rt7Naw/hCvy-Rt7Naw_conversation.json"
     },
-    "transcribed_at": "2025-11-21T17:41:44.967687Z"
+    "transcribed_at": "2025-11-21T17:41:44.967687Z",
+    "transcript_path": "/home/salouri/Projects/starter_story/transcripts/hCvy-Rt7Naw"
   }
 }

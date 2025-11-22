@@ -1,0 +1,197 @@
+{
+  "source": "/home/salouri/Projects/starter_story/transcripts/zPijWd9uk-I/zPijWd9uk-I_raw.json",
+  "segments": [
+    {
+      "speaker": "A",
+      "text": "I built and sold two apps for $265,000 after teaching myself to code.",
+      "start": 160,
+      "end": 5160
+    },
+    {
+      "speaker": "B",
+      "text": "In just two months, this guy locked himself in a hotel room, taught himself to code, and started building.",
+      "start": 5160,
+      "end": 10800
+    },
+    {
+      "speaker": "A",
+      "text": "And just two months after I launched my first app.",
+      "start": 10960,
+      "end": 13280
+    },
+    {
+      "speaker": "B",
+      "text": "He started small, but over the course of that year, he built over 17 apps. Most of them failed, except for a couple which he then sold for a combined quarter of a million dollars. So what did he do? Right?",
+      "start": 13360,
+      "end": 26600
+    },
+    {
+      "speaker": "A",
+      "text": "I grew my app from 0 to 7,000 of monthly recurring revenue with Facebook ads when everyone say it wouldn't work.",
+      "start": 26840,
+      "end": 33480
+    },
+    {
+      "speaker": "B",
+      "text": "But what's even cooler is the secret he learned along the way on how to quickly monetize these ideas. I sat down with Nico for a couple hours and got all the sauce. And in this video, you'll learn exactly how he taught himself to code and build apps, how to sell your app the right way, and a full breakdown of his special secret paid ads. Sit down, strap in, and let's go. I'm Pat Walls and this is Starter Story. All right, welcome, Nico, to Starter Story. Thanks for coming on. Can you tell me a little bit about yourself and what you built?",
+      "start": 33640,
+      "end": 70620
+    },
+    {
+      "speaker": "A",
+      "text": "My name is Nico. I've built 17 apps in a year and I sold two of them for 265,000 USD. The first one is Makelogo AI which generated US$26,000 of sales. Plus I sold $65,000, so that's around $85,000 in total revenue from this project alone. The next one I did was tortnodes. We generated $77,000 of sales before I sold it for 200,000 last jolly.",
+      "start": 70620,
+      "end": 96800
+    },
+    {
+      "speaker": "B",
+      "text": "I'd love to get a further breakdown of the two apps that you built that you sold for a combined quarter of a million dollars.",
+      "start": 96800,
+      "end": 103920
+    },
+    {
+      "speaker": "A",
+      "text": "So makelogo was an app to generate logo using AI. The business model was just one time payment, so you can select a pack of logos. So there was option for like 5, 10, or 15 options and few options to customize it. So for example, add some text next to it or just change position, etc. I started working on it, I think in, I think November. The transaction was closed in March, so that would be around like six months. Most of the customers were people who were just curious about AI in general, but I also had lots of small entrepreneurs who didn't necessarily wanted to pay a designer for a full logo, but still didn't want it to have like something super generic. The next one I did was TortNote. Torchnote is an app that that helps you turn any kind of voice notes you can record into proper formatted text in terms of pricing, I started with one time payments. It was like a one year pass and eventually I switched to subscription which was 60 a year or 12 per month. In terms of customers, I think I had around 10,000 users for the app. I had like different targets, like people who often need to brainstorm IDs and write them down so they can remember it later.",
+      "start": 104160,
+      "end": 175850
+    },
+    {
+      "speaker": "B",
+      "text": "Let's go into what got you building online. Give us a timeline of going from working for someone else to learning to code and making a living with your own projects.",
+      "start": 176010,
+      "end": 184210
+    },
+    {
+      "speaker": "A",
+      "text": "I got started because I had a summer job in a bank and I really hated it. So I resigned after three days. I was 19 years old back then, I think, and I had like no clue what entrepreneurship was or what I was doing. So I was just like trying things out. After around one year, I decided to create a brand of ties made in France. Obviously didn't worked out because not no one is wearing ties anymore and I didn't have experience. But it got me started into E commerce and marketing, which ended up with me learning about dropshipping on Facebook groups. So I give it a try. I didn't really got much success from it at first, but I learned how to run ads on Facebook. Thanks to this, I was hired as a freelancer for a Belgian clothing brand. Eventually the owner of the brand I was working with told me that we would have to stop because he was going to work with someone cheap. At the same time, my E commerce brand wasn't working as well as I wanted. It generated sales but very little profit. So I decided to stop everything, lock myself in a hotel room for two months and learn to code. It was hard, but after that, after those two months, I was able to make my very first step. So it was worth it at the end.",
+      "start": 184210,
+      "end": 257810
+    },
+    {
+      "speaker": "B",
+      "text": "How did you find the ideas that ended up being successful? And just generally how do you find ideas for that?",
+      "start": 258050,
+      "end": 263890
+    },
+    {
+      "speaker": "A",
+      "text": "I have four main criteria. The first one is the perceived value. Is that something valuable to other people? Are they valuing solving this problem? Or is it just like a slight inconvenience that they don't really care about? The second one is the scale. Is there like a market for that or is this like three people worldwide? Then the idea is not going to go far. So I want to have something that people want and that many people want. Last two ones are more related to me. So that would be my own skills. So is that something that I can do myself? And the last one is distribution. So either a way for me to reach user in a profitable way. But I would say most of the successful ideas I had came to me like organically in a sense that I needed that for myself and I just made it.",
+      "start": 263890,
+      "end": 315470
+    },
+    {
+      "speaker": "B",
+      "text": "All right, so let's talk about how you actually build products. What's your step by step process to go from zero to one with a new idea.",
+      "start": 315470,
+      "end": 322310
+    },
+    {
+      "speaker": "A",
+      "text": "So I usually start by fixing a hard headline. If I don't have any constraint in time, then there will always be something to add, something to make, you know, the perfect app, etc. And it forces me to only focus on whatever is necessary. Then the next step is the app prototype. So that would be the very first interface to interact with the tech. So I usually start with like some kind of planning phase. So that's where I write down all the features, not the nice stuff, only what is just essential. Once I plan all that I like to look for for example design IDs for the interface on Dribble and Google image. And recently V0 has been really useful to generate interface. And then once I have lots of ideas and I have a better idea of how my interface is going to looks like, then I either make like some kind of prototype on figma, if that's a really complex user interface where I have to put lots of things together, or I just do it directly by coding and improving on the go. Then the next step is to add like SaaS layers. So that's things like authentication, payment, like anything you need in a sales. That's typically the boilerplate code that you use from from one project to the other. Once I have all that ready, I go to the landing page part. So this is going to be the sales page. So just making a landing page that is as compelling as possible, you know, to make people want to either sign up or purchase the app or whatever is the goal of this project. Once I'm done with that I focus on optimization like optimizing for SEO, et cetera, fixing like issues there is any or optimizing for mobile, etc. Etc.",
+      "start": 322550,
+      "end": 421800
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, so this is a lot of the build stuff. Tell me a little bit about the launch which is, you know, are there any either shortcuts or kind of hacks that you found to be able to launch faster?",
+      "start": 421800,
+      "end": 431000
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah, for example for Mechlo AI I use typeflow to get the information, the name of the project, some information and what kind of logo they wanted and collect the payment. So I didn't have any backend at all. It was not automated, it's definitely not scalable. But I was able to get something going and I got my first sales from that. It's probably mean people are interested into that and now I can spend more time making a proper interface.",
+      "start": 431320,
+      "end": 454780
+    },
+    {
+      "speaker": "B",
+      "text": "Before we get into the marketing side of things, I want to talk about something else first. If you're building anything in B2B, then you need to stop and watch this. I talk to a lot of founders in B2B behind the scenes about selling into enterprise and just how much it changes their business. Imagine adding 100,000 in ARR per year from a single customer because you landed a whale. Well, that's what happens if you do enterprise right? But everyone in B2B knows that this comes with a huge headache. Making sure your app is compliant with SoC2, ISO 27001, ISO 42001, HIPAA, etc. If it's not, you'll probably lose the sale, waste a bunch of time, and feel sad because you know just how much money you're leaving on the table. Well, that's where Vanta comes in and we've partnered with them because I think what they're doing is awesome. Vanta is designed to get your startup compliant fast so you can close those deals with confidence and not worry about the massive paperwork headache. Not only does Vanta save you time, it also saves you Money. This new IDC white paper found that Vanta customers achieve $535,000 a year in benefits and the platform pays for itself in just three months. Over 10,000 companies like Ramp, Atlassian and Pendo use Vanta to manage risk, improve security in real time. So if you're serious about getting compliant, then I think you should definitely Download this free SoC2 checklist. It breaks down the process in the road ahead so you can land more enterprise deals with far less headache. Just click the first link in the description to download it for free. Thank you to Vanta for sponsoring this video. I think what you guys are doing for founders is awesome. All right, let's get back into it. Let's talk about marketing. So we talked about how to build, how to launch, but the probably the hardest thing is marketing. So how have you gained thousands of users and made hundreds of thousands of dollars?",
+      "start": 454940,
+      "end": 565890
+    },
+    {
+      "speaker": "A",
+      "text": "So it all depends on the project and the resources I have available. For example, for metlogo, I didn't have much saving, so I didn't want it to spend any kind of money on ads. But the thing is, I was the first to have like AI generated logo. Back then people were just naturally curious. For TalkNote, it was a Bit different. I didn't start ads at the start, so I first tried to validate the IDE organically. And just from that I got 1500m or something like that. And once I got to this point, I knew the idea had potential. I decided to start running ads and I didn't had still lots of resources in terms of creative. So it was really basic static ads. So it's just like an image with a headline, etc. I ended up making then landing pages for specific audiences and ads for those audiences. And that's where it really blew up for the marketing cost. Again, it really really depends on the project. For doltinodes, for example, I was spending between 20 to $100 per day. I mentioned this is really not much for ads, but I also had limited resources to both make creatives and a lot of customer support, et cetera. So in my situation it wouldn't make sense to spend thousands per day. Back to.",
+      "start": 566050,
+      "end": 638790
+    },
+    {
+      "speaker": "B",
+      "text": "Well, let's dive into that a little bit because you know, a lot of people we talk to on this channel make it through organic short form, you know, this sort of stuff. This is really, really cool that you did this with paid ads. So can you just walk me through your paid ad strategy a little bit?",
+      "start": 639420,
+      "end": 653180
+    },
+    {
+      "speaker": "A",
+      "text": "So it really depends on the platform. For example, you have search platforms like Google, Bing, et cetera. So in this case that's more about giving people what they want at the right timing. But you also have interruption platforms where you show your ads why people are doing something else. So for example, on Facebook or Instagram, they're just scrolling. And in this case it's really all about catching the attention and making the user want to learn more by, you know, watching the ad and then clicking on it. I use both video and static ads, depending on how much budget I have, etc. I have one ad for talk notes that work really well. It's not really like a professional ad. It's more something that you can find scrolling on your feed. So if you look at the video, it's not like professional studio or whatever. It's just a guy that I paid and he was recording himself reading the script in his office. So it looks really like organic. It doesn't really look like an ad. People will naturally be more inclined to watch the ad and maybe click after that. That's one of the things that made this ad works well and it also focus on the problem. So the name of the app like Doltnote is not mentioned until way after in the app. You just keep Giving them reason to watch, to watch, to watch until the end of the ad, where you have the call to action and like, oh, now if you have all those problems and you want a solution, then have a look at this product, for example.",
+      "start": 653260,
+      "end": 737620
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, cool. So I want to do a little section going over the sale process, just talking about Acquire Con and the process of posting your idea on there. I think that would be helpful since you've gone through the process two times.",
+      "start": 737780,
+      "end": 751170
+    },
+    {
+      "speaker": "A",
+      "text": "To sell the app. The first thing is obviously, where are you going to list it for sale? In my case, I went for acquire.com now they don't handle the transaction themselves, so they just put you in touch with like the buyer, etc. But then you have to make the wire like sort of on your own. The important thing is to, is to make sure that the listing is like a landing page. So you really want to showcase your startup as like a product. Now for the negotiations, it's better to underprice your startup to get buyers interested because the thing is there, there is some like, ego play. So for example, for Matelogo, I think I got like 50,000 and maybe 55 or something. Then I got 65,000 paid over a year. And then the last call of the day the guy was like, okay, I don't want to waste time like bidding against other buyers, etc. So I'm going to offer you 65,000 cash. But we need to finalize everything in the next two weeks. I don't want to waste time.",
+      "start": 751170,
+      "end": 808850
+    },
+    {
+      "speaker": "B",
+      "text": "Nico, can you tell me what kind of tools or languages you use to build these products and run your businesses?",
+      "start": 808850,
+      "end": 814570
+    },
+    {
+      "speaker": "A",
+      "text": "I use Nuxt as my main JavaScript framework. I tried like different frameworks, but Nuxt is just much better on every aspect for me. I also do use NUXT UI that goes with it. So it's like a library of components. So that way I don't have to code like every little button and stuff like that. I can just say, okay, okay. Button here allowed me to code like three times faster. So I don't have to remake everything. Obviously I use cursor for coding. So what I did is I embed the documentation of Nuxt and Nuxt AI. Compared to before, when I was not using AI, Nuxt, et cetera, I just worked like 10 times faster with just those three ones. I use V0 a lot. So you just say I want this interface and they just make it to you. You get the code. So I just have to convert it into Next. Then for, for SEO, even if it's not my main channel. I still try to do a little bit and ahref is amazing for that. To collect user feedback I use and I created it myself is feedbackwidget co. It's just a way to easily collect feedback and the last one I would say is test it which is the one I created is to make AB testing and increase conversion rate or test different moddings, etc.",
+      "start": 814570,
+      "end": 884240
+    },
+    {
+      "speaker": "B",
+      "text": "Etc. Let's talk about Day in the Life. You sold multiple asks for quarter million dollars. What is your life like now? What does a day in the life look like for Nico?",
+      "start": 884240,
+      "end": 893630
+    },
+    {
+      "speaker": "A",
+      "text": "So in terms of routine right now I don't really have like a strict routine. Like I wake up at 7am, work in the morning and in the afternoon I either work if I have things to do or I just do like hobbies, play video games with my friend and stuff like that. But when I have like a really specific goal in mind and it's just about grinding, then I just wake up at like between 5:30 or 6:00am, just go to the gym and then I just work until 7 or 8pm I move really, really fast by using this mix of like, try hard, then rest a bit to assess and try to find what I work on next.",
+      "start": 893630,
+      "end": 934050
+    },
+    {
+      "speaker": "B",
+      "text": "That's awesome. Okay, the last question that we asked everyone on Starter Story is if you could stand on Nico's shoulder in that hotel room when you were just lear learning how to code, what would you tell them? What advice would you give?",
+      "start": 934210,
+      "end": 944830
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah, I would say don't get emotionally attached to the products. That's something I already had. But yeah, make technical prototypes quickly to solve the problem. Then go to talk to user as soon as possible. Another thing like don't try to make 100,000 or even like $10,000 for your first project if you haven't got any success yet. Just try to make your first dollar online first and forget about scalability or anything. It's just compounding small wins. But you need this first little wins to push the snowball until you get like a bigger one at the end of the slope.",
+      "start": 944830,
+      "end": 981000
+    },
+    {
+      "speaker": "B",
+      "text": "All right, well that was awesome. Thank you Nico for coming on to Starter Story. Your journey is amazing. 20 apps sold them for a quarter of a million. Living the dream in Bali. So I'm excited for what you're going to do next. And thanks for coming on and sharing everything.",
+      "start": 981000,
+      "end": 994280
+    },
+    {
+      "speaker": "A",
+      "text": "Thanks. That was a pleasure.",
+      "start": 994710,
+      "end": 995910
+    },
+    {
+      "speaker": "B",
+      "text": "So thank you for Nico for coming on. I think your story is amazing. I think if you watch this it might feel like Nico had some crazy formula for success, but I really just don't think that's the case. He got started, shipped a crap ton of stuff, and while doing that, he eventually kind of stumbled on a couple of things that worked. I see a lot of people waiting, waiting for the right time to start sitting on the sidelines while others like Niko are just getting started playing around with all these AI tools and new markets and just shipping stuff every week. If you're trying to do something similar, well, I have something special for you. It's called the AI Build Accelerator and in two weeks you'll ideate, build and ship a real life production app. Imagine what would happen if you started today. Imagine where you could be in two weeks. If you're curious about doing this and actually building something, then check out the link in the description if you want to learn more. But this is only for people that are serious about actually building something. I'd love to see you in there. Just click the first link in the description and let's build. Alright guys, I'll see you in the next one. Peace.",
+      "start": 996710,
+      "end": 1060220
+    }
+  ]
+}

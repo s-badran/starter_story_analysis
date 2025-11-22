@@ -1,0 +1,149 @@
+{
+  "source": "/home/salouri/Projects/starter_story/transcripts/DV7bBCAABg4/DV7bBCAABg4_raw.json",
+  "segments": [
+    {
+      "speaker": "A",
+      "text": "I built an AI platform that makes almost $100,000 a month.",
+      "start": 160,
+      "end": 3200
+    },
+    {
+      "speaker": "B",
+      "text": "This is Dustin, and just two years ago, he came across an idea that changed his life.",
+      "start": 3440,
+      "end": 8480
+    },
+    {
+      "speaker": "A",
+      "text": "I saw very quickly where the world was headed and almost like a revelation, saw what the next three years would look like.",
+      "start": 8560,
+      "end": 14560
+    },
+    {
+      "speaker": "B",
+      "text": "So he did something crazy. With no money and no coding experience, he taught himself how to build apps and he built an MVP.",
+      "start": 14720,
+      "end": 21840
+    },
+    {
+      "speaker": "A",
+      "text": "I made $3,000 in that first month.",
+      "start": 21840,
+      "end": 23720
+    },
+    {
+      "speaker": "B",
+      "text": "Two months later, he made $10,000 a month, and a year later, he was making $30,000 a month. I brought Dustin onto the channel to exactly how he did it. In this video, we'll dive into the not so obvious problem his app solves and why it's so successful. His eight week no code build process from idea to launch, and why he thinks everyone should be building an AI right now. All right, let's get into it. I'm Pat Walls and this is Starter Story. All right, Dustin, welcome to the channel. Tell me about who you are, what you built, and what's your story?",
+      "start": 23720,
+      "end": 58780
+    },
+    {
+      "speaker": "A",
+      "text": "My name is Dustin. I built a little tool called Magi. I built the app in eight weeks and had first customers on the first day that I released it. So two and a half years later, we're doing well over a million dollars in revenue. Over almost $100,000 a month.",
+      "start": 58860,
+      "end": 72120
+    },
+    {
+      "speaker": "B",
+      "text": "All right, well, before we get into the idea and the app that you actually built, I just want to get a little bit of background on you, how you get to this point.",
+      "start": 72280,
+      "end": 79719
+    },
+    {
+      "speaker": "A",
+      "text": "I grew up in small town Pennsylvania. Mom and my stepdad always worked hard to try and provide a good life for us. I wanted to be an actor, so I moved out to California to pursue acting. Hated waiting tables, so ended up starting a business instead. Found that I had a knack for social media and technology, and so I taught myself, taught myself marketing. Starting an agency very quickly though, I learned that I'm a bit of a perfectionist, and that didn't scale very well for me. So I found that if I focused all that perfectionism into building digital products, I could help hundreds of thousands of people rather than one client at a time. And so I started building digital products. My first digital product was in 2014. Started a WordPress plugin company with a couple of partners. We kind of grew apart as partners, and I made my exit to start a couple other products that failed miserably and then found myself in a place where I was not sure if I had anything left to give, but kept moving forward anyways. And then the idea for Magi is what Started this whole new season of life.",
+      "start": 79719,
+      "end": 139050
+    },
+    {
+      "speaker": "B",
+      "text": "I. Well, let's dive into that. How do you come up with the idea for Magi, this business that's now making over $100,000 a month? Where do you even get this idea?",
+      "start": 139129,
+      "end": 147850
+    },
+    {
+      "speaker": "A",
+      "text": "You know, having been through several different technology booms, I saw the writing on the wall, I saw that the whole world was about to change. And so as using ChatGPT, I realized that there were some things missing. There were some features that I wish were there. You know, at the beginning, you couldn't search your chats, you couldn't put things into folders. All these little quality of life things started piling up. I knew that I could make something better and I can improve it. And thanks to, you know, the journey that I had been on, I had kind of taught myself enough about how to develop working apps using no code tools and having some experience with customers in the subscription SaaS space, I knew that people were completely burnt down on subscriptions. And seeing all these different AI companies pop up, I went to myself, people are going to need like five or six different subscriptions just to get the best of the best AI things. What if I could solve that one problem for them? And then on top of that, all these quality of life things that I'm having with ChatGPT. So that was really the genesis of the idea.",
+      "start": 147850,
+      "end": 201340
+    },
+    {
+      "speaker": "B",
+      "text": "I want to now get into how you actually built this thing. That's something that we really try to dig into as starter story. You didn't have a technical or big time developer background, but you built this amazing SaaS software tool. Take me through the actual build and launch of Mag AI. How did you do it? How did you go from zero to really great product?",
+      "start": 201580,
+      "end": 221350
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah, so you're spot on. I'm not a developer, so when I was at the point in my life where I was broke, no ability to hire developers to help me, when I had this idea, I had to find a way to build it myself without spending any money. And so I actually found a really great online course and I just started learning as much as I could as fast as I could could. Within eight weeks, I had a full MVP built on a combination of bubble and a handful of code that I understood how to build myself. I launched it thinking nobody would buy it. But to my surprise, in the first month we made $3,000. Second month, 4,000. Third month we were at 10,000amonth. And then after one full year, we were doing 30,000amonth in revenue.",
+      "start": 221510,
+      "end": 263970
+    },
+    {
+      "speaker": "B",
+      "text": "Okay, well on that note, I think a lot of people Watching are wondering, okay, once you actually launch it, get those first users, how did you then scale it or grow it to $100,000 a month? What were the growth tactics or the marketing strategies you employed?",
+      "start": 263970,
+      "end": 276040
+    },
+    {
+      "speaker": "A",
+      "text": "The most important marketing strategy that I could say that I utilized at the beginning was having built a personal brand for the last 10 years, you need to be building in public. People want to see the journey. Even if it's not pretty, if it's not Instagram polished, people want to see. So for the last 10 years I had a personal blog that had over 10 years accumulated over a hundred thousand email subscribers. So when I launched a product I had a built in aud audience. And so that carried me doing no advertising, doing no real marketing aside from just building in public. I will also say that I think a big contributor to the initial momentum that we had was right away I built an affiliate program into the product and it was very generous one. It was a affiliate program that was built on recurring revenue. So it's not just a one time commission. If they refer a customer that pays us 12 times, they get paid 12 times. And apart from that, I'm very grateful to have some really great friends in the industry, some really great marketers who are friends of mine. I built relationships in the industry, I genuinely care about people, I'm an extrovert. So like I really do love people. So those were really the three biggest keys to growing MAGI from zero to a hundred thousand a month in revenue.",
+      "start": 276120,
+      "end": 348000
+    },
+    {
+      "speaker": "B",
+      "text": "One of the reasons I love Dustin's story is because he built his idea fast. He didn't spend months learning to code and spend a bunch of money on hiring developers. And I wanted to mention this because I see a lot of people getting stuck in the build phase for months. Well, that's where Rocket New comes in. Rocket helps you go from just a few sentences to a full stack app. No coding required. Just describe your vision once and get a complete functional app with backend integrations and production ready code. You can even import designs from Figma, add integrations like Stripe and Supabase, and download an actual mobile APK to test on your phone instantly. And the best part, you own all the code forever. Over 400,000 users in over 180 countries are already building with Rocket because it turns ideas into apps in minutes, not months. If you're ready to build your AI app idea without months of development, check out Rocket New at the first link in the description. Thank you to Rocket for sponsoring this video. I love what you guys are building. All right. Now, back to the story. All right, well, now, I mean, I would love to see what you built. Can you give us a quick demo of Mag I, what it does, how it works? Give me the breakdown of the app. I'd love to see it in action.",
+      "start": 348160,
+      "end": 422700
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah. So just like any other chat app you've used, ChatGPT, Claude, etcetera, you open up Magi and you get a input place where you can start typing to the AI. You could say hello to the default model. Now, the difference with Magi is, unlike the other apps, you don't just get to access the one company's AI model. We give you access to all of them. So if you look in the top left corner of the app, you can open up the full list where all the top models in the world are accessible. So if you wanted to to chat with GPT5, you just select GPT5 and then all of a sudden you're now chatting with GPT5. So you started the conversation with Claude and then you brought GPT5 into the conversation. So, yeah, it gives you access to all of the best AI models in one subscription, one dashboard. The other great thing is you're not limited to just large language models. We also have image and video models as well. So we have Dolly, Flux, GPT Image, we have Ideogram, all of the top image and video models as well. So if you wanted to flip over and create a photo of a cat, playing cards, you can do that with Flux right inside that same chat conversation. So most of what you're seeing on the front end is built with Bubble. On top of that, we're using Stripe as our payment processor. Convertkit is our default email marketing system. Open Router is sort of our central access point for all these AI models. They've created a unified technology platform that allows you to access all the different LLMs with one API call format. And FAL AI is also similar. They put all of the image and video and audio models in one place. Now, some of the models I do have direct API connections to. In fact, with OpenAI, I have the highest tier, and then on top of that, it's just your standard Google Analytics to track, you know, how users are using the app. I use ahrefs as our SEO platform to kind of monitor our keyword ranking, and you know how we're doing from an SEO standpoint.",
+      "start": 422860,
+      "end": 535360
+    },
+    {
+      "speaker": "B",
+      "text": "Thanks for showing that. The other question I have is, how do you monetize this? Are you on a subscription model? Is there freemium free trial? What's worked for you?",
+      "start": 535440,
+      "end": 544670
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah, so we have a strictly a paid model. We don't have any freemium. We have a $20 a month plan for solo users, and it gets you the average amount of usage that you might need in a given month. So if you want to blast through that, we give you the option to add more usage as you go if you need it. We have a team plan that's $40 a month, gives you up to five users. You all share. There's three times as much usage. And again, you can purchase more. You can also add team members for $20 per team member per month if you need more users. And so that's great for enterprises who need to. To a thousand or more users. You can do that easily right from within the app.",
+      "start": 544750,
+      "end": 579610
+    },
+    {
+      "speaker": "B",
+      "text": "Well, thanks for sharing that. The last question that I have for you is if you could go back in time, stand on Dustin's shoulder, or share any advice with anyone who's watching this channel, who wants to do something amazing like you've done, built a million dollar AI SaaS product, what would be your advice?",
+      "start": 579610,
+      "end": 593930
+    },
+    {
+      "speaker": "A",
+      "text": "I think the biggest problem that founders face is letting their past failures define them. I had a lot of confidence when I launched my first software company, and by the grace of God, it was successful. Out of the gate with. With very little effort. But then I left that business and I had two more ideas that completely failed to launch and crashed and burned. And so my confidence was shot. And those failures were so heavy on me that I lacked the confidence that. That I should have had. People rejected the products. They didn't reject you.",
+      "start": 594010,
+      "end": 623800
+    },
+    {
+      "speaker": "B",
+      "text": "Cool. Thanks for coming on the channel, Dustin. Amazing story. Hope to have you back on sometime. Thanks for sharing everything.",
+      "start": 624040,
+      "end": 629720
+    },
+    {
+      "speaker": "A",
+      "text": "My pleasure.",
+      "start": 629800,
+      "end": 630520
+    },
+    {
+      "speaker": "B",
+      "text": "All right, thank you, Dustin, for coming onto the channel. I think one of the most powerful feelings in the world is taking an idea from up here in your head and bringing it to life. Just like Dustin did with Match AI. And this is exactly why we have Starter Story Build. It's our program where we will show you how to build fast using the latest AI coding tools. And in just a few days, you'll go from a simple idea to a real working app. If you're interested in this, we'll head to the link in the description and check out Starter Story Build. All right, that's it for this episode. Thank you guys for watching. We'll see you in the next one. Peace.",
+      "start": 630520,
+      "end": 662810
+    }
+  ]
+}
