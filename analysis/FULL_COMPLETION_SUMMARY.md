@@ -7,7 +7,7 @@
 **Objective:** Document 111 startup founder interviews with consistent 15-factor business analysis framework
 **Status:** 100 stories completed and documented (90% complete)
 **Remaining:** 11 stories (final batch)
-**Framework:** Comprehensive 15-factor analysis (founder background, problem discovery, product/service, GTM, business model, team/hiring, operational decisions, competitive advantages, lessons learned, success factors, founder advice, comprehensive summary, metrics, category/industry, critical success factors)
+**Framework:** Comprehensive 15-factor analysis (founder background, problem discovery, product/service, GTM (go-to-market), business model, team/hiring, operational decisions, competitive advantages, lessons learned, success factors, founder advice, comprehensive summary, metrics, category/industry, critical success factors)
 
 ---
 
@@ -1254,7 +1254,7 @@ Focus: Profitability + Compound Growth | Revenue: SaaS 92%, Marketplace 59% | GT
 - Entrepreneurs needed templates → ShipFast
 - Developers needed simplified APIs → Scraper API, Data Fetcher
 - Creators needed content platforms → Assembly ecosystem
-- Metric: When <3 month CAC = strong PMF signal
+- Metric: When <3 month CAC = strong PMF (Product–Market Fit) signal
 
 **#2: Founder-Market Fit** (Founder solves own problem)
 - Brett Williams built DesignJoy for designers (himself)
